@@ -17,6 +17,7 @@ class MemberList
           .flat_map { |posn| posn.split(/, (?=Second Minister)/) }
           .flat_map { |posn| posn.split(/ and (?=Minister)/) }
           .map(&:tidy)
+          .reject { |posn| posn.include? 'Second Minister' } # TODO: include these
     end
   end
 

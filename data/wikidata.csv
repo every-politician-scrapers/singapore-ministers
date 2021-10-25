@@ -1,5 +1,6 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q1984113,Dr NG Eng Hen,Ng Eng Hen,male,1958-12-10T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q19840113,Minister for Defence,Q1984113-a4a1b7ba-45a4-d2b0-247e-9d3b910d9556
+Q72409737,Dr TAN See Leng,Tan See Leng,male,1964-12-24T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q6865922,Minister for Manpower,Q72409737-7C524534-0A71-46BF-ACDC-A993C6F47905
 Q7937671,Dr Vivian BALAKRISHNAN,Vivian Balakrishnan,male,1961-01-25T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q256213,Minister for Foreign Affairs,Q7937671-3447513E-6FE6-410F-8080-65D1925217C2
 Q5714209,Heng Swee Keat,Heng Swee Keat,male,1961-11-01T00:00:00Z,11,,Q97704065,Coordinating Minister for Economic Policies,Q5714209-4B187568-0E57-435F-89CA-B5362CFAE2EC
 Q5714209,Heng Swee Keat,Heng Swee Keat,male,1961-11-01T00:00:00Z,11,,Q5261072,Deputy Prime Minister of Singapore,Q5714209-D62D5E44-3B71-441C-BDED-D922925EBC43
@@ -8,7 +9,6 @@ Q57643,Lee Hsien Loong,Lee Hsien Loong,male,1952-02-10T00:00:00Z,11,,Q866756,Pri
 Q17722375,Masagos Zulkifli,Masagos Zulkifli,male,1963-04-16T00:00:00Z,11,,Q6865720,Minister-in-charge of Muslim Affairs,Q17722375-D343A5FA-E7F6-4C23-8546-1EEFFE66B744
 Q5070296,Mr CHAN Chun Sing,Chan Chun Sing,male,1969-10-09T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q61961268,Minister for Education,Q5070296-64f75493-4b66-e63a-573d-e4211553ee8f
 Q6504758,Mr Lawrence WONG,Lawrence Wong,male,1972-12-18T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q6118636,Minister for Finance,Q6504758-C833C3A5-8E68-4389-88E3-ED5B7F164ACB
-Q72409737,Tan See Leng,Tan See Leng,male,1964-12-24T00:00:00Z,11,,Q6865922,Minister for Manpower,Q72409737-7C524534-0A71-46BF-ACDC-A993C6F47905
 Q3518218,Teo Chee Hean,Teo Chee Hean,male,1954-12-27T00:00:00Z,11,,Q5137493,Co-ordinating Minister for National Security,Q3518218-B3C5F7F8-A154-4887-8F2D-0F895C6C321E
 Q3518218,Teo Chee Hean,Teo Chee Hean,male,1954-12-27T00:00:00Z,11,,Q20983917,Senior Minister,Q3518218-CA40E423-BD21-4025-B333-F4B4C3A41C18
 Q983752,Tharman Shanmugaratnam,Tharman Shanmugaratnam,male,1957-01-22T00:00:00Z,11,,Q24932297,Co-ordinating Minister for Economic and Social Policies,Q983752-DF8A13D7-75A3-42C4-950A-008FF1931C7D
