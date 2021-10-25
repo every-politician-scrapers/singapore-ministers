@@ -1,15 +1,25 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+Q6743667,Dr MOHAMAD MALIKI Bin Osman,Maliki Osman,male,1965-07-19T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109122093,"Minister, Prime Minister's Office",Q6743667-F55B569B-BE85-45FC-8B7D-37A6E4378C61
 Q1984113,Dr NG Eng Hen,Ng Eng Hen,male,1958-12-10T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q19840113,Minister for Defence,Q1984113-a4a1b7ba-45a4-d2b0-247e-9d3b910d9556
 Q72409737,Dr TAN See Leng,Tan See Leng,male,1964-12-24T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q6865922,Minister for Manpower,Q72409737-7C524534-0A71-46BF-ACDC-A993C6F47905
 Q7937671,Dr Vivian BALAKRISHNAN,Vivian Balakrishnan,male,1961-01-25T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q256213,Minister for Foreign Affairs,Q7937671-3447513E-6FE6-410F-8080-65D1925217C2
-Q5714209,Heng Swee Keat,Heng Swee Keat,male,1961-11-01T00:00:00Z,11,,Q97704065,Coordinating Minister for Economic Policies,Q5714209-4B187568-0E57-435F-89CA-B5362CFAE2EC
-Q5714209,Heng Swee Keat,Heng Swee Keat,male,1961-11-01T00:00:00Z,11,,Q5261072,Deputy Prime Minister of Singapore,Q5714209-D62D5E44-3B71-441C-BDED-D922925EBC43
-Q6324008,K. Shanmugam,K. Shanmugam,male,1959-03-26T00:00:00Z,11,,Q11393870,Minister for Home Affairs,Q6324008-D399B6BA-8A7D-4112-8358-7DC47B68F760
-Q57643,Lee Hsien Loong,Lee Hsien Loong,male,1952-02-10T00:00:00Z,11,,Q866756,Prime Minister of Singapore,q57643-146b9691-43ae-517d-61f5-7c7c11149888
-Q17722375,Masagos Zulkifli,Masagos Zulkifli,male,1963-04-16T00:00:00Z,11,,Q6865720,Minister-in-charge of Muslim Affairs,Q17722375-D343A5FA-E7F6-4C23-8546-1EEFFE66B744
 Q5070296,Mr CHAN Chun Sing,Chan Chun Sing,male,1969-10-09T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q61961268,Minister for Education,Q5070296-64f75493-4b66-e63a-573d-e4211553ee8f
+Q16215886,Mr Desmond LEE,Desmond Lee,male,1976-07-15T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109121768,Minister for National Development,Q16215886-5F25BC41-DFD4-4154-BF7D-E04C1A63B5F9
+Q5346875,Mr Edwin TONG,Edwin Tong,male,1969-08-12T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109121114,"Minister for Culture, Community and Youth",Q5346875-DF711574-8967-4DF5-9819-55CC7EF3DBB3
+Q5520446,Mr GAN Kim Yong,Gan Kim Yong,male,1952-12-08T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q20983892,Minister for Trade and Industry,Q5520446-723F3E3D-29E8-40DE-B871-EEE843085B39
+Q5714209,Mr HENG Swee Keat,Heng Swee Keat,male,1961-11-01T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q97704065,Coordinating Minister for Economic Policies,Q5714209-4B187568-0E57-435F-89CA-B5362CFAE2EC
+Q5714209,Mr HENG Swee Keat,Heng Swee Keat,male,1961-11-01T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q5261072,Deputy Prime Minister,Q5714209-D62D5E44-3B71-441C-BDED-D922925EBC43
+Q6324008,Mr K Shanmugam,K. Shanmugam,male,1959-03-26T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q11393870,Minister for Home Affairs,Q6324008-D399B6BA-8A7D-4112-8358-7DC47B68F760
+Q6324008,Mr K Shanmugam,K. Shanmugam,male,1959-03-26T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q6865909,Minister for Law,Q6324008-694E487C-7656-46C3-A29A-810E559781AB
+Q57643,Mr LEE Hsien Loong,Lee Hsien Loong,male,1952-02-10T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q866756,Prime Minister,q57643-146b9691-43ae-517d-61f5-7c7c11149888
 Q6504758,Mr Lawrence WONG,Lawrence Wong,male,1972-12-18T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q6118636,Minister for Finance,Q6504758-C833C3A5-8E68-4389-88E3-ED5B7F164ACB
-Q3518218,Teo Chee Hean,Teo Chee Hean,male,1954-12-27T00:00:00Z,11,,Q5137493,Co-ordinating Minister for National Security,Q3518218-B3C5F7F8-A154-4887-8F2D-0F895C6C321E
-Q3518218,Teo Chee Hean,Teo Chee Hean,male,1954-12-27T00:00:00Z,11,,Q20983917,Senior Minister,Q3518218-CA40E423-BD21-4025-B333-F4B4C3A41C18
-Q983752,Tharman Shanmugaratnam,Tharman Shanmugaratnam,male,1957-01-22T00:00:00Z,11,,Q24932297,Co-ordinating Minister for Economic and Social Policies,Q983752-DF8A13D7-75A3-42C4-950A-008FF1931C7D
-Q983752,Tharman Shanmugaratnam,Tharman Shanmugaratnam,male,1957-01-22T00:00:00Z,11,,Q20983917,Senior Minister,Q983752-AA77353D-F750-41B7-A426-8DF0CEF6396A
+Q17722375,Mr MASAGOS Zulkifli,Masagos Zulkifli,male,1963-04-16T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109192615,Minister for Social and Family Development,Q17722375-3B47FE9A-C9EA-44F2-90FB-82B556F3D3B7
+Q7093820,Mr ONG Ye Kung,Ong Ye Kung,male,1969-11-15T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q20983896,Minister for Health,Q7093820-c7c56d2b-4e69-01da-faab-cf7374aa3412
+Q7387540,Mr S Iswaran,S. Iswaran,male,1962-06-14T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109191061,Minister for Transport,Q7387540-AD880592-09FC-44CD-BF11-E332348C408B
+Q3518218,Mr TEO Chee Hean,Teo Chee Hean,male,1954-12-27T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q5137493,Coordinating Minister for National Security,Q3518218-B3C5F7F8-A154-4887-8F2D-0F895C6C321E
+Q3518218,Mr TEO Chee Hean,Teo Chee Hean,male,1954-12-27T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q20983917,Senior Minister,Q3518218-CA40E423-BD21-4025-B333-F4B4C3A41C18
+Q983752,Mr Tharman SHANMUGARATNAM,Tharman Shanmugaratnam,male,1957-01-22T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q24932297,Coordinating Minister for Social Policies,Q983752-DF8A13D7-75A3-42C4-950A-008FF1931C7D
+Q983752,Mr Tharman SHANMUGARATNAM,Tharman Shanmugaratnam,male,1957-01-22T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q20983917,Senior Minister,Q983752-AA77353D-F750-41B7-A426-8DF0CEF6396A
+Q16204683,Mrs Josephine TEO,Josephine Teo,female,1968-07-08T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109121763,Minister for Communications and Information,Q16204683-A89905AA-A95A-4928-A0DE-3B834AC0D639
+Q5591179,Ms Grace FU Hai Yien,Grace Fu,female,1964-03-29T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109121637,Minister for Sustainability and the Environment,Q5591179-B6B0328C-BCF6-4863-A22B-863870960883
+Q6026908,Ms Indranee THURAI RAJAH,Indranee Rajah,female,1963-04-12T00:00:00Z,11,https://www.pmo.gov.sg/The-Cabinet,Q109122093,"Minister, Prime Minister's Office",Q6026908-E5167B31-8B78-40B0-B7EF-5517495B96EE
