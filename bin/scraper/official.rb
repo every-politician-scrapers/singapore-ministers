@@ -12,6 +12,11 @@ class MemberList
 
     def position
       noko.css('.qna').text.tidy
+          .split(/ and (?=Coordinating Minister)/)
+          .flat_map { |posn| posn.split(/ and (?=Second Minister)/) }
+          .flat_map { |posn| posn.split(/, (?=Second Minister)/) }
+          .flat_map { |posn| posn.split(/ and (?=Minister)/) }
+          .map(&:tidy)
     end
   end
 
