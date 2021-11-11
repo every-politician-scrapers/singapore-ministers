@@ -1,0 +1,8 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q15939298,First Lim Yew Hock Cabinet,1956-06-07,11,,,1959-06-03,11,,,Q5015558,Cabinet of Singapore,,,Q15939292,First David Marshall Cabinet,Q5452581,First Cabinet of Singapore,Q15939292,First David Marshall Cabinet,Q5452581,First Cabinet of Singapore
+,Q5452581,First Cabinet of Singapore,1959-06-05,11,,,1963-10-18,11,,,Q5015558,Cabinet of Singapore,,,Q15939298,First Lim Yew Hock Cabinet,Q15939003,Second Lee Kuan Yew Cabinet,Q15939298,First Lim Yew Hock Cabinet,Q15939003,Second Lee Kuan Yew Cabinet
+,Q15938992,First Goh Chok Tong Cabinet,1990-11-28,11,,,1991-08-31,11,,,Q5015558,Cabinet of Singapore,,,Q30639686,Eighth Lee Kuan Yew Cabinet,Q24932519,Second Goh Chok Tong Cabinet,,,,
+,Q7443396,Second Lee Hsien Loong Cabinet,2006-05-30,11,,,2011-05-20,11,,,Q5015558,Cabinet of Singapore,,,,,,,Q21190585,First Lee Hsien Loong Cabinet,Q7784887,Third Lee Hsien Loong Cabinet
+,Q7784887,Third Lee Hsien Loong Cabinet,2011-05-21,11,,,2015-09-30,11,,,Q640506,cabinet,,,,,Q20983850,Fourth Lee Hsien Loong Cabinet,Q7443396,Second Lee Hsien Loong Cabinet,Q20983850,Fourth Lee Hsien Loong Cabinet
+15,Q20983850,Fourth Lee Hsien Loong Cabinet,2015-10-01,11,,,2020-07-26,11,,,Q5015558,Cabinet of Singapore,,,Q7784887,Third Lee Hsien Loong Cabinet,Q97667547,Fifth Lee Hsien Loong Cabinet,Q7784887,Third Lee Hsien Loong Cabinet,,
+16,Q97667547,Fifth Lee Hsien Loong Cabinet,2020-07-27,11,,,,,,,Q5015558,Cabinet of Singapore,,,Q20983850,Fourth Lee Hsien Loong Cabinet,,,Q20983850,Fourth Lee Hsien Loong Cabinet,,
