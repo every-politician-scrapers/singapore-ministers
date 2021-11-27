@@ -57,15 +57,15 @@
               }
             },
             {
-              "text": "He served as the Deputy Prime Minister from 1990 to 2004 and was Finance Minister from 2001 to 2007.",
+              "text": "He served as the deputy prime minister from 1990 to 2004 and was finance minister from 2001 to 2007.",
               "links": [
                 {
-                  "text": "Deputy Prime Minister",
+                  "text": "deputy prime minister",
                   "type": "internal",
                   "page": "Deputy Prime Minister of Singapore"
                 },
                 {
-                  "text": "Finance Minister",
+                  "text": "finance minister",
                   "type": "internal",
                   "page": "Ministry of Finance (Singapore)"
                 }
@@ -624,7 +624,7 @@
             }
           },
           "office2": {
-            "text": "3rd Secretary-General\nof the People's Action Party"
+            "text": "Secretary-General\nof the People's Action Party"
           },
           "term_start2": {
             "text": "2 December 2004"

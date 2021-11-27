@@ -459,6 +459,15 @@
               }
             ]
           },
+          "primeminister4": {
+            "text": "Lee Hsien Loong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lee Hsien Loong"
+              }
+            ]
+          },
           "minister4": {
             "text": "Ng Eng Hen",
             "links": [
@@ -474,6 +483,20 @@
           "term_end4": {
             "text": "30 April 2018"
           },
+          "successor4": {
+            "text": "Heng Chee How (as Senior Minister for Defence)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heng Chee How"
+              },
+              {
+                "text": "Senior Minister for Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Singapore)"
+              }
+            ]
+          },
           "office5": {
             "text": "Senior Minister of State Ministry of Defence",
             "links": [
@@ -481,6 +504,15 @@
                 "text": "Ministry of Defence",
                 "type": "internal",
                 "page": "Ministry of Defence (Singapore)"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Lee Hsien Loong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lee Hsien Loong"
               }
             ]
           },
@@ -496,6 +528,16 @@
               {
                 "type": "internal",
                 "page": "Ng Eng Hen"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "himself (as second Minister of Defence)",
+            "links": [
+              {
+                "text": " second Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Singapore)"
               }
             ]
           },
