@@ -452,6 +452,48 @@
           "term_start4": {
             "text": "10 July 2020"
           },
+          "predecessor4": {
+            "text": "Lim Swee Say (PAP)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lim Swee Say"
+              },
+              {
+                "text": "PAP",
+                "type": "internal",
+                "page": "People's Action Party"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Sin Boon Ann (PAP)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sin Boon Ann"
+              },
+              {
+                "text": "PAP",
+                "type": "internal",
+                "page": "People's Action Party"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Koh Poh Koon (PAP)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Koh Poh Koon"
+              },
+              {
+                "text": "PAP",
+                "type": "internal",
+                "page": "People's Action Party"
+              }
+            ]
+          },
           "office5": {
             "text": "Member of Parliament\nfor Tampines GRC",
             "links": [

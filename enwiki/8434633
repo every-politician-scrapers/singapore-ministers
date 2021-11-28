@@ -550,10 +550,10 @@
       ],
       "references": [
         {
+          "url": "https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/gan-kim-yong",
+          "title": "MP &#124; Parliament of Singapore",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
@@ -974,9 +974,9 @@
           "first": "Amir",
           "last": "Hussain",
           "date": "17 February 2018",
-          "via": "The Straits Times",
+          "newspaper": "The Straits Times",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.straitstimes.com/singapore/wuhan-virus-task-force-singapores-high-powered-members",
