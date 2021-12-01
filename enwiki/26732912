@@ -420,6 +420,27 @@
           "term_end3": {
             "text": "30 April 2018"
           },
+          "successor3": {
+            "text": "Ng Chee Meng (2018–2020) Tan See Leng (2020–2021) Maliki Osman (since 2020) Indranee Rajah (since 2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ng Chee Meng"
+              },
+              {
+                "type": "internal",
+                "page": "Tan See Leng"
+              },
+              {
+                "type": "internal",
+                "page": "Maliki Osman"
+              },
+              {
+                "type": "internal",
+                "page": "Indranee Rajah"
+              }
+            ]
+          },
           "office4": {
             "text": "Secretary-General of the\nNational Trades Union Congress",
             "links": [

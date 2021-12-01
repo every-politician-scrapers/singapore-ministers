@@ -488,10 +488,10 @@
             ]
           },
           "order7": {
-            "text": "Member of Parliament for Pasir Ris–Punggol GRC (Pasir Ris West)",
+            "text": "Member of Parliament for\nPasir Ris–Punggol GRC\n(Pasir Ris West)",
             "links": [
               {
-                "text": "Parliament",
+                "text": "Member of Parliament",
                 "type": "internal",
                 "page": "Parliament of Singapore"
               },
@@ -505,19 +505,24 @@
             "text": "17 October 2001"
           },
           "predecessor7": {
-            "text": "himself (Pasir Ris GRC:Pasir Ris Loyang)",
+            "text": "Himself (Pasir Ris GRC; Pasir Ris Loyang)",
             "links": [
               {
                 "type": "internal",
                 "page": "Pasir Ris GRC"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "majority7": {
             "text": "44,466 (28.30%)"
           },
           "order8": {
-            "text": "Member of Parliament for Pasir Ris GRC (Pasir Ris Loyang)",
+            "text": "Member of Parliament for\nPasir Ris GRC\n(Pasir Ris–Loyang)",
             "links": [
               {
                 "type": "internal",
@@ -532,7 +537,7 @@
             "text": "17 October 2001"
           },
           "predecessor8": {
-            "text": "Charles Chong (Eunos GRC-Pasir Ris)",
+            "text": "Charles Chong (Eunos GRC; Pasir Ris)",
             "links": [
               {
                 "type": "internal",
@@ -541,16 +546,21 @@
             ]
           },
           "successor8": {
-            "text": "himself (Pasir Ris–Punggol GRC:Pasir Ris West ward)",
+            "text": "Himself (Pasir Ris–Punggol GRC; Pasir Ris West)",
             "links": [
               {
                 "type": "internal",
                 "page": "Pasir Ris–Punggol GRC"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "order9": {
-            "text": "Member of Parliament for Marine Parade GRC (Joo Chiat)",
+            "text": "Member of Parliament for\nMarine Parade GRC\n(Joo Chiat)",
             "links": [
               {
                 "type": "internal",
@@ -572,7 +582,7 @@
             "text": "Lim Chee Onn"
           },
           "successor9": {
-            "text": "Chan Soo Sen (East Coast GRC:Joo Chiat)",
+            "text": "Chan Soo Sen (East Coast GRC; Joo Chiat)",
             "links": [
               {
                 "type": "internal",
@@ -613,7 +623,7 @@
             ]
           },
           "spouse": {
-            "text": "Chew Poh Yim (died.2021)"
+            "text": "Chew Poh Yim (died. 2021)"
           },
           "children": {
             "text": "2",
@@ -630,7 +640,7 @@
             ]
           },
           "party": {
-            "text": "People's Action Party (1992)",
+            "text": "People's Action Party",
             "links": [
               {
                 "type": "internal",

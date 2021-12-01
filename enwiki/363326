@@ -369,6 +369,18 @@
           "template": "army"
         },
         {
+          "text": "3",
+          "template": "sup"
+        },
+        {
+          "text": "3",
+          "template": "sup"
+        },
+        {
+          "text": "2",
+          "template": "sup"
+        },
+        {
           "list": [
             "l",
             "i",
@@ -383,6 +395,18 @@
             "2"
           ],
           "template": "ipac-cmn"
+        },
+        {
+          "text": "5",
+          "template": "sup"
+        },
+        {
+          "text": "2",
+          "template": "sup"
+        },
+        {
+          "text": "4",
+          "template": "sup"
         },
         {
           "list": [
@@ -738,10 +762,10 @@
             "text": "Lǐ Xiǎnlóng"
           },
           "w": {
-            "text": "Li 3 Hsien 3 -lung 2"
+            "text": "Li3 Hsien3-lung2"
           },
           "j": {
-            "text": "Lei 5 Hin 2 -lung 4"
+            "text": "Lei5 Hin2-lung4"
           },
           "y": {
             "text": "Léih Hín-lùhng"
