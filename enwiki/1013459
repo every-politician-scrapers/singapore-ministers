@@ -594,6 +594,16 @@
               }
             ]
           },
+          "allegiance": {
+            "text": "🇸🇬 Singapore",
+            "links": [
+              {
+                "text": "Singapore",
+                "type": "internal",
+                "page": "singapore"
+              }
+            ]
+          },
           "serviceyears": {
             "text": "1972–1992"
           },
@@ -607,7 +617,14 @@
             ]
           },
           "commands": {
-            "text": "Chief of Navy (1991-92)"
+            "text": "Chief of Navy (1991–1992)",
+            "links": [
+              {
+                "text": "Chief of Navy",
+                "type": "internal",
+                "page": "Chief of Navy (Singapore)"
+              }
+            ]
           },
           "birth_date": {
             "text": "December 27, 1954"

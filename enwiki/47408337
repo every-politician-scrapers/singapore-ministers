@@ -21,16 +21,17 @@
         {
           "sentences": [
             {
-              "text": "Melvyn Ong Su Kiat (born 1975) is a Singapore army general and the current Chief of Defence Force of the Singapore Armed Forces as of 23 March 2018.",
+              "text": "Melvyn Ong Su Kiat (born 1975) is a Singaporean lieutenant-general current serving as the Chief of Defence Force since 2018.",
               "links": [
+                {
+                  "text": "lieutenant-general",
+                  "type": "internal",
+                  "page": "lieutenant-general"
+                },
                 {
                   "text": "Chief of Defence Force",
                   "type": "internal",
                   "page": "Chief of Defence Force (Singapore)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Singapore Armed Forces"
                 }
               ],
               "formatting": {
@@ -40,21 +41,12 @@
               }
             },
             {
-              "text": "Before promotion to CDF, he was the Chief of the Singapore Army until 21 March 2018.",
+              "text": "Before his promotion to CDF, he served as the Chief of Army between 2015 and 2018.",
               "links": [
                 {
+                  "text": "Chief of Army",
                   "type": "internal",
                   "page": "Singapore Army"
-                }
-              ]
-            },
-            {
-              "text": "He holds the rank of Lieutenant-General.",
-              "links": [
-                {
-                  "text": "Lieutenant-General",
-                  "type": "internal",
-                  "page": "Lieutenant general"
                 }
               ]
             }
@@ -71,7 +63,14 @@
           "template": "birth year and age"
         },
         {
-          "template": "flagicon image"
+          "list": [
+            "Singapore"
+          ],
+          "template": "army"
+        },
+        {
+          "_list": "PPA(E) PPA(P)",
+          "template": "post-nominals"
         },
         {
           "list": [
@@ -94,13 +93,13 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Melvyn Ong Su Kiat"
+            "text": "Melvyn Ong"
           },
           "image": {
             "text": "Lt. Gen. Melvyn Ong, Chief of Defence Force, Singapore Armed Forces.jpg"
           },
           "caption": {
-            "text": "Ong in October 2019"
+            "text": "Ong in 2019"
           },
           "birth_date": {
             "text": "1975 (age 46)"
@@ -137,10 +136,10 @@
             ]
           },
           "office1": {
-            "text": "Chief Of Army",
+            "text": "Chief of Army",
             "links": [
               {
-                "text": "Chief Of Army",
+                "text": "Chief of Army",
                 "type": "internal",
                 "page": "Singapore Army"
               }
@@ -180,15 +179,6 @@
               }
             ]
           },
-          "branch": {
-            "text": "Singapore Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Singapore Army"
-              }
-            ]
-          },
           "serviceyears": {
             "text": "1994–present"
           },
@@ -202,7 +192,7 @@
             ]
           },
           "commands": {
-            "text": "* Commander, 7th Singapore Infantry Brigade (2010-2011)\n* Head, Joint Plans and Transformation Department\n* Chief Guards Officer (2014-2015)\n* Chief of Army (2015-2018)\n* Chief of Defence Force (2018-present)",
+            "text": "* Commander, 7th Singapore Infantry Brigade (2010–2011)\n* Head, Joint Plans and Transformation Department\n* Chief Guards Officer (2014–2015)\n* Chief of Army (2015–2018)\n* Chief of Defence Force (2018–present)",
             "links": [
               {
                 "text": "Guards",
@@ -221,18 +211,8 @@
               }
             ]
           },
-          "honorific-suffix": {
-            "text": "PPA(E) PPA(P)",
-            "links": [
-              {
-                "text": "PPA(E) PPA(P)",
-                "type": "internal",
-                "page": "Pingat Pentadbiran Awam (Tentera)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Anglo-Chinese School (Independent) National Junior College London School of Economics Indonesian Army Command and General Staff College",
+          "education": {
+            "text": "Anglo-Chinese School (Independent)\nNational Junior College",
             "links": [
               {
                 "type": "internal",
@@ -241,7 +221,12 @@
               {
                 "type": "internal",
                 "page": "National Junior College"
-              },
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "London School of Economics\nIndonesian Army Command and General Staff College",
+            "links": [
               {
                 "type": "internal",
                 "page": "London School of Economics"
