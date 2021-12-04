@@ -230,9 +230,9 @@
         {
           "title": "See list",
           "list": [
-            "S. R. Nathan (1999-2011)",
-            "Tony Tan (2011-2017)",
-            "Halimah Yacob (2017-present)"
+            "S. R. Nathan (1999–2011)",
+            "Tony Tan (2011–2017)",
+            "Halimah Yacob (2017–present)"
           ],
           "template": "list collapsed"
         },
@@ -272,7 +272,7 @@
             "text": "Tharman in 2010"
           },
           "office": {
-            "text": "5th Senior Minister of Singapore",
+            "text": "Senior Minister of Singapore",
             "links": [
               {
                 "type": "internal",
@@ -302,10 +302,10 @@
             "text": "1 May 2019"
           },
           "predecessor": {
-            "text": "Seat Vacant",
+            "text": "Vacant",
             "formatting": {
               "italic": [
-                "Seat Vacant"
+                "Vacant"
               ]
             }
           },
@@ -342,15 +342,15 @@
             "text": "1 October 2015 Economic and Social Policies : 1 October 2015 – 30 April 2019"
           },
           "predecessor1": {
-            "text": "Position established",
+            "text": "Office established",
             "formatting": {
               "italic": [
-                "Position established"
+                "Office established"
               ]
             }
           },
           "successor1": {
-            "text": "Heng Swee Keat (Co-ordinating Minister for Economic Policies)",
+            "text": "Heng Swee Keat (Coordinating Minister for Economic Policies)",
             "links": [
               {
                 "type": "internal",
@@ -359,7 +359,7 @@
             ]
           },
           "office2": {
-            "text": "6th Deputy Prime Minister of Singapore",
+            "text": "Deputy Prime Minister of Singapore",
             "links": [
               {
                 "type": "internal",
@@ -478,8 +478,7 @@
             ],
             "formatting": {
               "italic": [
-                "Himself",
-                "present"
+                "Himself"
               ]
             }
           },
@@ -493,7 +492,7 @@
             ]
           },
           "deputy4": {
-            "text": "Lim Hng Kiang (2006-2021) Lawrence Wong (2021-present)",
+            "text": "Lim Hng Kiang (2006–2021) Lawrence Wong (2021–present)",
             "links": [
               {
                 "type": "internal",
@@ -503,12 +502,7 @@
                 "type": "internal",
                 "page": "Lawrence Wong"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "present"
-              ]
-            }
+            ]
           },
           "term_start4": {
             "text": "1 May 2011"
@@ -659,14 +653,14 @@
             ]
           },
           "education": {
-            "text": "London School of Economics (BSc) University of Cambridge (MPhil) Harvard University (MPA)",
+            "text": "London School of Economics (BS) University of Cambridge (MPhil) Harvard University (MPA)",
             "links": [
               {
                 "type": "internal",
                 "page": "London School of Economics"
               },
               {
-                "text": "BSc",
+                "text": "BS",
                 "type": "internal",
                 "page": "Bachelor of Science"
               },

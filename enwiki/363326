@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who has served as Prime Minister of Singapore and secretary-general of the ruling People's Action Party (PAP) since 2004.",
+              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who is currently serving as the Prime Minister of Singapore and secretary-general of the People's Action Party (PAP) since 2004.",
               "links": [
                 {
                   "type": "internal",
@@ -55,9 +55,13 @@
                   "Lee Hsien Loong"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He served as the deputy prime minister from 1990 to 2004 and was finance minister from 2001 to 2007.",
+              "text": "Prior to his appointment as prime minister, he served as the deputy prime minister between 1990 and 2004 and was the finance minister between 2001 and 2007.",
               "links": [
                 {
                   "text": "deputy prime minister",
@@ -423,6 +427,11 @@
             "4"
           ],
           "template": "ipac-yue"
+        },
+        {
+          "c": "李显龙",
+          "p": "Lǐ Xiǎnlóng",
+          "template": "zh"
         }
       ],
       "infoboxes": [
@@ -549,11 +558,11 @@
         },
         {
           "honorific-prefix": {
-            "text": "His Excellency",
+            "text": "The Honourable",
             "links": [
               {
                 "type": "internal",
-                "page": "His Excellency"
+                "page": "The Honourable"
               }
             ]
           },
@@ -570,13 +579,7 @@
             "text": "Lee Hsien Loong 2016 (cropped).jpg"
           },
           "caption": {
-            "text": "Lee at The Pentagon in 2016",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Pentagon"
-              }
-            ]
+            "text": "Lee in 2016"
           },
           "office": {
             "text": "Prime Minister of Singapore"
@@ -658,10 +661,10 @@
             "text": "Wong Ming Yang (m. 20 May 1978-28 October 1982)\nHo Ching (m. 17 December 1985)"
           },
           "children": {
-            "text": "Daughter – Li Xiuqi Son – Li Yipeng Son – Li Hongyi Son – Li Haoyi"
+            "text": "Li Xiuqi (daughter) Li Yipeng (son) Li Hongyi (son) Li Haoyi (son)"
           },
           "parents": {
-            "text": "Father – Lee Kuan Yew\nMother – Kwa Geok Choo",
+            "text": "Lee Kuan Yew (father)\nKwa Geok Choo (mother)",
             "links": [
               {
                 "type": "internal",
@@ -674,7 +677,7 @@
             ]
           },
           "relatives": {
-            "text": "Brother – Lee Hsien Yang\nSister – Lee Wei Ling",
+            "text": "Lee Hsien Yang (brother)\nLee Wei Ling (sister)",
             "links": [
               {
                 "type": "internal",
@@ -721,11 +724,21 @@
           "signature": {
             "text": "Lee Hsien Loong signature.svg"
           },
+          "allegiance": {
+            "text": "🇸🇬 Singapore",
+            "links": [
+              {
+                "text": "Singapore",
+                "type": "internal",
+                "page": "singapore"
+              }
+            ]
+          },
           "serviceyears": {
             "text": "1971–1984"
           },
           "rank": {
-            "text": "Brigadier-General",
+            "text": "08-RSA-OF06.svg Brigadier-General",
             "links": [
               {
                 "text": "Brigadier-General",

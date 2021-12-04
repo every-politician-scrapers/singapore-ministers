@@ -184,7 +184,10 @@
           "template": "use dmy dates"
         },
         {
-          "template": "flagicon image"
+          "list": [
+            "Singapore"
+          ],
+          "template": "army"
         },
         {
           "list": [
@@ -353,7 +356,7 @@
             "text": "14 May 2021"
           },
           "predecessor1": {
-            "text": "Lim Hng Kiang\n(Trade)\nS. Iswaran\n(Industry)",
+            "text": "Lim Hng Kiang (Trade)\nS. Iswaran (Industry)",
             "links": [
               {
                 "type": "internal",
@@ -421,7 +424,7 @@
             "text": "30 April 2018"
           },
           "successor3": {
-            "text": "Ng Chee Meng (2018–2020) Tan See Leng (2020–2021) Maliki Osman (since 2020) Indranee Rajah (since 2018)",
+            "text": "Ng Chee Meng (2018–2020) Tan See Leng (2020–2021) Maliki Osman (2020–present) Indranee Rajah (2018–present)",
             "links": [
               {
                 "type": "internal",
@@ -606,12 +609,13 @@
           "signature": {
             "text": "Chan Chun Sing signature.svg"
           },
-          "branch": {
-            "text": "Singapore Army",
+          "allegiance": {
+            "text": "🇸🇬 Singapore",
             "links": [
               {
+                "text": "Singapore",
                 "type": "internal",
-                "page": "Singapore Army"
+                "page": "singapore"
               }
             ]
           },
@@ -628,7 +632,18 @@
             ]
           },
           "commands": {
-            "text": "2nd Battalion, Singapore Infantry Regiment,\n\n10th Singapore Infantry Brigade,\n\n9th Division, Chief Infantry Officer, Chief of Staff – Joint Staff, Chief of Army"
+            "text": "* 2nd Battalion, Singapore Infantry Regiment\n* 10th Singapore Infantry Brigade\n* 9th Division\n* Chief Infantry Officer\n* Chief of Staff – Joint Staff\n* Chief of Army (2010–2011)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Singapore Infantry Regiment"
+              },
+              {
+                "text": "Army",
+                "type": "internal",
+                "page": "Singapore Army"
+              }
+            ]
           }
         }
       ],
