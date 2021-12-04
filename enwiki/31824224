@@ -170,6 +170,12 @@
         },
         {
           "list": [
+            "Singapore"
+          ],
+          "template": "army"
+        },
+        {
+          "list": [
             "Tan"
           ],
           "lang": "Chinese",
@@ -233,7 +239,7 @@
             ]
           },
           "deputy1": {
-            "text": "Christopher de Souza\n(since 2020) \nJessica Tan\n(since 2020)",
+            "text": "Christopher de Souza\n(2020–present) \nJessica Tan\n(2020–present)",
             "links": [
               {
                 "type": "internal",
@@ -433,45 +439,44 @@
             ]
           },
           "alma_mater": {
-            "text": "National University of Singapore\n\nKing's College London\n\nLondon School of Economics and Political Science\n\nJoint Command and Staff College, UK\n\nRoyal Military Academy, Sandhurst",
+            "text": "National University of Singapore (MPA)\n\nKing's College London (MA)\n\nLondon School of Economics and Political Science (BS)",
             "links": [
               {
                 "type": "internal",
                 "page": "National University of Singapore"
               },
               {
+                "text": "MPA",
+                "type": "internal",
+                "page": "Master of Public Administration"
+              },
+              {
                 "type": "internal",
                 "page": "King's College London"
+              },
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
               },
               {
                 "type": "internal",
                 "page": "London School of Economics and Political Science"
               },
               {
+                "text": "BS",
                 "type": "internal",
-                "page": "Joint Command and Staff College"
-              },
-              {
-                "type": "internal",
-                "page": "Royal Military Academy, Sandhurst"
+                "page": "Bachelor of Science"
               }
             ]
           },
           "allegiance": {
-            "text": "Singapore",
+            "text": "🇸🇬 Singapore",
             "links": [
               {
+                "text": "Singapore",
                 "type": "internal",
-                "page": "Singapore"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Singapore Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Singapore Army"
+                "page": "singapore"
               }
             ]
           },

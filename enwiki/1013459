@@ -82,7 +82,7 @@
         {
           "sentences": [
             {
-              "text": "A recipient of the President's Scholarship and Singapore Armed Forces Overseas Scholarship, Teo started his career in the Republic of Singapore Navy in 1972 and held various staff and command positions before rising to the rank of Rear-Admiral.",
+              "text": "A recipient of the President's Scholarship and Singapore Armed Forces Overseas Scholarship, Teo started his career in the Republic of Singapore Navy (RSN) in 1972 and held various staff and command positions before rising to the rank of Rear-Admiral (two stars).",
               "links": [
                 {
                   "text": "President's Scholarship",
@@ -105,8 +105,12 @@
               ]
             },
             {
-              "text": "He served as Chief of Navy from 1991 to 1992 before retiring from the military."
-            },
+              "text": "He served as the Chief of Navy between 1991 and 1992 before leaving from the Navy."
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "He was elected as a Member of Parliament after winning the 1992 by-election in Marine Parade Group Representation Constituency (GRC) as part of a four-member People's Action Party (PAP) team.",
               "links": [
@@ -171,9 +175,9 @@
         {
           "title": "See list",
           "list": [
-            "S. R. Nathan (1999-2011)",
-            "Tony Tan (2011-2017)",
-            "Halimah Yacob (2017-present)"
+            "S. R. Nathan (1999–2011)",
+            "Tony Tan (2011–2017)",
+            "Halimah Yacob (2017–present)"
           ],
           "template": "list collapsed"
         },
@@ -233,7 +237,7 @@
             "text": "Teo in 2021"
           },
           "office1": {
-            "text": "6th Senior Minister of Singapore",
+            "text": "Senior Minister of Singapore",
             "links": [
               {
                 "type": "internal",
@@ -260,10 +264,10 @@
             ]
           },
           "predecessor1": {
-            "text": "Seat Vacant",
+            "text": "Vacant",
             "formatting": {
               "italic": [
-                "Seat Vacant"
+                "Vacant"
               ]
             }
           },
@@ -666,19 +670,34 @@
             ]
           },
           "alma_mater": {
-            "text": "University of Manchester\nImperial College London\nHarvard University",
+            "text": "University of Manchester (BS)\nImperial College London (MS)\nHarvard University (MPA)",
             "links": [
               {
                 "type": "internal",
                 "page": "University of Manchester"
               },
               {
+                "text": "BS",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              },
+              {
                 "type": "internal",
                 "page": "Imperial College London"
               },
               {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              },
+              {
                 "type": "internal",
                 "page": "Harvard University"
+              },
+              {
+                "text": "MPA",
+                "type": "internal",
+                "page": "Master of Public Administration"
               }
             ]
           },
