@@ -150,15 +150,6 @@
           "term_start": {
             "text": "15 May 2021"
           },
-          "primeminister": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
           "predecessor": {
             "text": "Josephine Teo",
             "links": [
