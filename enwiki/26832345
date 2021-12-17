@@ -404,7 +404,13 @@
             ]
           },
           "spouse": {
-            "text": "Mohammed Abdullah Alhabshee"
+            "text": "Mohammed Abdullah Alhabshee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed Abdullah Alhabshee"
+              }
+            ]
           },
           "children": {
             "text": "5",
