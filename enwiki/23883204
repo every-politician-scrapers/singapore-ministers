@@ -287,11 +287,15 @@
             "text": "Second Minister"
           },
           "1namedata3": {
-            "text": "Edwin Tong",
+            "text": "Edwin Tong (2018-2020) (2020-present) Indranee Rajah (2018)",
             "links": [
               {
                 "type": "internal",
                 "page": "Edwin Tong"
+              },
+              {
+                "type": "internal",
+                "page": "Indranee Rajah"
               }
             ]
           },

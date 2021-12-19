@@ -238,6 +238,18 @@
           "majority1": {
             "text": "32,259 (34.52%)"
           },
+          "1blankname": {
+            "text": "Second Minister"
+          },
+          "1namedata": {
+            "text": "Ong Ye Kung (2016-2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ong Ye Kung"
+              }
+            ]
+          },
           "office2": {
             "text": "Leader of the House",
             "links": [
