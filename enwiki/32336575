@@ -478,6 +478,19 @@
               }
             ]
           },
+          "1blankname2": {
+            "text": "Second Minister"
+          },
+          "1namedata2": {
+            "text": "Desmond Lee",
+            "links": [
+              {
+                "text": "Desmond Lee",
+                "type": "internal",
+                "page": "Desmond Lee (Singaporean politician)"
+              }
+            ]
+          },
           "primeminister2": {
             "text": "Lee Hsien Loong",
             "links": [
