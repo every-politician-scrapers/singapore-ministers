@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who is currently serving as the Prime Minister of Singapore and secretary-general of the People's Action Party (PAP) since 2004.",
+              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who has served as Prime Minister of Singapore and secretary-general of the People's Action Party (PAP) since 2004.",
               "links": [
                 {
                   "type": "internal",
@@ -55,11 +55,7 @@
                   "Lee Hsien Loong"
                 ]
               }
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Prior to his appointment as prime minister, he served as the deputy prime minister between 1990 and 2004 and was the finance minister between 2001 and 2007.",
               "links": [
@@ -315,22 +311,34 @@
         },
         {
           "list": [
-            "Heng Swee Keat",
-            "Tony Tan",
-            "S. Jayakumar",
-            "Wong Kan Seng",
-            "Teo Chee Hean",
-            "Tharman Shanmugaratnam"
+            "Tony Tan (1995–2005)",
+            "S. Jayakumar (2004–2009)",
+            "Wong Kan Seng (2005–2011)",
+            "Teo Chee Hean (2009–2019)",
+            "Tharman S. (2011–2019)"
           ],
           "template": "ubl"
         },
         {
+          "title": "See former",
           "list": [
-            "S. R. Nathan",
-            "Tony Tan",
-            "Halimah Yacob"
+            "Tony Tan (1995–2005)\n\nS. Jayakumar (2004–2009)\n\nWong Kan Seng (2005–2011)\n\nTeo Chee Hean (2009–2019)\n\nTharman S. (2011–2019)"
+          ],
+          "template": "list collapsed"
+        },
+        {
+          "list": [
+            "S. R. Nathan (1999–2011)",
+            "Tony Tan (2011–2017)"
           ],
           "template": "ubl"
+        },
+        {
+          "title": "See former",
+          "list": [
+            "S. R. Nathan (1999–2011)\n\nTony Tan (2011–2017)"
+          ],
+          "template": "list collapsed"
         },
         {
           "list": [
@@ -588,10 +596,22 @@
             "text": "3rd"
           },
           "deputy": {
-            "text": "Heng Swee Keat\n\nTony Tan\n\nS. Jayakumar\n\nWong Kan Seng\n\nTeo Chee Hean\n\nTharman Shanmugaratnam"
+            "text": "Heng Swee Keat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heng Swee Keat"
+              }
+            ]
           },
           "president": {
-            "text": "S. R. Nathan\n\nTony Tan\n\nHalimah Yacob"
+            "text": "Halimah Yacob",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Halimah Yacob"
+              }
+            ]
           },
           "term_start": {
             "text": "12 August 2004"
