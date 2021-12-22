@@ -484,7 +484,7 @@
             "text": "30 April 2018"
           },
           "successor4": {
-            "text": "Heng Chee How (as Senior Minister for Defence)",
+            "text": "Heng Chee How\n(as Senior Minister for Defence)",
             "links": [
               {
                 "type": "internal",
@@ -498,7 +498,7 @@
             ]
           },
           "office5": {
-            "text": "Senior Minister of State Ministry of Defence",
+            "text": "Senior Minister of State\nMinistry of Defence",
             "links": [
               {
                 "text": "Ministry of Defence",
@@ -532,10 +532,10 @@
             ]
           },
           "successor5": {
-            "text": "himself (as second Minister of Defence)",
+            "text": "himself\n(as second Minister of Defence)",
             "links": [
               {
-                "text": " second Minister of Defence",
+                "text": "second Minister of Defence",
                 "type": "internal",
                 "page": "Ministry of Defence (Singapore)"
               }
@@ -569,10 +569,11 @@
           "inline": {}
         },
         {
+          "url": "https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/ong-ye-kung",
+          "title": "MP &#124; Parliament Of Singapore",
+          "website": "www.parliament.gov.sg",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "last": "Lay",
