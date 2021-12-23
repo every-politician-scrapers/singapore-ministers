@@ -169,6 +169,10 @@
       ],
       "templates": [
         {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
           "description": "Singaporean politician",
           "template": "short description"
         },
@@ -714,10 +718,12 @@
           "inline": {}
         },
         {
+          "url": "https://www.pmo.gov.sg/The-Cabinet/Mr-TEO-Chee-Hean",
+          "title": "PMO &#124; Mr TEO Chee Hean",
+          "date": "1 September 2020",
+          "website": "Prime Minister's Office Singapore",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     }
