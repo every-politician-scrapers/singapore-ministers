@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Halimah Binte Yacob (born 23 August 1954) is a Singaporean politician.",
+              "text": "Halimah binti Yacob (born 23 August 1954) is a Singaporean politician.",
               "links": [
                 {
                   "text": "Singaporean",
@@ -41,7 +41,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Halimah Binte Yacob"
+                  "Halimah binti Yacob"
                 ]
               }
             },
@@ -262,7 +262,7 @@
             ]
           },
           "name": {
-            "text": "Halimah Binte Yacob"
+            "text": "Halimah binti Yacob"
           },
           "image": {
             "text": "Republic of Singapore President Halimah Yacob witnesses the program proper during her visit to the Philippine Eagle Center in Davao City on September 11, 2019 (cropped).jpg"
