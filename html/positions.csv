@@ -1,0 +1,33 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q39021,President of Singapore,Q334,Q334,,,1965-08-09,,,,President of Singapore
+Q866756,Prime Minister of Singapore,Q334,Q334,,,1959-06-03,,,,Prime Minister of Singapore
+Q5261072,Deputy Prime Minister of Singapore,Q334,Q334,,,1959-06-03,,,,Deputy Prime Minister of Singapore
+Q20983917,Senior Minister,Q334,,,,1985,,,,Senior Minister
+Q109121763,Minister for Communications and Information,,Q334,,,,,,,
+Q19840113,Minister for Defence,Q334,Q334,,,1965-08-09,,,,List of Ministers for Defence (Singapore)
+Q24932297,Co-ordinating Minister for Economic and Social Policies,Q334,Q334,,,2015-10-01,,,,Coordinating Minister for Social Policies
+Q97704065,Coordinating Minister for Economic Policies,,,,,,,,,Coordinating Minister for Economic Policies
+Q61961268,Minister for Education,Q334,Q334,,Q20716547,1959-06-03,,,,
+Q6118636,Minister for Finance,Q334,Q334,,,,,,,List of Ministers for Finance (Singapore)
+Q256213,Minister for Foreign Affairs,Q334,Q334,,,1965-08-09,,,,List of Ministers for Foreign Affairs (Singapore)
+Q20983896,Minister for Health,Q334,Q334,,,1959-06-05,,,,List of Ministers for Health (Singapore)
+Q11393870,Minister for Home Affairs,Q334,Q334,,,1970-08-11,,,,List of Ministers for Home Affairs (Singapore)
+Q6866005,Minister for the Interior and Defence,,Q334,,,,,,,Minister for the Interior and Defence
+Q6865909,Minister for Law,,,,,1959-06-05,,,,List of Ministers for Law (Singapore)
+Q6865922,Minister for Manpower,Q334,Q334,,,,,,,
+Q109121768,Minister for National Development,,Q334,,,,,,,
+Q5137493,Co-ordinating Minister for National Security,Q334,Q334,,,2003-08-01,,,,Coordinating Minister for National Security (Singapore)
+Q109122093,Minister in the Prime Minister's Office,,Q334,,,,,,,
+Q109123397,Minister for Science and Technology,,Q334,,,,,,,
+Q109192615,Minister for Social and Family Development,,Q334,,,,,,,
+Q109121637,Minister for Sustainability and the Environment,,Q334,,,,,,,
+Q20983892,Minister for Trade and Industry,Q334,,,,1979-03-15,,,,List of Ministers for Trade and Industry (Singapore)
+Q109191061,Minister for Transport,,Q334,,,,,,,
+Q165270,Minister Mentor,,Q334,,,2004-08-12,2011-05-21,,,Minister Mentor
+Q6865720,Minister-in-charge of Muslim Affairs,Q334,Q334,,,,,,,Minister-in-charge of Muslim Affairs
+Q98077903,Leader of the House,,Q334,,,,,,,Leader of the House (Singapore)
+Q6597968,Speaker of the Parliament of Singapore,Q334,,,,1955-06-05,,,,Speaker of the Parliament of Singapore
+Q4818608,Attorney-General of Singapore,Q334,Q334,,,1965-08,,,,Attorney-General of Singapore
+Q5096799,Chief Justice of Singapore,Q334,Q334,,,1965-08-09,,,,Chief Justice of Singapore
+Q5097020,Chief of Defence Force,Q334,,,,1990-05,,,,Chief of Defence Force (Singapore)
+Q109534925,Chairman of the Monetary Authority of Singapore,Q334,,,,,,,,
