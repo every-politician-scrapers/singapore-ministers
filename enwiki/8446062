@@ -200,6 +200,53 @@
         },
         {
           "list": [
+            "Minister"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "list": [
+            "Second Minister"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "list": [
+            "Minister of State"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "list": [
+            "Member of Parliament"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "year": "1968",
+          "month": "07",
+          "day": "08",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
             "Teo / Yong"
           ],
           "lang": "Chinese",
@@ -226,18 +273,6 @@
           },
           "term_end4": {
             "text": "14 May 2021"
-          },
-          "1blankname4": {
-            "text": "Second Minister"
-          },
-          "1namedata4": {
-            "text": "Tan See Leng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tan See Leng"
-              }
-            ]
           },
           "predecessor4": {
             "text": "Lim Swee Say",
@@ -455,7 +490,7 @@
             "text": "yes"
           },
           "office13": {
-            "text": "Member of Parliament\nfor Bishan-Toa Payoh GRC\n(Marymount)",
+            "text": "Member of Parliament\nfor Bishan-Toa Payoh GRC\n(Bishan North)",
             "links": [
               {
                 "type": "internal",
@@ -551,15 +586,6 @@
           "term_start2": {
             "text": "11 September 2017"
           },
-          "primeminister2": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
           "minister2": {
             "text": "K. Shanmugam",
             "links": [
@@ -612,8 +638,7 @@
             "text": "Josephine Yong Li Min"
           },
           "birth_date": {
-            "text": "1968",
-            "number": 1968
+            "text": "July 8, 1968"
           },
           "birth_place": {
             "text": "Singapore",
@@ -652,9 +677,6 @@
                 "page": "London School of Economics"
               }
             ]
-          },
-          "occupation": {
-            "text": "Politician"
           }
         }
       ],
