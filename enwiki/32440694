@@ -155,6 +155,10 @@
       ],
       "templates": [
         {
+          "small": "yes",
+          "template": "pp-semi"
+        },
+        {
           "description": "Singaporean politician",
           "template": "short description"
         },
