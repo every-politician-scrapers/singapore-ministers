@@ -688,48 +688,6 @@
             "text": "Tharman Shanmugaratnam signature.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.channelnewsasia.com/stories/singaporelocalnews/view/338040/1/.html",
-          "title": "PM Lee unveils cabinet changes",
-          "date": "29 March 2008",
-          "work": "Channel News Asia",
-          "location": "Singapore",
-          "first": "May",
-          "last": "Wong",
-          "access-date": "29 March 2008",
-          "archive-date": "31 March 2008",
-          "archive-url": "https://web.archive.org/web/20080331133643/http://www.channelnewsasia.com/stories/singaporelocalnews/view/338040/1/.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.channelnewsasia.com/news/singapore/pm-lee-and-singapore-s/2162926.html",
-          "title": "PM Lee and Singapore's new Cabinet sworn in",
-          "publisher": "CNA",
-          "last1": "Singapore",
-          "first1": "CNA",
-          "access-date": "5 October 2015",
-          "archive-date": "5 October 2015",
-          "archive-url": "https://web.archive.org/web/20151005003054/http://www.channelnewsasia.com/news/singapore/pm-lee-and-singapore-s/2162926.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

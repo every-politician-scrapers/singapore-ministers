@@ -361,25 +361,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Playing to win",
-          "url": "https://www.businesstimes.com.sg/the-raffles-conversation/playing-to-win/",
-          "website": "Business Times (Singapore)",
-          "access-date": "23 October 2019",
-          "archive-date": "23 October 2019",
-          "archive-url": "https://web.archive.org/web/20191023022231/https://www.businesstimes.com.sg/the-raffles-conversation/playing-to-win/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
