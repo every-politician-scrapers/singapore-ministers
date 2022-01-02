@@ -646,28 +646,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.straitstimes.com/politics/heng-picked-as-4g-leader-with-chan-as-deputy",
-          "title": "Heng Swee Keat picked as 4G leader, with Chan Chun Sing as deputy",
-          "last": "hermes",
-          "date": "2018-11-24",
-          "website": "The Straits Times",
-          "language": "en",
-          "access-date": "2019-01-18",
-          "archive-date": "19 January 2019",
-          "archive-url": "https://web.archive.org/web/20190119121218/https://www.straitstimes.com/politics/heng-picked-as-4g-leader-with-chan-as-deputy",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

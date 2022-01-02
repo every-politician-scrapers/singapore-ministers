@@ -482,64 +482,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Dr Vivian Balakrishnan",
-          "url": "https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/vivian-balakrishnan",
-          "website": "Parliament of Singapore",
-          "access-date": "15 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Dr Vivian BALAKRISHNAN",
-          "url": "https://www.pmo.gov.sg/cabinet/Dr-Vivian-BALAKRISHNAN",
-          "website": "Prime Minister's Office Singapore",
-          "access-date": "15 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "2001 PARLIAMENTARY GENERAL ELECTION RESULTS",
-          "url": "https://www.eld.gov.sg/elections_past_parliamentary2001.html",
-          "website": "Elections Department Singapore",
-          "access-date": "15 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "2006 PARLIAMENTARY GENERAL ELECTION RESULTS",
-          "url": "https://www.eld.gov.sg/elections_past_parliamentary2006.html",
-          "website": "Elections Department Singapore",
-          "access-date": "15 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "2011 PARLIAMENTARY GENERAL ELECTION RESULTS",
-          "url": "https://www.eld.gov.sg/elections_past_parliamentary2011.html",
-          "website": "Elections Department Singapore",
-          "access-date": "15 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "2015 PARLIAMENTARY GENERAL ELECTION RESULTS",
-          "url": "https://www.eld.gov.sg/elections_past_parliamentary2015.html",
-          "website": "Elections Department Singapore",
-          "access-date": "15 November 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "2020 PARLIAMENTARY GENERAL ELECTION RESULTS",
-          "url": "https://www.eld.gov.sg/finalresults2020.html#T",
-          "website": "Elections Department Singapore",
-          "access-date": "15 November 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -560,47 +560,6 @@
             "text": "48,341 (34.58%)"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/ong-ye-kung",
-          "title": "MP &#124; Parliament Of Singapore",
-          "website": "www.parliament.gov.sg",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Lay",
-          "first": "Belmont",
-          "date": "2020-06-30",
-          "title": "Ong Ye Kung is cousin of newest PAP candidate Xie Yao Quan",
-          "url": "https://mothership.sg/2020/06/ong-ye-kung-cousin/",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20200830151956/https://mothership.sg/2020/06/ong-ye-kung-cousin/",
-          "archive-date": "30 August 2020",
-          "access-date": "2020-07-30",
-          "website": "mothership.sg",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "About Ong Ye Kung",
-          "url": "https://www.facebook.com/ongyekung/info?tab=page_info",
-          "website": "facebook",
-          "access-date": "23 September 2015",
-          "archive-date": "20 September 2020",
-          "archive-url": "https://web.archive.org/web/20200920171900/https://www.facebook.com/ongyekung/info?tab=page_info",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
