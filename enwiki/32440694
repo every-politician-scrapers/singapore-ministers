@@ -293,18 +293,6 @@
               }
             ]
           },
-          "1blankname": {
-            "text": "Second Minister"
-          },
-          "1namedata": {
-            "text": "Masagos Zulkifli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masagos Zulkifli"
-              }
-            ]
-          },
           "term_start": {
             "text": "15 May 2021"
           },

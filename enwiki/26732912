@@ -284,18 +284,6 @@
               }
             ]
           },
-          "1blankname": {
-            "text": "Second Minister"
-          },
-          "1namedata": {
-            "text": "Maliki Osman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maliki Osman"
-              }
-            ]
-          },
           "term_start": {
             "text": "15 May 2021"
           },

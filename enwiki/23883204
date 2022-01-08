@@ -237,18 +237,6 @@
               }
             ]
           },
-          "1blankname1": {
-            "text": "Second Minister"
-          },
-          "1namedata1": {
-            "text": "Josephine Teo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Josephine Teo"
-              }
-            ]
-          },
           "predecessor1": {
             "text": "Teo Chee Hean",
             "links": [
