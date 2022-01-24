@@ -396,14 +396,7 @@
             ]
           },
           "office3": {
-            "text": "Minister for Education (Higher Education and Skills)",
-            "links": [
-              {
-                "text": "Minister for Education (Higher Education and Skills)",
-                "type": "internal",
-                "page": "Ministry of Education (Singapore)"
-              }
-            ]
+            "text": "[[Ministry of Education (Singapore)|Minister for Education\n(Higher Education and Skills)]]"
           },
           "alongside3": {
             "text": "Ng Chee Meng (2015–2018)",
@@ -472,24 +465,24 @@
             "text": "30 April 2018"
           },
           "successor4": {
-            "text": "Heng Chee How\n(as Senior Minister for Defence)",
+            "text": "Heng Chee How\n(as Senior Minister of State for Defence)",
             "links": [
               {
                 "type": "internal",
                 "page": "Heng Chee How"
               },
               {
-                "text": "Senior Minister for Defence",
+                "text": "Senior Minister of State for Defence",
                 "type": "internal",
                 "page": "Ministry of Defence (Singapore)"
               }
             ]
           },
           "office5": {
-            "text": "Senior Minister of State\nMinistry of Defence",
+            "text": "Senior Minister of State for Defence",
             "links": [
               {
-                "text": "Ministry of Defence",
+                "text": "Senior Minister of State for Defence",
                 "type": "internal",
                 "page": "Ministry of Defence (Singapore)"
               }
@@ -520,14 +513,19 @@
             ]
           },
           "successor5": {
-            "text": "himself\n(as second Minister of Defence)",
+            "text": "Himself\n(as Second Minister for Defence)",
             "links": [
               {
-                "text": "second Minister of Defence",
+                "text": "Second Minister for Defence",
                 "type": "internal",
                 "page": "Ministry of Defence (Singapore)"
               }
-            ]
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "constituency_mp6": {
             "text": "Sembawang GRC\n(Sembawang Central)",
