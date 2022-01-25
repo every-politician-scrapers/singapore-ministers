@@ -185,6 +185,11 @@
           "day": "23",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "spouse": "Mohammed Abdullah Alhabshee",
+          "from": "1980",
+          "template": "marriage"
         }
       ],
       "infoboxes": [
@@ -262,16 +267,22 @@
             ]
           },
           "name": {
+            "text": "Halimah Yacob"
+          },
+          "native_name": {
             "text": "Halimah binti Yacob"
+          },
+          "native_name_lang": {
+            "text": "ms"
           },
           "image": {
             "text": "Republic of Singapore President Halimah Yacob witnesses the program proper during her visit to the Philippine Eagle Center in Davao City on September 11, 2019 (cropped).jpg"
           },
-          "office": {
-            "text": "President of Singapore"
-          },
           "order": {
             "text": "8th"
+          },
+          "office": {
+            "text": "President of Singapore"
           },
           "primeminister": {
             "text": "Lee Hsien Loong",
@@ -404,13 +415,7 @@
             ]
           },
           "spouse": {
-            "text": "Mohammed Abdullah Alhabshee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed Abdullah Alhabshee"
-              }
-            ]
+            "text": "Mohammed Abdullah Alhabshee (m. 1980)"
           },
           "children": {
             "text": "5",
