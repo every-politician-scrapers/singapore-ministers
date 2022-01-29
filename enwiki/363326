@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who has been serving as Prime Minister of Singapore and secretary-general of the People's Action Party (PAP) since 2004.",
+              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who has served as Prime Minister of Singapore and secretary-general of the People's Action Party (PAP) since 2004.",
               "links": [
                 {
                   "type": "internal",
@@ -572,11 +572,11 @@
         },
         {
           "honorific-prefix": {
-            "text": "The Honourable",
+            "text": "His Excellency",
             "links": [
               {
                 "type": "internal",
-                "page": "The Honourable"
+                "page": "His Excellency"
               }
             ]
           },
@@ -750,21 +750,11 @@
           "signature": {
             "text": "Lee Hsien Loong signature.svg"
           },
-          "allegiance": {
-            "text": "🇸🇬 Singapore",
-            "links": [
-              {
-                "text": "Singapore",
-                "type": "internal",
-                "page": "singapore"
-              }
-            ]
-          },
           "serviceyears": {
             "text": "1971–1984"
           },
           "rank": {
-            "text": "08-RSA-OF06.svg Brigadier-General",
+            "text": "Brigadier-General",
             "links": [
               {
                 "text": "Brigadier-General",

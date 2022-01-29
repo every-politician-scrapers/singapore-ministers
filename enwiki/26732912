@@ -26,8 +26,13 @@
         {
           "sentences": [
             {
-              "text": "Chan Chun Sing (born 1969) is a Singaporean politician who has been serving as Minister for Education since 2021 and Minister-in-charge of the Public Service since 2018.",
+              "text": "Chan Chun Sing (born 1969) is a Singaporean politician and former major-general who has been serving as Minister for Education since 2021 and Minister-in-charge of the Public Service since 2018.",
               "links": [
+                {
+                  "text": "major-general",
+                  "type": "internal",
+                  "page": "major-general"
+                },
                 {
                   "text": "Minister for Education",
                   "type": "internal",
@@ -184,6 +189,10 @@
           "template": "use dmy dates"
         },
         {
+          "birth_year": "1969",
+          "template": "birth year and age"
+        },
+        {
           "list": [
             "Singapore"
           ],
@@ -227,8 +236,7 @@
             "text": "Republic of Singapore"
           },
           "birth_date": {
-            "text": "1969",
-            "number": 1969
+            "text": "1969 (age 53)"
           },
           "birth_place": {
             "text": "Singapore",
@@ -412,19 +420,11 @@
             "text": "30 April 2018"
           },
           "successor3": {
-            "text": "Ng Chee Meng (2018–2020) Tan See Leng (2020–2021) Maliki Osman (2020–present) Indranee Rajah (2018–present)",
+            "text": "Ng Chee Meng\nIndranee Rajah",
             "links": [
               {
                 "type": "internal",
                 "page": "Ng Chee Meng"
-              },
-              {
-                "type": "internal",
-                "page": "Tan See Leng"
-              },
-              {
-                "type": "internal",
-                "page": "Maliki Osman"
               },
               {
                 "type": "internal",
@@ -490,17 +490,17 @@
               }
             ]
           },
-          "office8": {
-            "text": "Senior Minister of State,\nMinistry for Defence",
+          "office6": {
+            "text": "Senior Minister of State for Defence",
             "links": [
               {
-                "text": "Ministry for Defence",
+                "text": "Senior Minister of State for Defence",
                 "type": "internal",
                 "page": "Ministry of Defence (Singapore)"
               }
             ]
           },
-          "minister8": {
+          "minister6": {
             "text": "Ng Eng Hen",
             "links": [
               {
@@ -509,7 +509,7 @@
               }
             ]
           },
-          "predecessor8": {
+          "predecessor6": {
             "text": "Lawrence Wong",
             "links": [
               {
@@ -518,7 +518,7 @@
               }
             ]
           },
-          "successor8": {
+          "successor6": {
             "text": "Maliki Osman",
             "links": [
               {
@@ -527,22 +527,23 @@
               }
             ]
           },
-          "term_start8": {
+          "term_start6": {
             "text": "1 August 2012"
           },
-          "term_end8": {
+          "term_end6": {
             "text": "31 August 2013"
           },
-          "office9": {
-            "text": "Minister of State,\nMinistry for Information, Communications and the Arts",
+          "office7": {
+            "text": "Minister of State for Information, Communications amd the Arts",
             "links": [
               {
+                "text": "Minister of State for Information, Communications amd the Arts",
                 "type": "internal",
                 "page": "Ministry for Information, Communications and the Arts"
               }
             ]
           },
-          "minister9": {
+          "minister7": {
             "text": "Yaacob Ibrahim",
             "links": [
               {
@@ -551,7 +552,7 @@
               }
             ]
           },
-          "successor9": {
+          "successor7": {
             "text": "Lawrence Wong",
             "links": [
               {
@@ -560,13 +561,13 @@
               }
             ]
           },
-          "term_start9": {
+          "term_start7": {
             "text": "21 May 2011"
           },
-          "term_end9": {
+          "term_end7": {
             "text": "31 July 2012"
           },
-          "constituency_mp12": {
+          "constituency_mp8": {
             "text": "Tanjong Pagar GRC\n(Buona Vista)",
             "links": [
               {
@@ -576,13 +577,13 @@
               }
             ]
           },
-          "parliament12": {
+          "parliament8": {
             "text": "Singapore"
           },
-          "term_start12": {
+          "term_start8": {
             "text": "7 May 2011"
           },
-          "predecessor12": {
+          "predecessor8": {
             "text": "Lim Swee Say\n(1997–2001)",
             "links": [
               {
@@ -591,8 +592,44 @@
               }
             ]
           },
-          "majority12": {
+          "majority8": {
             "text": "32,470 (26.26%)"
+          },
+          "office9": {
+            "text": "Chief of Army",
+            "links": [
+              {
+                "text": "Chief of Army",
+                "type": "internal",
+                "page": "Singapore Army",
+                "anchor": "List of chiefs of Army"
+              }
+            ]
+          },
+          "term_start9": {
+            "text": "26 March 2010"
+          },
+          "term_end9": {
+            "text": "25 March 2011"
+          },
+          "predecessor9": {
+            "text": "Neo Kian Hong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Neo Kian Hong"
+              }
+            ]
+          },
+          "successor9": {
+            "text": "Ravinder Singh",
+            "links": [
+              {
+                "text": "Ravinder Singh",
+                "type": "internal",
+                "page": "Ravinder Singh (general)"
+              }
+            ]
           },
           "signature": {
             "text": "Chan Chun Sing signature.svg"
@@ -627,9 +664,10 @@
                 "page": "Singapore Infantry Regiment"
               },
               {
-                "text": "Army",
+                "text": "Chief of Army",
                 "type": "internal",
-                "page": "Singapore Army"
+                "page": "Singapore Army",
+                "anchor": "List of chiefs of Army"
               }
             ]
           }
