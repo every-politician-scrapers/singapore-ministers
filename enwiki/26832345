@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Halimah binti Yacob (born 23 August 1954) is a Singaporean politician.",
+              "text": "Halimah Yacob (born 23 August 1954) is a Singaporean politician who is the 8th and current president of Singapore.",
               "links": [
                 {
                   "text": "Singaporean",
@@ -37,26 +37,43 @@
                   "text": "politician",
                   "type": "internal",
                   "page": "politician"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Halimah binti Yacob"
-                ]
-              }
-            },
-            {
-              "text": "She is the incumbent president of Singapore since the 2017 Singapore presidential election.",
-              "links": [
+                },
                 {
                   "text": "president of Singapore",
                   "type": "internal",
                   "page": "president of Singapore"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Halimah Yacob"
+                ]
+              }
+            },
+            {
+              "text": "She is the first female president in the country's history."
+            },
+            {
+              "text": "A former member of the People's Action Party (PAP), she resigned and became an independent to run for the presidency at the 2017 Singapore presidential election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Action Party"
                 },
                 {
                   "text": "2017 Singapore presidential election",
                   "type": "internal",
                   "page": "2017 Singapore presidential election"
+                }
+              ]
+            },
+            {
+              "text": "Halimah won the election after a walkover.",
+              "links": [
+                {
+                  "text": "walkover",
+                  "type": "internal",
+                  "page": "uncontested election"
                 }
               ]
             }
@@ -65,22 +82,8 @@
         {
           "sentences": [
             {
-              "text": "Halimah won in an uncontested election, as no other presidential candidate was issued the Certificate of Eligibility."
-            },
-            {
-              "text": "She is the first female president in the country's history."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Previously a member of the governing People's Action Party (PAP), she was a Member of Parliament (MP) for Jurong GRC (situated from Bukit Batok East) from 2001 to 2015 and for Marsiling–Yew Tee GRC (constituency of Marsiling) from 2015 to 2017.",
+              "text": "Prior to her presidency, she was a Member of Parliament (MP) for Jurong GRC (situated from Bukit Batok East) from 2001 to 2015 and for Marsiling–Yew Tee GRC (constituency of Marsiling) from 2015 to 2017.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "People's Action Party"
-                },
                 {
                   "text": "Jurong GRC",
                   "type": "internal",
@@ -111,16 +114,11 @@
               ]
             },
             {
-              "text": "She was the 9th Speaker of the Parliament of Singapore from 2013 to 2017, which she resigned to participate in the 2017 Singapore presidential election.",
+              "text": "She had also served as the 9th Speaker of the Parliament of Singapore from 2013 to 2017.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Speaker of the Parliament of Singapore"
-                },
-                {
-                  "text": "2017 Singapore presidential election",
-                  "type": "internal",
-                  "page": "2017 Singapore presidential election"
                 }
               ]
             }
@@ -269,12 +267,6 @@
           "name": {
             "text": "Halimah Yacob"
           },
-          "native_name": {
-            "text": "Halimah binti Yacob"
-          },
-          "native_name_lang": {
-            "text": "ms"
-          },
           "image": {
             "text": "Republic of Singapore President Halimah Yacob witnesses the program proper during her visit to the Philippine Eagle Center in Davao City on September 11, 2019 (cropped).jpg"
           },
@@ -376,13 +368,13 @@
             ]
           },
           "birth_name": {
-            "text": "Halimah Binte Yacob"
+            "text": "Halimah Yacob"
           },
           "birth_date": {
             "text": "August 23, 1954"
           },
           "birth_place": {
-            "text": "Queen Street, Colony of Singapore",
+            "text": "Queen Street, Singapore",
             "links": [
               {
                 "text": "Queen Street",
@@ -390,6 +382,7 @@
                 "page": "Queen Street, Singapore"
               },
               {
+                "text": "Singapore",
                 "type": "internal",
                 "page": "Colony of Singapore"
               }
