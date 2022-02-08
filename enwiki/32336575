@@ -37,7 +37,7 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), he is a Member of the 14th Parliament and has been representing the Limbang ward of Marsiling–Yew Tee Group Representation Constituency (GRC) since 2015.",
+              "text": "A member of the governing People's Action Party (PAP), he is a Member of the 14th Parliament and has been representing the Limbang ward of Marsiling–Yew Tee Group GRC since 2015.",
               "links": [
                 {
                   "type": "internal",
@@ -59,7 +59,7 @@
                   "page": "Yew Tee"
                 },
                 {
-                  "text": "Marsiling–Yew Tee Group Representation Constituency (GRC)",
+                  "text": "Marsiling–Yew Tee Group GRC",
                   "type": "internal",
                   "page": "Marsiling–Yew Tee Group Representation Constituency"
                 }
@@ -239,6 +239,10 @@
           ],
           "lang": "Chinese",
           "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1972",
+          "template": "birth year and age"
         }
       ],
       "infoboxes": [
@@ -253,7 +257,7 @@
             ]
           },
           "name": {
-            "text": "Lawrence Wong Shyun Tsai"
+            "text": "Lawrence Wong"
           },
           "native_name": {
             "text": "黄循财"
@@ -278,8 +282,7 @@
             ]
           },
           "birth_date": {
-            "text": "1972",
-            "number": 1972
+            "text": "1972 (age 50)"
           },
           "birth_place": {
             "text": "Singapore",
@@ -557,7 +560,7 @@
             ]
           },
           "constituency_mp4": {
-            "text": "Marsiling–Yew Tee GRC (Limbang)",
+            "text": "Marsiling–Yew Tee GRC\n(Limbang)",
             "links": [
               {
                 "type": "internal",
@@ -597,7 +600,7 @@
             "text": "1 May 2014"
           },
           "term_end5": {
-            "text": "30 September 2015 Acting: 1 November 2012 - 30 April 2014"
+            "text": "30 September 2015\nActing: 1 November 2012 – 30 April 2014"
           },
           "predecessor5": {
             "text": "Chan Chun Sing",
@@ -686,7 +689,7 @@
             ]
           },
           "constituency_mp7": {
-            "text": "West Coast GRC (Boon Lay)",
+            "text": "West Coast GRC\n(Boon Lay)",
             "links": [
               {
                 "type": "internal",
