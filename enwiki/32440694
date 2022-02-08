@@ -37,7 +37,7 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), he is a Member of the 14th Parliament and has been representing the Sembawang Central ward of Sembawang Group Representation Constituency (GRC) since 2015.",
+              "text": "A member of the governing People's Action Party (PAP), he is a Member of the 14th Parliament and has been representing the Sembawang Central ward of Sembawang GRC since 2015.",
               "links": [
                 {
                   "type": "internal",
@@ -59,7 +59,7 @@
                   "page": "Sembawang"
                 },
                 {
-                  "text": "Sembawang Group Representation Constituency (GRC)",
+                  "text": "Sembawang GRC",
                   "type": "internal",
                   "page": "Sembawang Group Representation Constituency"
                 }
@@ -171,6 +171,10 @@
           "template": "use singapore english"
         },
         {
+          "birth_year": "1969",
+          "template": "birth year and age"
+        },
+        {
           "list": [
             "Ong"
           ],
@@ -214,8 +218,7 @@
             ]
           },
           "birth_date": {
-            "text": "1969",
-            "number": 1969
+            "text": "1969 (age 53)"
           },
           "birth_place": {
             "text": "Singapore",
