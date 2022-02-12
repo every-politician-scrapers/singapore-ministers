@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Tharman Shanmugaratnam (தர்மன் சண்முகரத்தினம்; born 1957) is a Singaporean politician who has been serving as Senior Minister since 2019 and Coordinating Minister for Social Policies since 2015.",
+              "text": "Tharman Shanmugaratnam (தர்மன் சண்முகரத்தினம்; born 1957) is a Singaporean politician and economist who has been serving as Senior Minister since 2019 and Coordinating Minister for Social Policies since 2015.",
               "links": [
                 {
                   "text": "Senior Minister",
@@ -51,19 +51,14 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), he is a Member of the 14th Parliament and has been representing the Taman Jurong ward of Jurong Group Representation Constituency (GRC) since 2001.",
+              "text": "A member of the governing People's Action Party (PAP), he is a of the Member of Parliament (MP) representing the Taman Jurong ward of Jurong GRC since 2001.",
               "links": [
                 {
                   "type": "internal",
                   "page": "People's Action Party"
                 },
                 {
-                  "text": "Member",
-                  "type": "internal",
-                  "page": "Member of parliament"
-                },
-                {
-                  "text": "14th Parliament",
+                  "text": "Member of Parliament",
                   "type": "internal",
                   "page": "14th Parliament of Singapore"
                 },
@@ -72,14 +67,32 @@
                   "page": "Taman Jurong"
                 },
                 {
-                  "text": "Jurong Group Representation Constituency (GRC)",
+                  "text": "Jurong GRC",
                   "type": "internal",
                   "page": "Jurong Group Representation Constituency"
                 }
               ]
             },
             {
-              "text": "He was previously Deputy Prime Minister (2011–2019), Minister for Education (2003–2008), Minister for Finance (2007–2015) and Minister for Manpower (2011–2012).",
+              "text": "He has also been the Chairman of the Monetary Authority of Singapore since 2011, and Deputy Chairman of GIC and chairman of GIC's Investment Strategies Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Monetary Authority of Singapore"
+                },
+                {
+                  "text": "GIC",
+                  "type": "internal",
+                  "page": "GIC (Singaporean sovereign wealth fund)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tharman previously served as Deputy Prime Minister (2011–2019), Minister for Education (2003–2008), Minister for Finance (2007–2015) and Minister for Manpower (2011–2012).",
               "links": [
                 {
                   "text": "Deputy Prime Minister",
@@ -100,33 +113,6 @@
                   "text": "Minister for Manpower",
                   "type": "internal",
                   "page": "Ministry of Manpower (Singapore)"
-                }
-              ]
-            },
-            {
-              "text": "He has also been the Chairman of the Monetary Authority of Singapore since 1 May 2011, and Deputy Chairman of GIC and chairman of GIC's Investment Strategies Committee.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Monetary Authority of Singapore"
-                },
-                {
-                  "text": "GIC",
-                  "type": "internal",
-                  "page": "GIC (Singaporean sovereign wealth fund)"
-                }
-              ]
-            },
-            {
-              "text": "In the wake of the COVID-19 pandemic in Singapore, he chairs the National Jobs Council to oversee the large-scale growth of jobs and training opportunities for workers affected by the pandemic.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "COVID-19 pandemic in Singapore"
-                },
-                {
-                  "type": "internal",
-                  "page": "National Jobs Council"
                 }
               ]
             }
@@ -182,19 +168,11 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Global Education Forum"
-                },
-                {
-                  "type": "internal",
                   "page": "United Nations"
                 },
                 {
                   "type": "internal",
                   "page": "Human Development Report"
-                },
-                {
-                  "type": "internal",
-                  "page": "G20 Eminent Persons Group on Global Financial Governance"
                 },
                 {
                   "text": "International Monetary and Financial Committee",
@@ -209,6 +187,19 @@
                 {
                   "type": "internal",
                   "page": "World Economic Forum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the wake of the COVID-19 pandemic in Singapore, he chairs the National Jobs Council to oversee the large-scale growth of jobs and training opportunities for workers affected by the pandemic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Singapore"
                 }
               ]
             }
@@ -231,9 +222,9 @@
         {
           "title": "See list",
           "list": [
-            "S. R. Nathan (1999–2011)",
-            "Tony Tan (2011–2017)",
-            "Halimah Yacob (2017–present)"
+            "S. R. Nathan\n(1999–2011)",
+            "Tony Tan\n(2011–2017)",
+            "Halimah Yacob\n(2017–present)"
           ],
           "template": "list collapsed"
         },
@@ -244,6 +235,10 @@
             "Lee Hsien Loong"
           ],
           "template": "list collapsed"
+        },
+        {
+          "birth_year": "1957",
+          "template": "birth year and age"
         }
       ],
       "infoboxes": [
@@ -624,8 +619,7 @@
             "text": "60,501 (49.24%)"
           },
           "birth_date": {
-            "text": "1957",
-            "number": 1957
+            "text": "1957 (age 65)"
           },
           "birth_place": {
             "text": "Singapore",
@@ -654,7 +648,7 @@
             ]
           },
           "education": {
-            "text": "London School of Economics (BS) University of Cambridge (MPhil) Harvard University (MPA)",
+            "text": "London School of Economics (BS)\nUniversity of Cambridge (MPhil)\nHarvard University (MPA)",
             "links": [
               {
                 "type": "internal",
@@ -684,6 +678,9 @@
                 "page": "Master of Public Administration"
               }
             ]
+          },
+          "occupation": {
+            "text": "Politician · economist"
           },
           "signature": {
             "text": "Tharman Shanmugaratnam signature.svg"

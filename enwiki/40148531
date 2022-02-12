@@ -34,7 +34,7 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), he has been a Member of the 14th Parliament representing the Boon Lay ward of West Coast Group Representation Constituency (GRC) since 2020.",
+              "text": "A member of the governing People's Action Party (PAP), he has been a Member of the 14th Parliament representing the Boon Lay ward of West Coast GRC since 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -55,7 +55,7 @@
                   "page": "Boon Lay"
                 },
                 {
-                  "text": "West Coast Group Representation Constituency (GRC)",
+                  "text": "West Coast GRC",
                   "type": "internal",
                   "page": "West Coast Group Representation Constituency"
                 }
@@ -118,6 +118,10 @@
           "template": "short description"
         },
         {
+          "birth_year": "1976",
+          "template": "birth year and age"
+        },
+        {
           "list": [
             "Lee"
           ],
@@ -137,7 +141,7 @@
             ]
           },
           "name": {
-            "text": "Desmond Lee Ti-Seng"
+            "text": "Desmond Lee"
           },
           "native_name": {
             "text": "李智陞"
@@ -149,15 +153,7 @@
             "text": "Desmond Lee at Bukit Brown Cemetery, Singapore - 20171118.jpg"
           },
           "caption": {
-            "text": "Lee at Bukit Brown Cemetery in November 2017",
-            "links": [
-              {
-                "text": "Bukit Brown Cemetery",
-                "type": "internal",
-                "page": "Former cemeteries in Singapore",
-                "anchor": "Bukit Brown Cemetery"
-              }
-            ]
+            "text": "Lee in 2017"
           },
           "office": {
             "text": "Minister for National Development",
@@ -397,10 +393,10 @@
             ]
           },
           "office6": {
-            "text": "Senior Minister of State,\nMinistry for Home Affairs",
+            "text": "Senior Minister of State for Home Affairs",
             "links": [
               {
-                "text": "Ministry for Home Affairs",
+                "text": "Senior Minister of State for Home Affairs",
                 "type": "internal",
                 "page": "Ministry of Home Affairs (Singapore)"
               }
@@ -431,10 +427,10 @@
             "text": "30 April 2017"
           },
           "office7": {
-            "text": "Senior Minister of State,\nMinistry for National Development",
+            "text": "Senior Minister of State for National Development",
             "links": [
               {
-                "text": "Ministry for National Development",
+                "text": "Senior Minister of State for National Development",
                 "type": "internal",
                 "page": "Ministry of National Development (Singapore)"
               }
@@ -465,10 +461,10 @@
             "text": "30 April 2017"
           },
           "office8": {
-            "text": "Minister of State,\nMinistry for National Development",
+            "text": "Minister of State for National Development",
             "links": [
               {
-                "text": "Ministry for National Development",
+                "text": "Minister of State for National Development",
                 "type": "internal",
                 "page": "Ministry of National Development (Singapore)"
               }
@@ -618,8 +614,7 @@
             ]
           },
           "birth_date": {
-            "text": "1976",
-            "number": 1976
+            "text": "1976 (age 46)"
           },
           "birth_place": {
             "text": "Singapore",
@@ -631,7 +626,7 @@
             ]
           },
           "party": {
-            "text": "People's Action Party (2011)",
+            "text": "People's Action Party",
             "links": [
               {
                 "type": "internal",
