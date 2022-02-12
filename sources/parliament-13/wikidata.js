@@ -4,7 +4,7 @@ let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
   let fromd = `"${meta.start}T00:00:00Z"^^xsd:dateTime`
-  let until = meta.end  ? `"${meta.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
+  let until = meta.end ? `"${meta.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
   return `SELECT DISTINCT ?item ?itemLabel ?startDate ?endDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
@@ -42,6 +42,7 @@ module.exports = function () {
 
       BIND (
         COALESCE(
+          IF(?startV < ${fromd}, "${meta.start}", 1/0),
           IF(?startP = 11, SUBSTR(STR(?startV), 1, 10), 1/0),
           IF(?startP = 10, SUBSTR(STR(?startV), 1, 7), 1/0),
           IF(?startP = 9,  SUBSTR(STR(?startV), 1, 4), 1/0),
@@ -53,6 +54,7 @@ module.exports = function () {
       BIND (
         COALESCE(
           IF(?endV > NOW(), "", 1/0),
+          IF(?endV > ${until}, "${meta.end}", 1/0),
           IF(?endP = 11, SUBSTR(STR(?endV), 1, 10), 1/0),
           IF(?endP = 10, SUBSTR(STR(?endV), 1, 7), 1/0),
           IF(?endP = 9,  SUBSTR(STR(?endV), 1, 4), 1/0),

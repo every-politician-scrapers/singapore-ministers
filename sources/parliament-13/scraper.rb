@@ -23,11 +23,11 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def startDate
-      '2020-08-24'
+      '2016-01-15'
     end
 
     def endDate
-      nil
+      "2020-06-23"
     end
   end
 end
