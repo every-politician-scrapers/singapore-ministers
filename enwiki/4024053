@@ -51,7 +51,7 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), he is a of the Member of Parliament (MP) representing the Taman Jurong ward of Jurong GRC since 2001.",
+              "text": "A member of the governing People's Action Party (PAP), he is a of the Member of Parliament (MP) representing the Taman Jurong ward of Jurong Group Representation Constituency since 2001.",
               "links": [
                 {
                   "type": "internal",
@@ -67,7 +67,6 @@
                   "page": "Taman Jurong"
                 },
                 {
-                  "text": "Jurong GRC",
                   "type": "internal",
                   "page": "Jurong Group Representation Constituency"
                 }
@@ -121,7 +120,7 @@
         {
           "sentences": [
             {
-              "text": "An economist by profession, Tharman worked at the Monetary Authority of Singapore and Ministry of Education before he made his political debut in the 2001 general election as part of a five-member People's Action Party (PAP) team contesting in Jurong Group Representation Constituency (GRC).",
+              "text": "An economist by profession, Tharman worked at the Monetary Authority of Singapore and Ministry of Education before he made his political debut in the 2001 general election as part of a five-member People's Action Party (PAP) team contesting in Jurong Group Representation Constituency.",
               "links": [
                 {
                   "text": "2001 general election",
@@ -133,18 +132,21 @@
                   "page": "People's Action Party"
                 },
                 {
-                  "text": "Jurong Group Representation Constituency (GRC)",
                   "type": "internal",
                   "page": "Jurong Group Representation Constituency"
                 }
               ]
             },
             {
-              "text": "The PAP team won with 79.75% of the vote against the Singapore Democratic Party and Tharman became a Member of Parliament representing the Taman Jurong ward of Jurong GRC.",
+              "text": "The PAP team won with 79.75% of the vote against the Singapore Democratic Party and Tharman became a Member of Parliament representing the Taman Jurong ward of Jurong Group Representation Constituency.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Singapore Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jurong Group Representation Constituency"
                 }
               ]
             },
