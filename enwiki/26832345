@@ -195,7 +195,7 @@
           "embed": {
             "text": "yes"
           },
-          "constituency_mp5": {
+          "constituency_mp6": {
             "text": "Marsiling–Yew Tee GRC (constituency of Marsiling)",
             "links": [
               {
@@ -205,19 +205,19 @@
               }
             ]
           },
-          "parliament5": {
+          "parliament6": {
             "text": "Singapore"
           },
-          "term_start5": {
+          "term_start6": {
             "text": "11 September 2015"
           },
-          "term_end5": {
+          "term_end6": {
             "text": "7 August 2017"
           },
-          "predecessor5": {
+          "predecessor6": {
             "text": "Hawazi bin Daipi"
           },
-          "constituency_mp6": {
+          "constituency_mp7": {
             "text": "Jurong GRC (situated from Bukit Batok East)",
             "links": [
               {
@@ -227,16 +227,16 @@
               }
             ]
           },
-          "parliament6": {
+          "parliament7": {
             "text": "Singapore"
           },
-          "term_start6": {
+          "term_start7": {
             "text": "3 November 2001"
           },
-          "term_end6": {
+          "term_end7": {
             "text": "24 August 2015"
           },
-          "predecessor6": {
+          "predecessor7": {
             "text": "Constituency established",
             "formatting": {
               "italic": [
@@ -244,7 +244,7 @@
               ]
             }
           },
-          "successor6": {
+          "successor7": {
             "text": "Rahayu Mahzam",
             "links": [
               {
@@ -336,19 +336,56 @@
               }
             ]
           },
-          "office3": {
-            "text": "Speaker of the Parliament of Singapore"
-          },
           "order3": {
-            "text": "9th"
+            "text": "Chancellor of the"
+          },
+          "office3": {
+            "text": "Nanyang Technological University"
           },
           "term_start3": {
-            "text": "14 January 2013"
-          },
-          "term_end3": {
-            "text": "7 August 2017"
+            "text": "14 September 2017"
           },
           "predecessor3": {
+            "text": "Tony Tan Keng Yam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Tan Keng Yam"
+              }
+            ]
+          },
+          "1blankname3": {
+            "text": "Provost"
+          },
+          "1namedata3": {
+            "text": "Ling San"
+          },
+          "president3": {
+            "text": "Bertil Andersson (2011-2017) Subra Suresh (2018-Present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bertil Andersson"
+              },
+              {
+                "type": "internal",
+                "page": "Subra Suresh"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Speaker of the Parliament of Singapore"
+          },
+          "order4": {
+            "text": "9th"
+          },
+          "term_start4": {
+            "text": "14 January 2013"
+          },
+          "term_end4": {
+            "text": "7 August 2017"
+          },
+          "predecessor4": {
             "text": "Michael Palmer",
             "links": [
               {
@@ -358,7 +395,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Tan Chuan-Jin",
             "links": [
               {
