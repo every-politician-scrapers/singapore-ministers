@@ -132,7 +132,7 @@
               ]
             },
             {
-              "text": "Before becoming Minister for Health, he was Minister for Education (2015–2018) and Minister for Transport (2020–2021).He is also a co-chair of the multi-ministerial committee set up by the government to manage the COVID-19 pandemic in Singapore.",
+              "text": "Before becoming Minister for Health, he was Minister for Education (2015–2018) and Minister for Transport (2020–2021).",
               "links": [
                 {
                   "text": "Minister for Education",
@@ -143,7 +143,12 @@
                   "text": "Minister for Transport",
                   "type": "internal",
                   "page": "Ministry of Transport (Singapore)"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He is also a co-chair of the multi-ministerial committee set up by the government to manage the COVID-19 pandemic in Singapore.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "COVID-19 pandemic in Singapore"
