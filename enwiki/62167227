@@ -40,19 +40,14 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), he has been a Member of the 14th Parliament representing Marine Parade ward of Marine Parade Group Representation Constituency (GRC) since 2020.",
+              "text": "A member of the governing People's Action Party (PAP), he has been the Member of Parliament (MP) representing the Marine Parade ward of Marine Parade GRC since 2020.",
               "links": [
                 {
                   "type": "internal",
                   "page": "People's Action Party"
                 },
                 {
-                  "text": "Member",
-                  "type": "internal",
-                  "page": "Member of parliament"
-                },
-                {
-                  "text": "14th Parliament",
+                  "text": "Member of Parliament",
                   "type": "internal",
                   "page": "14th Parliament of Singapore"
                 },
@@ -61,7 +56,7 @@
                   "page": "Marine Parade"
                 },
                 {
-                  "text": "Marine Parade Group Representation Constituency (GRC)",
+                  "text": "Marine Parade GRC",
                   "type": "internal",
                   "page": "Marine Parade Group Representation Constituency"
                 }
@@ -74,10 +69,6 @@
             {
               "text": "Before entering politics, Tan was a medical practitioner by profession, and he started Healthway Medical Group and served in top positions in Parkway Holdings, Parkway Pantai and IHH Healthcare.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Healthway Medical Group"
-                },
                 {
                   "type": "internal",
                   "page": "Parkway Holdings"
@@ -106,6 +97,10 @@
         }
       ],
       "templates": [
+        {
+          "birth_year": "1964",
+          "template": "birth year and age"
+        },
         {
           "list": [
             "Tan"
@@ -180,7 +175,7 @@
             ]
           },
           "alongside2": {
-            "text": "Indranee Rajah &\nMaliki Osman",
+            "text": "Indranee Rajah and Maliki Osman",
             "links": [
               {
                 "type": "internal",
@@ -246,7 +241,7 @@
             "text": "27 July 2020"
           },
           "minister4": {
-            "text": "Chan Chun Sing\n(2020–2021)\nGan Kim Yong\n(since 2021)",
+            "text": "Chan Chun Sing\n(2020–2021)\nGan Kim Yong\n(2021–present)",
             "links": [
               {
                 "type": "internal",
@@ -315,8 +310,7 @@
             "text": "Tan See Leng"
           },
           "birth_date": {
-            "text": "1964",
-            "number": 1964
+            "text": "1964 (age 58)"
           },
           "birth_place": {
             "text": "Singapore",
@@ -328,7 +322,7 @@
               }
             ]
           },
-          "education": {
+          "alma_mater": {
             "text": "National University of Singapore (MBBS)\nNational University of Singapore (MMed)\nUniversity of Chicago Booth School of Business (MBA)",
             "links": [
               {

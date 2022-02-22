@@ -58,7 +58,7 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), she is a Member of the 14th Parliament and has been representing the Tanjong Pagar - Tiong Bahru ward of Tanjong Pagar Group Representation Constituency (GRC) since 2015.",
+              "text": "A member of the governing People's Action Party (PAP), she is a Member of the 14th Parliament and has been representing the Tanjong Pagar–Tiong Bahru ward of Tanjong Pagar Group Representation Constituency (GRC) since 2015.",
               "links": [
                 {
                   "type": "internal",
@@ -76,7 +76,11 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Tanjong Pagar - Tiong Bahru"
+                  "page": "Tanjong Pagar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tiong Bahru"
                 },
                 {
                   "text": "Tanjong Pagar Group Representation Constituency (GRC)",
