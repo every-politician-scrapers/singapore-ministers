@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Teo Chee Hean (born 27 December 1954) is a Singaporean politician and former rear-admiral (two stars) who has been serving as Senior Minister since 2019 and Coordinating Minister for National Security since 2015.",
+              "text": "Teo Chee Hean (born 27 December 1954) is a Singaporean politician and former rear-admiral (two-star) who has been serving as Senior Minister since 2019 and Coordinating Minister for National Security since 2015.",
               "links": [
                 {
                   "text": "rear-admiral",
@@ -193,12 +193,6 @@
             "Lee Hsien Loong"
           ],
           "template": "list collapsed"
-        },
-        {
-          "list": [
-            "Singapore"
-          ],
-          "template": "navy"
         },
         {
           "year": "1954",
@@ -603,13 +597,12 @@
               }
             ]
           },
-          "allegiance": {
-            "text": "🇸🇬 Singapore",
+          "branch": {
+            "text": "Republic of Singapore Navy",
             "links": [
               {
-                "text": "Singapore",
                 "type": "internal",
-                "page": "singapore"
+                "page": "Republic of Singapore Navy"
               }
             ]
           },
@@ -617,7 +610,7 @@
             "text": "1972–1992"
           },
           "rank": {
-            "text": "09-RSN-OF07.svg Rear-Admiral",
+            "text": "Rear-Admiral (Two-Star)",
             "links": [
               {
                 "type": "internal",

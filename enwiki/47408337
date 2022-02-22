@@ -63,12 +63,6 @@
           "template": "birth year and age"
         },
         {
-          "list": [
-            "Singapore"
-          ],
-          "template": "army"
-        },
-        {
           "_list": "PPA(E) PPA(P)",
           "template": "post-nominals"
         },
@@ -169,13 +163,12 @@
               }
             ]
           },
-          "allegiance": {
-            "text": "🇸🇬 Singapore",
+          "branch": {
+            "text": "Singapore Army",
             "links": [
               {
-                "text": "Singapore",
                 "type": "internal",
-                "page": "singapore"
+                "page": "Singapore Army"
               }
             ]
           },
@@ -183,7 +176,7 @@
             "text": "1994–present"
           },
           "rank": {
-            "text": "10-RSA-OF08.svg Lieutenant-General",
+            "text": "Lieutenant-General",
             "links": [
               {
                 "type": "internal",
