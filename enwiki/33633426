@@ -148,12 +148,12 @@
       ],
       "templates": [
         {
-          "date": "October 2021",
-          "template": "use dmy dates"
-        },
-        {
           "description": "Singaporean politician",
           "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
         },
         {
           "list": [
@@ -266,7 +266,7 @@
             ]
           },
           "office2": {
-            "text": "Senior Minister of State, Ministry for Law",
+            "text": "Senior Minister of State,\nMinistry for Law",
             "links": [
               {
                 "text": "Ministry for Law",
@@ -309,7 +309,7 @@
             ]
           },
           "office3": {
-            "text": "Senior Minister of State, Ministry for Health",
+            "text": "Senior Minister of State,\nMinistry for Health",
             "links": [
               {
                 "text": "Ministry for Health",
@@ -351,7 +351,7 @@
               },
               {
                 "type": "internal",
-                "page": "Koh Poh Koon "
+                "page": "Koh Poh Koon"
               }
             ]
           },

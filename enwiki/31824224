@@ -26,8 +26,13 @@
         {
           "sentences": [
             {
-              "text": "Tan Chuan-Jin (born 1969) is a Singaporean politician who has been the Speaker of the Parliament since 2017.",
+              "text": "Tan Chuan-Jin (born 1969) is a Singaporean politician and former brigadier-general who has been the Speaker of the Parliament since 2017.",
               "links": [
+                {
+                  "text": "brigadier-general",
+                  "type": "internal",
+                  "page": "brigadier-general"
+                },
                 {
                   "text": "Speaker of the Parliament",
                   "type": "internal",
@@ -166,12 +171,6 @@
         {
           "birth_year": "1969",
           "template": "birth year and age"
-        },
-        {
-          "list": [
-            "Singapore"
-          ],
-          "template": "army"
         },
         {
           "list": [
@@ -477,13 +476,12 @@
               }
             ]
           },
-          "allegiance": {
-            "text": "🇸🇬 Singapore",
+          "branch": {
+            "text": "Singapore Army",
             "links": [
               {
-                "text": "Singapore",
                 "type": "internal",
-                "page": "singapore"
+                "page": "Singapore Army"
               }
             ]
           },
@@ -491,7 +489,7 @@
             "text": "1987–2011"
           },
           "rank": {
-            "text": "08-RSA-OF06.svg Brigadier-General",
+            "text": "Brigadier-General",
             "links": [
               {
                 "type": "internal",
