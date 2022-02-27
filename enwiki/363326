@@ -39,12 +39,16 @@
         {
           "sentences": [
             {
-              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician who has served as prime minister of Singapore and secretary-general of the People's Action Party (PAP) since 2004.",
+              "text": "Lee Hsien Loong (born 10 February 1952) is a Singaporean politician and former brigadier-general who has served as Prime Minister of Singapore and secretary-general of the People's Action Party (PAP) since 2004.",
               "links": [
                 {
-                  "text": "prime minister of Singapore",
+                  "text": "brigadier-general",
                   "type": "internal",
-                  "page": "prime minister of Singapore"
+                  "page": "brigadier-general"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Singapore"
                 },
                 {
                   "type": "internal",
@@ -91,7 +95,7 @@
               ]
             },
             {
-              "text": "He studied in Trinity College at the University of Cambridge, graduating in 1974 with a bachelor's degree in mathematics and a master's degree in computer science.",
+              "text": "He studied in Trinity College at the University of Cambridge, graduating in 1974 with a bachelor's degree in mathematics and a diploma in computer science.",
               "links": [
                 {
                   "text": "Trinity College",
@@ -103,7 +107,7 @@
                   "page": "University of Cambridge"
                 },
                 {
-                  "text": "computer science",
+                  "text": "diploma in computer science",
                   "type": "internal",
                   "page": "Cambridge Diploma in Computer Science"
                 }
@@ -682,7 +686,8 @@
             "text": "Wong Ming Yang (m. 20 May 1978-28 October 1982)\nHo Ching (m. 17 December 1985)"
           },
           "children": {
-            "text": "Li Xiuqi (daughter) Li Yipeng (son) Li Hongyi (son) Li Haoyi (son)"
+            "text": "4",
+            "number": 4
           },
           "parents": {
             "text": "Lee Kuan Yew (father)\nKwa Geok Choo (mother)",
@@ -721,6 +726,11 @@
                 "text": "BA",
                 "type": "internal",
                 "page": "Bachelor of Arts"
+              },
+              {
+                "text": "Dipl.",
+                "type": "internal",
+                "page": "Cambridge Diploma in Computer Science"
               },
               {
                 "type": "internal",
@@ -767,8 +777,18 @@
               }
             ]
           },
+          "unit": {
+            "text": "23rd Battalion Singapore Artillery",
+            "links": [
+              {
+                "text": "23rd Battalion Singapore Artillery",
+                "type": "internal",
+                "page": "Singapore Artillery"
+              }
+            ]
+          },
           "commands": {
-            "text": "* Director of the Joint Operations and Plans Directorate \n* Chief of Staff of the General Staff"
+            "text": "* Director of the Joint Operations and Plans Directorate \n* Chief of Staff – General Staff"
           }
         },
         {

@@ -40,24 +40,19 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), she is a Member of the 14th Parliament and has been representing Yuhua Single Member Constituency (SMC) since 2011.",
+              "text": "A member of the governing People's Action Party (PAP), she is the Member of Parliament (MP) representing Yuhua SMC since 2011.",
               "links": [
                 {
                   "type": "internal",
                   "page": "People's Action Party"
                 },
                 {
-                  "text": "Member",
-                  "type": "internal",
-                  "page": "Member of parliament"
-                },
-                {
-                  "text": "14th Parliament",
+                  "text": "Member of Parliament",
                   "type": "internal",
                   "page": "14th Parliament of Singapore"
                 },
                 {
-                  "text": "Yuhua Single Member Constituency (SMC)",
+                  "text": "Yuhua SMC",
                   "type": "internal",
                   "page": "Yuhua Single Member Constituency"
                 }
@@ -139,11 +134,18 @@
         },
         {
           "country": "GBR",
-          "size": "100%",
+          "size": "90%",
           "list": [
             "DCMGh"
           ],
           "template": "post-nominals"
+        },
+        {
+          "df": "y",
+          "year": "1964",
+          "month": "3",
+          "day": "29",
+          "template": "birth date and age"
         },
         {
           "list": [
@@ -154,6 +156,7 @@
         },
         {
           "country": "GBR",
+          "size": "90%",
           "list": [
             "DCMGh"
           ],
@@ -163,16 +166,20 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Honourable",
+            "text": "The Honourable Dame",
             "links": [
               {
                 "type": "internal",
                 "page": "The Honourable"
+              },
+              {
+                "type": "internal",
+                "page": "Dame"
               }
             ]
           },
           "name": {
-            "text": "Grace Fu Hai Yien"
+            "text": "Grace Fu"
           },
           "native_name": {
             "text": "傅海燕"
@@ -181,7 +188,7 @@
             "text": "Grace Fu (cropped).jpg"
           },
           "image_size": {
-            "text": "180px"
+            "text": "200px"
           },
           "caption": {
             "text": "Fu in 2020"
@@ -380,6 +387,7 @@
             "text": "Second Minister for the Environment and Water Resources",
             "links": [
               {
+                "text": "Second Minister for the Environment and Water Resources",
                 "type": "internal",
                 "page": "Minister for the Environment and Water Resources"
               }
@@ -413,7 +421,7 @@
             "text": "Second Minister for Foreign Affairs",
             "links": [
               {
-                "text": "Minister for Foreign Affairs",
+                "text": "Second Minister for Foreign Affairs",
                 "type": "internal",
                 "page": "Ministry of Foreign Affairs (Singapore)"
               }
@@ -444,10 +452,10 @@
             ]
           },
           "office7": {
-            "text": "Senior Minister of State,\nMinistry for Information, Communications and the Arts",
+            "text": "Senior Minister of State for Information, Communications and the Arts",
             "links": [
               {
-                "text": "Ministry for Information, Communications and the Arts",
+                "text": "Senior Minister of State for Information, Communications and the Arts",
                 "type": "internal",
                 "page": "Ministry of Communications and Information"
               }
@@ -478,10 +486,10 @@
             ]
           },
           "office8": {
-            "text": "Senior Minister of State,\nMinistry for the Environment and Water Resources",
+            "text": "Senior Minister of State for the Environment and Water Resources",
             "links": [
               {
-                "text": "Ministry for the Environment and Water Resources",
+                "text": "Senior Minister of State for the Environment and Water Resources",
                 "type": "internal",
                 "page": "Ministry of the Environment and Water Resources"
               }
@@ -503,10 +511,10 @@
             ]
           },
           "office9": {
-            "text": "Senior Minister of State,\nMinistry for Education",
+            "text": "Senior Minister of State for Education",
             "links": [
               {
-                "text": "Ministry for Education",
+                "text": "Senior Minister of State for Education",
                 "type": "internal",
                 "page": "Ministry of Education (Singapore)"
               }
@@ -528,10 +536,10 @@
             ]
           },
           "office10": {
-            "text": "Senior Minister of State,\nMinistry for National Development",
+            "text": "Senior Minister of State for National Development",
             "links": [
               {
-                "text": "Ministry for National Development",
+                "text": "Senior Minister of State for National Development",
                 "type": "internal",
                 "page": "Ministry of National Development (Singapore)"
               }
@@ -589,11 +597,10 @@
             }
           },
           "birth_date": {
-            "text": "1964",
-            "number": 1964
+            "text": "March 29, 1964"
           },
           "birth_place": {
-            "text": "Singapore, Malaysia",
+            "text": "Singapore",
             "links": [
               {
                 "text": "Singapore",
@@ -611,8 +618,31 @@
               }
             ]
           },
+          "alma_mater": {
+            "text": "National University of Singapore (BAcy, MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National University of Singapore"
+              },
+              {
+                "text": "BAcy",
+                "type": "internal",
+                "page": "Bachelor of Accountancy"
+              },
+              {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
+              }
+            ]
+          },
           "spouse": {
             "text": "Ivan Lee"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
           }
         }
       ]

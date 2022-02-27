@@ -163,6 +163,15 @@
               }
             ]
           },
+          "allegiance": {
+            "text": "Singapore",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Singapore"
+              }
+            ]
+          },
           "branch": {
             "text": "Singapore Army",
             "links": [

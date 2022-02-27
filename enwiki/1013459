@@ -83,7 +83,7 @@
         {
           "sentences": [
             {
-              "text": "A recipient of the President's Scholarship and Singapore Armed Forces Overseas Scholarship, Teo started his career in the Republic of Singapore Navy (RSN) in 1972 and held various staff and command positions before rising to the rank of Rear-Admiral (two stars).",
+              "text": "A recipient of the President's Scholarship and Singapore Armed Forces Overseas Scholarship, Teo started his career in the Republic of Singapore Navy (RSN) in 1972 and held various staff and command positions before rising to the rank of Rear-Admiral (Two-Star).",
               "links": [
                 {
                   "text": "President's Scholarship",
@@ -99,9 +99,8 @@
                   "page": "Republic of Singapore Navy"
                 },
                 {
-                  "text": "Rear-Admiral",
                   "type": "internal",
-                  "page": "Rear admiral"
+                  "page": "Rear-Admiral"
                 }
               ]
             },
