@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Teo Chee Hean (born 27 December 1954) is a Singaporean politician and former rear-admiral (two-star) who has been serving as Senior Minister since 2019 and Coordinating Minister for National Security since 2015.",
+              "text": "Teo Chee Hean (born 27 December 1954) is a Singaporean politician and former two-star rear-admiral who has been serving as Senior Minister since 2019 and Coordinating Minister for National Security since 2015.",
               "links": [
                 {
                   "text": "rear-admiral",
@@ -83,7 +83,7 @@
         {
           "sentences": [
             {
-              "text": "A recipient of the President's Scholarship and Singapore Armed Forces Overseas Scholarship, Teo started his career in the Republic of Singapore Navy (RSN) in 1972 and held various staff and command positions before rising to the rank of Rear-Admiral (Two-Star).",
+              "text": "A recipient of the President's Scholarship and Singapore Armed Forces Overseas Scholarship, Teo started his career in the Republic of Singapore Navy (RSN) in 1972 and held various staff and command positions before rising to the rank of two-star rear-admiral.",
               "links": [
                 {
                   "text": "President's Scholarship",
@@ -99,8 +99,9 @@
                   "page": "Republic of Singapore Navy"
                 },
                 {
+                  "text": "rear-admiral",
                   "type": "internal",
-                  "page": "Rear-Admiral"
+                  "page": "rear-admiral"
                 }
               ]
             },
@@ -179,17 +180,17 @@
         {
           "title": "See list",
           "list": [
-            "S. R. Nathan (1999–2011)",
-            "Tony Tan (2011–2017)",
-            "Halimah Yacob (2017–present)"
+            "S. R. Nathan\n(1999–2011)",
+            "Tony Tan\n(2011–2017)",
+            "Halimah Yacob\n(2017–present)"
           ],
           "template": "list collapsed"
         },
         {
           "title": "See list",
           "list": [
-            "Goh Chok Tong",
-            "Lee Hsien Loong"
+            "Goh Chok Tong\n(1990–2004)",
+            "Lee Hsien Loong\n(2004–present)"
           ],
           "template": "list collapsed"
         },
@@ -389,6 +390,9 @@
             "text": "30 September 2015"
           },
           "predecessor4": {
+            "text": "K. Shanmugam"
+          },
+          "successor4": {
             "text": "K. Shanmugam",
             "links": [
               {
@@ -396,9 +400,6 @@
                 "page": "K. Shanmugam"
               }
             ]
-          },
-          "successor4": {
-            "text": "K. Shanmugam"
           },
           "order5": {
             "text": "Minister for Defence",
@@ -609,7 +610,7 @@
             "text": "1972–1992"
           },
           "rank": {
-            "text": "Rear-Admiral (Two-Star)",
+            "text": "Rear-Admiral",
             "links": [
               {
                 "type": "internal",
