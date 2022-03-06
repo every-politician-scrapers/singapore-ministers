@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Vivian Balakrishnan (விவியன் பாலகிருஷ்ணன்; born 1961) is a Singaporean politician who has been serving as the Minister for Foreign Affairs since 2015.",
+              "text": "Vivian Balakrishnan (விவியன் பாலகிருஷ்ணன்; born 1961) is a Singaporean politician who has been serving as Minister for Foreign Affairs since 2015.",
               "links": [
                 {
                   "text": "Minister for Foreign Affairs",
@@ -45,14 +45,14 @@
               }
             },
             {
-              "text": "A member of the governing People's Action Party (PAP), he is a Member of the 14th Parliament and has been representing the Cashew ward of Holland–Bukit Timah Group Representation Constituency (GRC) since 2006, and the Ulu Pandan ward of Holland–Bukit Panjang GRC from 2001 to 2006.",
+              "text": "A member of the governing People's Action Party (PAP), he is the Member of Parliament (MP) representing the Cashew ward of Holland–Bukit Timah GRC since 2006, and the Ulu Pandan ward of Holland–Bukit Panjang GRC between 2001 and 2006.",
               "links": [
                 {
                   "type": "internal",
                   "page": "People's Action Party"
                 },
                 {
-                  "text": "14th Parliament",
+                  "text": "Member of Parliament",
                   "type": "internal",
                   "page": "14th Parliament of Singapore"
                 },
@@ -62,7 +62,7 @@
                   "page": "Bukit Panjang"
                 },
                 {
-                  "text": "Holland–Bukit Timah Group Representation Constituency (GRC)",
+                  "text": "Holland–Bukit Timah GRC",
                   "type": "internal",
                   "page": "Holland–Bukit Timah Group Representation Constituency"
                 },
@@ -113,10 +113,9 @@
         {
           "sentences": [
             {
-              "text": "A recipient of the President's Scholarship, Balakrishnan studied medicine at the National University of Singapore and underwent postgraduate specialist training in ophthalmology before he was admitted as a Fellow of the Royal College of Surgeons of Edinburgh.",
+              "text": "A President's Scholar, Balakrishnan studied medicine at the National University of Singapore and underwent postgraduate specialist training in ophthalmology before he was admitted as a Fellow of the Royal College of Surgeons of Edinburgh.",
               "links": [
                 {
-                  "text": "President's Scholarship",
                   "type": "internal",
                   "page": "President's Scholar"
                 },
@@ -220,6 +219,10 @@
         {
           "small": "yes",
           "template": "pp-semi-blp"
+        },
+        {
+          "birth_year": "1961",
+          "template": "birth year and age"
         }
       ],
       "infoboxes": [
@@ -435,8 +438,7 @@
             ]
           },
           "birth_date": {
-            "text": "1961",
-            "number": 1961
+            "text": "1961 (age 61)"
           },
           "birth_place": {
             "text": "Singapore",
@@ -455,20 +457,28 @@
             "number": 4
           },
           "education": {
-            "text": "MBBS",
+            "text": "Anglo-Chinese School",
             "links": [
               {
                 "type": "internal",
-                "page": "MBBS"
+                "page": "Anglo-Chinese School"
               }
             ]
           },
           "alma_mater": {
-            "text": "National University of Singapore",
+            "text": "National Junior College\nNational University of Singapore (MBBS)",
             "links": [
               {
                 "type": "internal",
+                "page": "National Junior College"
+              },
+              {
+                "type": "internal",
                 "page": "National University of Singapore"
+              },
+              {
+                "type": "internal",
+                "page": "MBBS"
               }
             ]
           },
