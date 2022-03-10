@@ -1,683 +1,83 @@
 {
-  "title": "Desmond Lee (Singaporean politician)",
-  "pageID": 40148531,
-  "categories": [
-    "Members of the Parliament of Singapore",
-    "People's Action Party politicians",
-    "Raffles Junior College alumni",
-    "National University of Singapore alumni",
-    "Singaporean people of Hokkien descent",
-    "1976 births",
-    "Living people",
-    "Members of the Cabinet of Singapore"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Desmond Lee Ti-Seng (born 1976) is a Singaporean politician who has been serving as Minister for National Development since 2020.",
-              "links": [
-                {
-                  "text": "Minister for National Development",
-                  "type": "internal",
-                  "page": "Ministry of National Development (Singapore)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Desmond Lee Ti-Seng"
-                ]
-              }
-            },
-            {
-              "text": "A member of the governing People's Action Party (PAP), he has been the Member of Parliament (MP) representing the Boon Lay ward of West Coast GRC since 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "People's Action Party"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "14th Parliament of Singapore"
-                },
-                {
-                  "type": "internal",
-                  "page": "Boon Lay"
-                },
-                {
-                  "text": "West Coast GRC",
-                  "type": "internal",
-                  "page": "West Coast Group Representation Constituency"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "A lawyer by profession, Lee had worked at various public-sector institutions, including the Supreme Court, Attorney-General's Chambers and Temasek Holdings before entering politics.",
-              "links": [
-                {
-                  "text": "Supreme Court",
-                  "type": "internal",
-                  "page": "Supreme Court of Singapore"
-                },
-                {
-                  "text": "Attorney-General's Chambers",
-                  "type": "internal",
-                  "page": "Attorney-General of Singapore"
-                },
-                {
-                  "type": "internal",
-                  "page": "Temasek Holdings"
-                }
-              ]
-            },
-            {
-              "text": "He made his political debut in the 2011 general election as part of a five-member PAP team contesting in Jurong GRC and won with 66.96% of the vote.",
-              "links": [
-                {
-                  "text": "2011 general election",
-                  "type": "internal",
-                  "page": "2011 Singaporean general election"
-                },
-                {
-                  "text": "Jurong GRC",
-                  "type": "internal",
-                  "page": "Jurong Group Representation Constituency"
-                }
-              ]
-            },
-            {
-              "text": "He held various positions in the Ministries of National Development and Home Affairs before he was promoted to full Minister on 1 May 2017.",
-              "links": [
-                {
-                  "text": "Home Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Home Affairs (Singapore)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Singaporean politician and lawyer",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1976",
-          "template": "birth year and age"
-        },
-        {
-          "list": [
-            "Lee"
-          ],
-          "lang": "Chinese",
-          "template": "family name hatnote"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Desmond Lee"
-          },
-          "native_name": {
-            "text": "李智陞"
-          },
-          "native_name_lang": {
-            "text": "zh-hans"
-          },
-          "image": {
-            "text": "Desmond Lee at Bukit Brown Cemetery, Singapore - 20171118.jpg"
-          },
-          "caption": {
-            "text": "Lee in 2017"
-          },
-          "office": {
-            "text": "Minister for National Development",
-            "links": [
-              {
-                "text": "Minister for National Development",
-                "type": "internal",
-                "page": "Ministry of National Development (Singapore)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 July 2020"
-          },
-          "primeminister": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Lawrence Wong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawrence Wong"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Second Minister"
-          },
-          "1namedata": {
-            "text": "Indranee Rajah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indranee Rajah"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister-in-charge of Social Services Integration",
-            "links": [
-              {
-                "text": "Minister-in-charge of Social Services Integration",
-                "type": "internal",
-                "page": "Ministry of Social and Family Development"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "27 July 2020"
-          },
-          "primeminister1": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "constituency": {
-            "text": "West Coast GRC",
-            "links": [
-              {
-                "text": "West Coast GRC",
-                "type": "internal",
-                "page": "West Coast Group Representation Constituency"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Social and Family Development",
-            "links": [
-              {
-                "text": "Minister for Social and Family Development",
-                "type": "internal",
-                "page": "Ministry of Social and Family Development"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 September 2017"
-          },
-          "term_end2": {
-            "text": "26 July 2020"
-          },
-          "primeminister2": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Tan Chuan-Jin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tan Chuan-Jin"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Masagos Zulkifli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masagos Zulkifli"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister in the Prime Minister's Office",
-            "links": [
-              {
-                "text": "Minister in the Prime Minister's Office",
-                "type": "internal",
-                "page": "Prime Minister's Office (Singapore)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 May 2017"
-          },
-          "term_end3": {
-            "text": "10 September 2017"
-          },
-          "primeminister3": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Second Minister for National Development",
-            "links": [
-              {
-                "text": "Second Minister for National Development",
-                "type": "internal",
-                "page": "Ministry of National Development (Singapore)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 May 2017"
-          },
-          "term_end4": {
-            "text": "26 July 2020"
-          },
-          "primeminister4": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister4": {
-            "text": "Lawrence Wong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawrence Wong"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Indranee Rajah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indranee Rajah"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Second Minister for Home Affairs",
-            "links": [
-              {
-                "text": "Second Minister for Home Affairs",
-                "type": "internal",
-                "page": "Ministry of Home Affairs (Singapore)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 May 2017"
-          },
-          "term_end5": {
-            "text": "10 September 2017"
-          },
-          "primeminister5": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister5": {
-            "text": "K. Shanmugam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "K. Shanmugam"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Josephine Teo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Josephine Teo"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Senior Minister of State for Home Affairs",
-            "links": [
-              {
-                "text": "Senior Minister of State for Home Affairs",
-                "type": "internal",
-                "page": "Ministry of Home Affairs (Singapore)"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister6": {
-            "text": "K. Shanmugam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "K. Shanmugam"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1 October 2015"
-          },
-          "term_end6": {
-            "text": "30 April 2017"
-          },
-          "office7": {
-            "text": "Senior Minister of State for National Development",
-            "links": [
-              {
-                "text": "Senior Minister of State for National Development",
-                "type": "internal",
-                "page": "Ministry of National Development (Singapore)"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister7": {
-            "text": "Lawrence Wong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawrence Wong"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "1 October 2015"
-          },
-          "term_end7": {
-            "text": "30 April 2017"
-          },
-          "office8": {
-            "text": "Minister of State for National Development",
-            "links": [
-              {
-                "text": "Minister of State for National Development",
-                "type": "internal",
-                "page": "Ministry of National Development (Singapore)"
-              }
-            ]
-          },
-          "primeminister8": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister8": {
-            "text": "Khaw Boon Wan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khaw Boon Wan"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "1 September 2013"
-          },
-          "term_end8": {
-            "text": "30 September 2015"
-          },
-          "office9": {
-            "text": "Deputy Leader of the House",
-            "links": [
-              {
-                "text": "Deputy Leader of the House",
-                "type": "internal",
-                "page": "Leader of the House (Singapore)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "1 October 2015"
-          },
-          "term_end9": {
-            "text": "23 June 2020"
-          },
-          "primeminister9": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "predecessor9": {
-            "text": "Heng Chee How",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heng Chee How"
-              }
-            ]
-          },
-          "successor9": {
-            "text": "Zaqy Mohamad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zaqy Mohamad"
-              }
-            ]
-          },
-          "1blankname9": {
-            "text": "Leader"
-          },
-          "1namedata9": {
-            "text": "Grace Fu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grace Fu"
-              }
-            ]
-          },
-          "constituency_mp10": {
-            "text": "West Coast GRC\n(Boon Lay)",
-            "links": [
-              {
-                "text": "West Coast GRC",
-                "type": "internal",
-                "page": "West Coast Group Representation Constituency"
-              }
-            ]
-          },
-          "parliament10": {
-            "text": "Singapore"
-          },
-          "term_start10": {
-            "text": "10 July 2020"
-          },
-          "predecessor10": {
-            "text": "Patrick Tay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Patrick Tay"
-              }
-            ]
-          },
-          "majority10": {
-            "text": "4,662 (3.36%)"
-          },
-          "constituency_mp11": {
-            "text": "Jurong GRC\n(Jurong Spring)",
-            "links": [
-              {
-                "text": "Jurong GRC",
-                "type": "internal",
-                "page": "Jurong Group Representation Constituency"
-              }
-            ]
-          },
-          "parliament11": {
-            "text": "Singapore"
-          },
-          "term_start11": {
-            "text": "7 May 2011"
-          },
-          "term_end11": {
-            "text": "23 June 2020"
-          },
-          "predecessor11": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor11": {
-            "text": "Shawn Huang Wei Zhong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shawn Huang Wei Zhong"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1976 (age 46)"
-          },
-          "birth_place": {
-            "text": "Singapore",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Singapore"
-              }
-            ]
-          },
-          "party": {
-            "text": "People's Action Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Action Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "parents": {
-            "text": "Lee Yock Suan (father)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Yock Suan"
-              }
-            ]
-          },
-          "education": {
-            "text": "Anglo-Chinese School (Junior)\nRaffles Institution\nRaffles Junior College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anglo-Chinese School (Junior)"
-              },
-              {
-                "type": "internal",
-                "page": "Raffles Institution"
-              },
-              {
-                "text": "Raffles Junior College",
-                "type": "internal",
-                "page": "Raffles Institution (Junior College)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "National University of Singapore\nUniversity of Oxford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Singapore"
-              },
-              {
-                "type": "internal",
-                "page": "University of Oxford"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Desmond Lee",
+  "native_name": "李智陞",
+  "native_name_lang": "zh-hans",
+  "image": "Desmond Lee at Bukit Brown Cemetery, Singapore - 20171118.jpg",
+  "caption": "Lee in 2017",
+  "office": "Minister for National Development",
+  "term_start": "27 July 2020",
+  "primeminister": "Lee Hsien Loong",
+  "predecessor": "Lawrence Wong",
+  "1blankname": "Second Minister",
+  "1namedata": "Indranee Rajah",
+  "office1": "Minister-in-charge of Social Services Integration",
+  "term_start1": "27 July 2020",
+  "primeminister1": "Lee Hsien Loong",
+  "predecessor1": "Position established",
+  "constituency": "West Coast GRC",
+  "office2": "Minister for Social and Family Development",
+  "term_start2": "11 September 2017",
+  "term_end2": "26 July 2020",
+  "primeminister2": "Lee Hsien Loong",
+  "predecessor2": "Tan Chuan-Jin",
+  "successor2": "Masagos Zulkifli",
+  "office3": "Minister in the Prime Minister's Office",
+  "term_start3": "1 May 2017",
+  "term_end3": "10 September 2017",
+  "primeminister3": "Lee Hsien Loong",
+  "office4": "Second Minister for National Development",
+  "term_start4": "1 May 2017",
+  "term_end4": "26 July 2020",
+  "primeminister4": "Lee Hsien Loong",
+  "minister4": "Lawrence Wong",
+  "successor4": "Indranee Rajah",
+  "office5": "Second Minister for Home Affairs",
+  "term_start5": "1 May 2017",
+  "term_end5": "10 September 2017",
+  "primeminister5": "Lee Hsien Loong",
+  "minister5": "K. Shanmugam",
+  "successor5": "Josephine Teo",
+  "office6": "Senior Minister of State for Home Affairs",
+  "primeminister6": "Lee Hsien Loong",
+  "minister6": "K. Shanmugam",
+  "term_start6": "1 October 2015",
+  "term_end6": "30 April 2017",
+  "office7": "Senior Minister of State for National Development",
+  "primeminister7": "Lee Hsien Loong",
+  "minister7": "Lawrence Wong",
+  "term_start7": "1 October 2015",
+  "term_end7": "30 April 2017",
+  "office8": "Minister of State for National Development",
+  "primeminister8": "Lee Hsien Loong",
+  "minister8": "Khaw Boon Wan",
+  "term_start8": "1 September 2013",
+  "term_end8": "30 September 2015",
+  "office9": "Deputy Leader of the House",
+  "term_start9": "1 October 2015",
+  "term_end9": "23 June 2020",
+  "primeminister9": "Lee Hsien Loong",
+  "predecessor9": "Heng Chee How",
+  "successor9": "Zaqy Mohamad",
+  "1blankname9": "Leader",
+  "1namedata9": "Grace Fu",
+  "constituency_mp10": "West Coast GRC\n(Boon Lay)",
+  "parliament10": "Singapore",
+  "term_start10": "10 July 2020",
+  "predecessor10": "Patrick Tay",
+  "majority10": "4,662 (3.36%)",
+  "constituency_mp11": "Jurong GRC\n(Jurong Spring)",
+  "parliament11": "Singapore",
+  "term_start11": "7 May 2011",
+  "term_end11": "23 June 2020",
+  "predecessor11": "Position established",
+  "successor11": "Shawn Huang Wei Zhong",
+  "birth_date": "1976 (age 46)",
+  "birth_place": "Singapore",
+  "party": "People's Action Party",
+  "children": "3",
+  "parents": "Lee Yock Suan (father)",
+  "education": "Anglo-Chinese School (Junior)\nRaffles Institution\nRaffles Junior College",
+  "alma_mater": "National University of Singapore\nUniversity of Oxford",
+  "profession": "Politician"
 }

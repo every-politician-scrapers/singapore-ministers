@@ -1,685 +1,79 @@
 {
-  "title": "Josephine Teo",
-  "pageID": 8446062,
-  "categories": [
-    "Members of the Parliament of Singapore",
-    "People's Action Party politicians",
-    "Singaporean women in politics",
-    "National University of Singapore alumni",
-    "Raffles Junior College alumni",
-    "Singaporean people of Hakka descent",
-    "Singaporean Christians",
-    "1968 births",
-    "Living people",
-    "Singaporean trade unionists",
-    "Dunman High School alumni",
-    "Women government ministers of Singapore",
-    "Ministers for Manpower of Singapore",
-    "Members of the Cabinet of Singapore"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Josephine Teo Li Min née Yong (born 1968) is a Singaporean politician who has been serving as Minister for Communications and Information since 2021, and Minister-in-charge of the Cyber Security Agency and Smart Nation Initiative and Second Minister for Home Affairs since 2017.",
-              "links": [
-                {
-                  "text": "née",
-                  "type": "internal",
-                  "page": "née"
-                },
-                {
-                  "text": "Minister for Communications and Information",
-                  "type": "internal",
-                  "page": "Ministry of Communications and Information"
-                },
-                {
-                  "text": "Cyber Security Agency",
-                  "type": "internal",
-                  "page": "Cyber Security Agency (Singapore)"
-                },
-                {
-                  "text": "Smart Nation Initiative",
-                  "type": "internal",
-                  "page": "Smart Nation"
-                },
-                {
-                  "text": "Second Minister for Home Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Home Affairs (Singapore)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Josephine Teo Li Min",
-                  "Yong"
-                ]
-              }
-            },
-            {
-              "text": "A member of the governing People's Action Party (PAP), she has been a Member of the 14th Parliament representing the Kreta Ayer-Kim Seng ward of Jalan Besar Group Representation Constituency (GRC) since 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "People's Action Party"
-                },
-                {
-                  "text": "Member",
-                  "type": "internal",
-                  "page": "Member of parliament"
-                },
-                {
-                  "text": "14th Parliament",
-                  "type": "internal",
-                  "page": "14th Parliament of Singapore"
-                },
-                {
-                  "text": "Kreta Ayer",
-                  "type": "internal",
-                  "page": "Kreta Ayer Road"
-                },
-                {
-                  "text": "Kim Seng",
-                  "type": "internal",
-                  "page": "Kim Seng Road"
-                },
-                {
-                  "text": "Jalan Besar Group Representation Constituency (GRC)",
-                  "type": "internal",
-                  "page": "Jalan Besar Group Representation Constituency"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Before entering politics, Teo had worked at the Economic Development Board, Agency for Science, Technology and Research and National Trades Union Congress.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Economic Development Board"
-                },
-                {
-                  "type": "internal",
-                  "page": "Agency for Science, Technology and Research"
-                },
-                {
-                  "type": "internal",
-                  "page": "National Trades Union Congress"
-                }
-              ]
-            },
-            {
-              "text": "She made her political debut in the 2006 general election as part of a five-member PAP team contesting in Bishan–Toa Payoh GRC.",
-              "links": [
-                {
-                  "text": "2006 general election",
-                  "type": "internal",
-                  "page": "2006 Singaporean general election"
-                },
-                {
-                  "text": "Bishan–Toa Payoh GRC",
-                  "type": "internal",
-                  "page": "Bishan–Toa Payoh Group Representation Constituency"
-                }
-              ]
-            },
-            {
-              "text": "The PAP team won by an uncontested walkover and Teo was elected as a Member of Parliament representing the Toa Payoh East ward.",
-              "links": [
-                {
-                  "text": "Toa Payoh East",
-                  "type": "internal",
-                  "page": "Toa Payoh"
-                }
-              ]
-            },
-            {
-              "text": "After the 2011 general election, she switched to representing the Bishan North ward in Bishan–Toa Payoh GRC.",
-              "links": [
-                {
-                  "text": "2011 general election",
-                  "type": "internal",
-                  "page": "2011 Singaporean general election"
-                },
-                {
-                  "text": "Bishan North",
-                  "type": "internal",
-                  "page": "Bishan, Singapore"
-                }
-              ]
-            },
-            {
-              "text": "She held positions in the Ministries of Finance, Transport before she was promoted to full Minister on 1 May 2017.",
-              "links": [
-                {
-                  "text": "Finance",
-                  "type": "internal",
-                  "page": "Ministry of Finance (Singapore)"
-                },
-                {
-                  "text": "Transport",
-                  "type": "internal",
-                  "page": "Ministry of Transport (Singapore)"
-                }
-              ]
-            },
-            {
-              "text": "She had since held portfolios in the Prime Minister's Office and Manpower and Foreign Affairs ministries.",
-              "links": [
-                {
-                  "text": "Prime Minister's Office",
-                  "type": "internal",
-                  "page": "Prime Minister's Office (Singapore)"
-                },
-                {
-                  "text": "Manpower",
-                  "type": "internal",
-                  "page": "Ministry of Manpower (Singapore)"
-                },
-                {
-                  "text": "Foreign Affairs",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Singapore)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Singaporean politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Minister"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "list": [
-            "Second Minister"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "list": [
-            "Minister of State"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "list": [
-            "Member of Parliament"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "year": "1968",
-          "month": "07",
-          "day": "08",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Teo / Yong"
-          ],
-          "lang": "Chinese",
-          "template": "family name hatnote"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office4": {
-            "text": "Minister for Manpower",
-            "links": [
-              {
-                "text": "Minister for Manpower",
-                "type": "internal",
-                "page": "Ministry of Manpower (Singapore)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 May 2018"
-          },
-          "term_end4": {
-            "text": "14 May 2021"
-          },
-          "predecessor4": {
-            "text": "Lim Swee Say",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lim Swee Say"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Tan See Leng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tan See Leng"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister in Prime Minister's Office",
-            "links": [
-              {
-                "text": "Minister in Prime Minister's Office",
-                "type": "internal",
-                "page": "Prime Minister's Office (Singapore)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 May 2017"
-          },
-          "term_end5": {
-            "text": "30 April 2018"
-          },
-          "alongside5": {
-            "text": "Chan Chun Sing",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chan Chun Sing"
-              }
-            ]
-          }
-        },
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office6": {
-            "text": "Second Minister for Manpower",
-            "links": [
-              {
-                "text": "Second Minister for Manpower",
-                "type": "internal",
-                "page": "Ministry of Manpower (Singapore)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1 May 2017"
-          },
-          "term_end6": {
-            "text": "30 April 2018"
-          },
-          "minister6": {
-            "text": "Lim Swee Say",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lim Swee Say"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Tan See Leng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tan See Leng"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Second Minister for Foreign Affairs",
-            "links": [
-              {
-                "text": "Second Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Singapore)"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "1 May 2017"
-          },
-          "term_end7": {
-            "text": "10 September 2017"
-          },
-          "minister7": {
-            "text": "Vivian Balakrishnan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vivian Balakrishnan"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Maliki Osman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maliki Osman"
-              }
-            ]
-          }
-        },
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office8": {
-            "text": "Senior Minister of State,\n Prime Minister's Office",
-            "links": [
-              {
-                "text": "Prime Minister's Office",
-                "type": "internal",
-                "page": "Prime Minister's Office (Singapore)"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "1 October 2015"
-          },
-          "term_end8": {
-            "text": "30 April 2017"
-          },
-          "alongside8": {
-            "text": "Heng Chee How",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heng Chee How"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Senior Minister of State,\n Ministry of Transport",
-            "links": [
-              {
-                "text": "Ministry of Transport",
-                "type": "internal",
-                "page": "Ministry of Transport (Singapore)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "1 September 2013"
-          },
-          "term_end9": {
-            "text": "30 April 2017"
-          },
-          "office10": {
-            "text": "Senior Minister of State,\n Ministry Of Finance",
-            "links": [
-              {
-                "text": "Ministry Of Finance",
-                "type": "internal",
-                "page": "Ministry of Finance (Singapore)"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "1 September 2013"
-          },
-          "term_end10": {
-            "text": "30 September 2015"
-          },
-          "office11": {
-            "text": "Minister of State,\nMinistry for Finance",
-            "links": [
-              {
-                "text": "Ministry for Finance",
-                "type": "internal",
-                "page": "Ministry of Finance (Singapore)"
-              }
-            ]
-          },
-          "term_start11": {
-            "text": "18 May 2011"
-          },
-          "term_end11": {
-            "text": "1 September 2013"
-          },
-          "office12": {
-            "text": "Minister of State,\nMinistry for Transport",
-            "links": [
-              {
-                "text": "Ministry for Transport",
-                "type": "internal",
-                "page": "Ministry of Transport (Singapore)"
-              }
-            ]
-          },
-          "term_start12": {
-            "text": "18 May 2011"
-          },
-          "term_end12": {
-            "text": "1 September 2013"
-          }
-        },
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office13": {
-            "text": "Member of Parliament\nfor Bishan-Toa Payoh GRC\n(Bishan North)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bishan-Toa Payoh GRC"
-              }
-            ]
-          },
-          "term_start13": {
-            "text": "8 May 2011"
-          },
-          "term_end13": {
-            "text": "23 June 2020"
-          },
-          "office14": {
-            "text": "Member of Parliament\nfor Bishan-Toa Payoh GRC\n(Toa Payoh East)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bishan-Toa Payoh GRC"
-              }
-            ]
-          },
-          "term_start14": {
-            "text": "27 April 2006"
-          },
-          "term_end14": {
-            "text": "8 May 2011"
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Josephine Teo Li Min"
-          },
-          "native_name": {
-            "text": "杨莉明"
-          },
-          "image": {
-            "text": "Josephine Teo September 2016 (29908295102).jpg"
-          },
-          "caption": {
-            "text": "Teo in 2016"
-          },
-          "office1": {
-            "text": "Minister for Communications and Information",
-            "links": [
-              {
-                "text": "Minister for Communications and Information",
-                "type": "internal",
-                "page": "Ministry of Communications and Information"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "15 May 2021"
-          },
-          "predecessor1": {
-            "text": "S. Iswaran",
-            "links": [
-              {
-                "type": "internal",
-                "page": "S. Iswaran"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Second Minister for Home Affairs",
-            "links": [
-              {
-                "text": "Second Minister for Home Affairs",
-                "type": "internal",
-                "page": "Ministry of Home Affairs (Singapore)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 September 2017"
-          },
-          "minister2": {
-            "text": "K. Shanmugam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "K. Shanmugam"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Desmond Lee",
-            "links": [
-              {
-                "text": "Desmond Lee",
-                "type": "internal",
-                "page": "Desmond Lee (Singaporean politician)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of Parliament\nfor Jalan Besar GRC\n(Kreta Ayer-Kim Seng)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jalan Besar GRC"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "10 July 2020"
-          },
-          "predecessor3": {
-            "text": "Lily Neo (PAP)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lily Neo"
-              },
-              {
-                "text": "PAP",
-                "type": "internal",
-                "page": "People's Action Party"
-              }
-            ]
-          },
-          "office16": {
-            "text": "Past offices held"
-          },
-          "birthname": {
-            "text": "Josephine Yong Li Min"
-          },
-          "birth_date": {
-            "text": "July 8, 1968"
-          },
-          "birth_place": {
-            "text": "Singapore",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Singapore"
-              }
-            ]
-          },
-          "party": {
-            "text": "People's Action Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Action Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Teo Eng Cheong"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "National University of Singapore\nLondon School of Economics",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Singapore"
-              },
-              {
-                "type": "internal",
-                "page": "London School of Economics"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "office4": "Minister for Manpower",
+  "term_start4": "1 May 2018",
+  "term_end4": "14 May 2021",
+  "predecessor4": "Lim Swee Say",
+  "successor4": "Tan See Leng",
+  "office5": "Minister in Prime Minister's Office",
+  "term_start5": "1 May 2017",
+  "term_end5": "30 April 2018",
+  "alongside5": "Chan Chun Sing"
+}
+{
+  "embed": "yes",
+  "office6": "Second Minister for Manpower",
+  "term_start6": "1 May 2017",
+  "term_end6": "30 April 2018",
+  "minister6": "Lim Swee Say",
+  "successor6": "Tan See Leng",
+  "office7": "Second Minister for Foreign Affairs",
+  "term_start7": "1 May 2017",
+  "term_end7": "10 September 2017",
+  "minister7": "Vivian Balakrishnan",
+  "successor7": "Maliki Osman"
+}
+{
+  "embed": "yes",
+  "office8": "Senior Minister of State,\n Prime Minister's Office",
+  "term_start8": "1 October 2015",
+  "term_end8": "30 April 2017",
+  "alongside8": "Heng Chee How",
+  "office9": "Senior Minister of State,\n Ministry of Transport",
+  "term_start9": "1 September 2013",
+  "term_end9": "30 April 2017",
+  "office10": "Senior Minister of State,\n Ministry Of Finance",
+  "term_start10": "1 September 2013",
+  "term_end10": "30 September 2015",
+  "office11": "Minister of State,\nMinistry for Finance",
+  "term_start11": "18 May 2011",
+  "term_end11": "1 September 2013",
+  "office12": "Minister of State,\nMinistry for Transport",
+  "term_start12": "18 May 2011",
+  "term_end12": "1 September 2013"
+}
+{
+  "embed": "yes",
+  "office13": "Member of Parliament\nfor Bishan-Toa Payoh GRC\n(Bishan North)",
+  "term_start13": "8 May 2011",
+  "term_end13": "23 June 2020",
+  "office14": "Member of Parliament\nfor Bishan-Toa Payoh GRC\n(Toa Payoh East)",
+  "term_start14": "27 April 2006",
+  "term_end14": "8 May 2011"
+}
+{
+  "honorific-prefix": "The Honourable",
+  "name": "Josephine Teo Li Min",
+  "native_name": "杨莉明",
+  "image": "Josephine Teo September 2016 (29908295102).jpg",
+  "caption": "Teo in 2016",
+  "office1": "Minister for Communications and Information",
+  "primeminister1": "Lee Hsien Loong",
+  "term_start1": "15 May 2021",
+  "predecessor1": "S. Iswaran",
+  "office2": "Second Minister for Home Affairs",
+  "term_start2": "11 September 2017",
+  "minister2": "K. Shanmugam",
+  "predecessor2": "Desmond Lee",
+  "office3": "Member of Parliament\nfor Jalan Besar GRC\n(Kreta Ayer-Kim Seng)",
+  "term_start3": "10 July 2020",
+  "predecessor3": "Lily Neo (PAP)",
+  "office16": "Past offices held",
+  "birthname": "Josephine Yong Li Min",
+  "birth_date": "July 8, 1968",
+  "birth_place": "Singapore",
+  "party": "People's Action Party",
+  "spouse": "Teo Eng Cheong",
+  "children": "3",
+  "alma_mater": "National University of Singapore\nLondon School of Economics"
 }
