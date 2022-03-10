@@ -1,651 +1,74 @@
 {
-  "title": "Grace Fu",
-  "pageID": 12289093,
-  "categories": [
-    "1964 births",
-    "Living people",
-    "Culture ministers",
-    "Government ministers of Singapore",
-    "Hwa Chong Junior College alumni",
-    "Members of the Cabinet of Singapore",
-    "Members of the Parliament of Singapore",
-    "National University of Singapore alumni",
-    "People's Action Party politicians",
-    "Singaporean people of Hokkien descent",
-    "Women government ministers of Singapore",
-    "Honorary Dames Commander of the Order of St Michael and St George",
-    "Singaporean women in politics",
-    "Environment ministers of Singapore"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Grace Fu Hai Yien (born 1964) is a Singaporean politician who has been serving as the Minister for Sustainability and the Environment since 2020.",
-              "links": [
-                {
-                  "text": "Minister for Sustainability and the Environment",
-                  "type": "internal",
-                  "page": "Ministry of Sustainability and the Environment"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Grace Fu Hai Yien"
-                ]
-              }
-            },
-            {
-              "text": "A member of the governing People's Action Party (PAP), she is the Member of Parliament (MP) representing Yuhua SMC since 2011.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "People's Action Party"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "14th Parliament of Singapore"
-                },
-                {
-                  "text": "Yuhua SMC",
-                  "type": "internal",
-                  "page": "Yuhua Single Member Constituency"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Before entering politics, Fu was an accountant and had worked at Overseas Union Bank, Haw Par Group and PSA Corporation.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Overseas Union Bank"
-                },
-                {
-                  "text": "Haw Par Group",
-                  "type": "internal",
-                  "page": "Haw Par Corporation"
-                },
-                {
-                  "text": "PSA Corporation",
-                  "type": "internal",
-                  "page": "PSA International"
-                }
-              ]
-            },
-            {
-              "text": "She stood for election in the 2006 general election as part of the PAP team contesting in Jurong Group Representation Constituency (GRC) and was elected.",
-              "links": [
-                {
-                  "text": "2006 general election",
-                  "type": "internal",
-                  "page": "2006 Singaporean general election"
-                },
-                {
-                  "text": "Jurong Group Representation Constituency (GRC)",
-                  "type": "internal",
-                  "page": "Jurong Group Representation Constituency"
-                }
-              ]
-            },
-            {
-              "text": "Starting from the 2011 general election onwards, she had been contesting as a solo candidate in Yuhua SMC and had won three elections since then.",
-              "links": [
-                {
-                  "text": "2011 general election",
-                  "type": "internal",
-                  "page": "2011 Singaporean general election"
-                }
-              ]
-            },
-            {
-              "text": "Throughout her political career, she held positions in various ministries and was Leader of the House from 1 October 2015 to 23 August 2020.",
-              "links": [
-                {
-                  "text": "Leader of the House",
-                  "type": "internal",
-                  "page": "Leader of the House (Singapore)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Singaporean politician",
-          "template": "short description"
-        },
-        {
-          "date": "May 2015",
-          "template": "engvarb"
-        },
-        {
-          "date": "May 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "GBR",
-          "size": "90%",
-          "list": [
-            "DCMGh"
-          ],
-          "template": "post-nominals"
-        },
-        {
-          "df": "y",
-          "year": "1964",
-          "month": "3",
-          "day": "29",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Fu"
-          ],
-          "lang": "Chinese",
-          "template": "family name hatnote"
-        },
-        {
-          "country": "GBR",
-          "size": "90%",
-          "list": [
-            "DCMGh"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable Dame",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              },
-              {
-                "type": "internal",
-                "page": "Dame"
-              }
-            ]
-          },
-          "name": {
-            "text": "Grace Fu"
-          },
-          "native_name": {
-            "text": "傅海燕"
-          },
-          "image": {
-            "text": "Grace Fu (cropped).jpg"
-          },
-          "image_size": {
-            "text": "200px"
-          },
-          "caption": {
-            "text": "Fu in 2020"
-          },
-          "office": {
-            "text": "Minister for Sustainability and the Environment",
-            "links": [
-              {
-                "text": "Minister for Sustainability and the Environment",
-                "type": "internal",
-                "page": "Ministry of Sustainability and the Environment"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "constituency": {
-            "text": "Yuhua SMC",
-            "links": [
-              {
-                "text": "Yuhua SMC",
-                "type": "internal",
-                "page": "Yuhua Single Member Constituency"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "27 July 2020"
-          },
-          "predecessor": {
-            "text": "Masagos Zulkifli\n(as Minister for the Environment and Water Resources)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Masagos Zulkifli"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister for Culture, Community and Youth",
-            "links": [
-              {
-                "text": "Minister for Culture, Community and Youth",
-                "type": "internal",
-                "page": "Ministry of Culture, Community and Youth"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 October 2015"
-          },
-          "term_end1": {
-            "text": "26 July 2020"
-          },
-          "primeminister1": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Lawrence Wong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lawrence Wong"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Edwin Tong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edwin Tong"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Leader of the House",
-            "links": [
-              {
-                "text": "Leader of the House",
-                "type": "internal",
-                "page": "Leader of the House (Singapore)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2015"
-          },
-          "term_end2": {
-            "text": "23 August 2020"
-          },
-          "primeminister2": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "deputy2": {
-            "text": "Desmond Lee",
-            "links": [
-              {
-                "text": "Desmond Lee",
-                "type": "internal",
-                "page": "Desmond Lee (Singaporean politician)"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Ng Eng Hen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ng Eng Hen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Indranee Rajah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Indranee Rajah"
-              }
-            ]
-          },
-          "constituency_mp3": {
-            "text": "Yuhua SMC",
-            "links": [
-              {
-                "text": "Yuhua SMC",
-                "type": "internal",
-                "page": "Yuhua Single Member Constituency"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "Singapore"
-          },
-          "term_start3": {
-            "text": "21 May 2011"
-          },
-          "predecessor3": {
-            "text": "Yu-Foo Yee Shoon\n(1984–1997)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yu-Foo Yee Shoon"
-              }
-            ]
-          },
-          "majority3": {
-            "text": "8,217\t(41.08%)"
-          },
-          "office4": {
-            "text": "Minister in the Prime Minister's Office",
-            "links": [
-              {
-                "text": "Minister in the Prime Minister's Office",
-                "type": "internal",
-                "page": "Prime Minister's Office (Singapore)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 August 2012"
-          },
-          "term_end4": {
-            "text": "30 September 2015"
-          },
-          "primeminister4": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Second Minister for the Environment and Water Resources",
-            "links": [
-              {
-                "text": "Second Minister for the Environment and Water Resources",
-                "type": "internal",
-                "page": "Minister for the Environment and Water Resources"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 August 2012"
-          },
-          "term_end5": {
-            "text": "30 September 2015"
-          },
-          "primeminister5": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister5": {
-            "text": "Vivian Balakrishnan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vivian Balakrishnan"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Second Minister for Foreign Affairs",
-            "links": [
-              {
-                "text": "Second Minister for Foreign Affairs",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Singapore)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1 August 2012"
-          },
-          "term_end6": {
-            "text": "30 September 2015"
-          },
-          "primeminister6": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister6": {
-            "text": "K. Shanmugam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "K. Shanmugam"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Senior Minister of State for Information, Communications and the Arts",
-            "links": [
-              {
-                "text": "Senior Minister of State for Information, Communications and the Arts",
-                "type": "internal",
-                "page": "Ministry of Communications and Information"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "21 May 2011"
-          },
-          "term_end7": {
-            "text": "30 July 2012"
-          },
-          "primeminister7": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "minister7": {
-            "text": "Yaacob Ibrahim",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yaacob Ibrahim"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Senior Minister of State for the Environment and Water Resources",
-            "links": [
-              {
-                "text": "Senior Minister of State for the Environment and Water Resources",
-                "type": "internal",
-                "page": "Ministry of the Environment and Water Resources"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "21 May 2011"
-          },
-          "term_end8": {
-            "text": "30 July 2012"
-          },
-          "primeminister8": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "office9": {
-            "text": "Senior Minister of State for Education",
-            "links": [
-              {
-                "text": "Senior Minister of State for Education",
-                "type": "internal",
-                "page": "Ministry of Education (Singapore)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "1 April 2008"
-          },
-          "term_end9": {
-            "text": "20 May 2011"
-          },
-          "primeminister9": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "office10": {
-            "text": "Senior Minister of State for National Development",
-            "links": [
-              {
-                "text": "Senior Minister of State for National Development",
-                "type": "internal",
-                "page": "Ministry of National Development (Singapore)"
-              }
-            ]
-          },
-          "term_start10": {
-            "text": "1 April 2008"
-          },
-          "term_end10": {
-            "text": "20 May 2011"
-          },
-          "primeminister10": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "constituency_mp11": {
-            "text": "Jurong GRC\n(Yuhua)",
-            "links": [
-              {
-                "text": "Jurong GRC",
-                "type": "internal",
-                "page": "Jurong Group Representation Constituency"
-              }
-            ]
-          },
-          "parliament11": {
-            "text": "Singapore"
-          },
-          "term_start11": {
-            "text": "27 April 2006"
-          },
-          "term_end11": {
-            "text": "18 April 2011"
-          },
-          "predecessor11": {
-            "text": "Yu-Foo Yee Shoon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yu-Foo Yee Shoon"
-              }
-            ]
-          },
-          "successor11": {
-            "text": "Position abolished",
-            "formatting": {
-              "italic": [
-                "Position abolished"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "March 29, 1964"
-          },
-          "birth_place": {
-            "text": "Singapore",
-            "links": [
-              {
-                "text": "Singapore",
-                "type": "internal",
-                "page": "Singapore in Malaysia"
-              }
-            ]
-          },
-          "party": {
-            "text": "People's Action Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Action Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "National University of Singapore (BAcy, MBA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Singapore"
-              },
-              {
-                "text": "BAcy",
-                "type": "internal",
-                "page": "Bachelor of Accountancy"
-              },
-              {
-                "text": "MBA",
-                "type": "internal",
-                "page": "Master of Business Administration"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ivan Lee"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable Dame",
+  "name": "Grace Fu",
+  "native_name": "傅海燕",
+  "image": "Grace Fu (cropped).jpg",
+  "image_size": "200px",
+  "caption": "Fu in 2020",
+  "office": "Minister for Sustainability and the Environment",
+  "primeminister": "Lee Hsien Loong",
+  "constituency": "Yuhua SMC",
+  "term_start": "27 July 2020",
+  "predecessor": "Masagos Zulkifli\n(as Minister for the Environment and Water Resources)",
+  "office1": "Minister for Culture, Community and Youth",
+  "term_start1": "1 October 2015",
+  "term_end1": "26 July 2020",
+  "primeminister1": "Lee Hsien Loong",
+  "predecessor1": "Lawrence Wong",
+  "successor1": "Edwin Tong",
+  "office2": "Leader of the House",
+  "term_start2": "1 October 2015",
+  "term_end2": "23 August 2020",
+  "primeminister2": "Lee Hsien Loong",
+  "deputy2": "Desmond Lee",
+  "predecessor2": "Ng Eng Hen",
+  "successor2": "Indranee Rajah",
+  "constituency_mp3": "Yuhua SMC",
+  "parliament3": "Singapore",
+  "term_start3": "21 May 2011",
+  "predecessor3": "Yu-Foo Yee Shoon\n(1984–1997)",
+  "majority3": "8,217\t(41.08%)",
+  "office4": "Minister in the Prime Minister's Office",
+  "term_start4": "1 August 2012",
+  "term_end4": "30 September 2015",
+  "primeminister4": "Lee Hsien Loong",
+  "office5": "Second Minister for the Environment and Water Resources",
+  "term_start5": "1 August 2012",
+  "term_end5": "30 September 2015",
+  "primeminister5": "Lee Hsien Loong",
+  "minister5": "Vivian Balakrishnan",
+  "office6": "Second Minister for Foreign Affairs",
+  "term_start6": "1 August 2012",
+  "term_end6": "30 September 2015",
+  "primeminister6": "Lee Hsien Loong",
+  "minister6": "K. Shanmugam",
+  "office7": "Senior Minister of State for Information, Communications and the Arts",
+  "term_start7": "21 May 2011",
+  "term_end7": "30 July 2012",
+  "primeminister7": "Lee Hsien Loong",
+  "minister7": "Yaacob Ibrahim",
+  "office8": "Senior Minister of State for the Environment and Water Resources",
+  "term_start8": "21 May 2011",
+  "term_end8": "30 July 2012",
+  "primeminister8": "Lee Hsien Loong",
+  "office9": "Senior Minister of State for Education",
+  "term_start9": "1 April 2008",
+  "term_end9": "20 May 2011",
+  "primeminister9": "Lee Hsien Loong",
+  "office10": "Senior Minister of State for National Development",
+  "term_start10": "1 April 2008",
+  "term_end10": "20 May 2011",
+  "primeminister10": "Lee Hsien Loong",
+  "constituency_mp11": "Jurong GRC\n(Yuhua)",
+  "parliament11": "Singapore",
+  "term_start11": "27 April 2006",
+  "term_end11": "18 April 2011",
+  "predecessor11": "Yu-Foo Yee Shoon",
+  "successor11": "Position abolished",
+  "birth_date": "March 29, 1964",
+  "birth_place": "Singapore",
+  "party": "People's Action Party",
+  "alma_mater": "National University of Singapore (BAcy, MBA)",
+  "spouse": "Ivan Lee",
+  "children": "3"
 }

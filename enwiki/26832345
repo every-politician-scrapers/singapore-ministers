@@ -1,475 +1,54 @@
 {
-  "title": "Halimah Yacob",
-  "pageID": 26832345,
-  "categories": [
-    "1954 births",
-    "21st-century women politicians",
-    "Female heads of state",
-    "Living people",
-    "Members of the Parliament of Singapore",
-    "National University of Singapore alumni",
-    "People's Action Party politicians",
-    "Presidents of Singapore",
-    "Singaporean Muslims",
-    "Singaporean people of Malay descent",
-    "Singaporean politicians of Indian descent",
-    "Singaporean women in politics",
-    "Speakers of the Parliament of Singapore",
-    "Women legislative speakers",
-    "Women presidents"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Halimah Yacob (born 23 August 1954) is a Singaporean politician who is the 8th and current president of Singapore.",
-              "links": [
-                {
-                  "text": "Singaporean",
-                  "type": "internal",
-                  "page": "Singaporeans"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "text": "president of Singapore",
-                  "type": "internal",
-                  "page": "president of Singapore"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Halimah Yacob"
-                ]
-              }
-            },
-            {
-              "text": "She is the first female president in the country's history."
-            },
-            {
-              "text": "A former member of the People's Action Party (PAP), she resigned and became an independent to run for the presidency at the 2017 Singapore presidential election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "People's Action Party"
-                },
-                {
-                  "text": "2017 Singapore presidential election",
-                  "type": "internal",
-                  "page": "2017 Singapore presidential election"
-                }
-              ]
-            },
-            {
-              "text": "Halimah won the election after a walkover.",
-              "links": [
-                {
-                  "text": "walkover",
-                  "type": "internal",
-                  "page": "uncontested election"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Prior to her presidency, she was a Member of Parliament (MP) for Jurong GRC (situated from Bukit Batok East) from 2001 to 2015 and for Marsiling–Yew Tee GRC (constituency of Marsiling) from 2015 to 2017.",
-              "links": [
-                {
-                  "text": "Jurong GRC",
-                  "type": "internal",
-                  "page": "Jurong Group Representation Constituency"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bukit Batok East"
-                },
-                {
-                  "text": "Marsiling–Yew Tee GRC",
-                  "type": "internal",
-                  "page": "Marsiling–Yew Tee Group Representation Constituency"
-                },
-                {
-                  "type": "internal",
-                  "page": "Marsiling"
-                }
-              ]
-            },
-            {
-              "text": "She was sworn in the following day becoming the second Muslim president since Yusof Ishak in 1965.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Yusof Ishak"
-                }
-              ]
-            },
-            {
-              "text": "She had also served as the 9th Speaker of the Parliament of Singapore from 2013 to 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Speaker of the Parliament of Singapore"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "8th President of the Republic of Singapore",
-          "template": "short description"
-        },
-        {
-          "date": "April 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "July 2020",
-          "template": "use singapore english"
-        },
-        {
-          "list": [
-            "Halimah",
-            "Yacob"
-          ],
-          "template": "malay name"
-        },
-        {
-          "title": "See list",
-          "list": [
-            "Charles Chong",
-            "Lim Biow Chuan"
-          ],
-          "template": "list collapsed"
-        },
-        {
-          "list": [
-            "Parliamentary constituencies\n(2001–2017)"
-          ],
-          "titlestyle": "border:1px dashed lightgrey;",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "year": "1954",
-          "month": "8",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Mohammed Abdullah Alhabshee",
-          "from": "1980",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "constituency_mp6": {
-            "text": "Marsiling–Yew Tee GRC (constituency of Marsiling)",
-            "links": [
-              {
-                "text": "Marsiling–Yew Tee GRC",
-                "type": "internal",
-                "page": "Marsiling–Yew Tee Group Representation Constituency"
-              }
-            ]
-          },
-          "parliament6": {
-            "text": "Singapore"
-          },
-          "term_start6": {
-            "text": "11 September 2015"
-          },
-          "term_end6": {
-            "text": "7 August 2017"
-          },
-          "predecessor6": {
-            "text": "Hawazi bin Daipi"
-          },
-          "constituency_mp7": {
-            "text": "Jurong GRC (situated from Bukit Batok East)",
-            "links": [
-              {
-                "text": "Jurong GRC",
-                "type": "internal",
-                "page": "Jurong Group Representation Constituency"
-              }
-            ]
-          },
-          "parliament7": {
-            "text": "Singapore"
-          },
-          "term_start7": {
-            "text": "3 November 2001"
-          },
-          "term_end7": {
-            "text": "24 August 2015"
-          },
-          "predecessor7": {
-            "text": "Constituency established",
-            "formatting": {
-              "italic": [
-                "Constituency established"
-              ]
-            }
-          },
-          "successor7": {
-            "text": "Rahayu Mahzam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rahayu Mahzam"
-              }
-            ]
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "Her Excellency",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Her Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "Halimah Yacob"
-          },
-          "image": {
-            "text": "Republic of Singapore President Halimah Yacob witnesses the program proper during her visit to the Philippine Eagle Center in Davao City on September 11, 2019 (cropped).jpg"
-          },
-          "order": {
-            "text": "8th"
-          },
-          "office": {
-            "text": "President of Singapore"
-          },
-          "primeminister": {
-            "text": "Lee Hsien Loong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lee Hsien Loong"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 September 2017"
-          },
-          "predecessor": {
-            "text": "Tony Tan Keng Yam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tony Tan Keng Yam"
-              }
-            ]
-          },
-          "order2": {
-            "text": "Chancellor of the"
-          },
-          "office2": {
-            "text": "National University of Singapore"
-          },
-          "term_start2": {
-            "text": "14 September 2017"
-          },
-          "predecessor2": {
-            "text": "Tony Tan Keng Yam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tony Tan Keng Yam"
-              }
-            ]
-          },
-          "1blankname2": {
-            "text": "Provost"
-          },
-          "1namedata2": {
-            "text": "Teck-Hua Ho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teck-Hua Ho"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Tan Eng Chye",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tan Eng Chye"
-              }
-            ]
-          },
-          "order3": {
-            "text": "Chancellor of the"
-          },
-          "office3": {
-            "text": "Nanyang Technological University"
-          },
-          "term_start3": {
-            "text": "14 September 2017"
-          },
-          "predecessor3": {
-            "text": "Tony Tan Keng Yam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tony Tan Keng Yam"
-              }
-            ]
-          },
-          "1blankname3": {
-            "text": "Provost"
-          },
-          "1namedata3": {
-            "text": "Ling San"
-          },
-          "president3": {
-            "text": "Bertil Andersson (2011-2017) Subra Suresh (2018-Present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bertil Andersson"
-              },
-              {
-                "type": "internal",
-                "page": "Subra Suresh"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Speaker of the Parliament of Singapore"
-          },
-          "order4": {
-            "text": "9th"
-          },
-          "term_start4": {
-            "text": "14 January 2013"
-          },
-          "term_end4": {
-            "text": "7 August 2017"
-          },
-          "predecessor4": {
-            "text": "Michael Palmer",
-            "links": [
-              {
-                "text": "Michael Palmer",
-                "type": "internal",
-                "page": "Michael Palmer (politician)"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Tan Chuan-Jin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tan Chuan-Jin"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Halimah Yacob"
-          },
-          "birth_date": {
-            "text": "August 23, 1954"
-          },
-          "birth_place": {
-            "text": "Queen Street, Singapore",
-            "links": [
-              {
-                "text": "Queen Street",
-                "type": "internal",
-                "page": "Queen Street, Singapore"
-              },
-              {
-                "text": "Singapore",
-                "type": "internal",
-                "page": "Colony of Singapore"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent (2017–present)",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent (politician)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "People's Action Party (2001–2017)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Action Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Mohammed Abdullah Alhabshee (m. 1980)"
-          },
-          "children": {
-            "text": "5",
-            "number": 5
-          },
-          "residence": {
-            "text": "The Istana",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Istana"
-              }
-            ]
-          },
-          "education": {
-            "text": "National University of Singapore (LLB, LLM)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National University of Singapore"
-              },
-              {
-                "text": "LLB",
-                "type": "internal",
-                "page": "Bachelor of Laws"
-              },
-              {
-                "text": "LLM",
-                "type": "internal",
-                "page": "Master of Laws"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Halimah Yacob signature.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "constituency_mp6": "Marsiling–Yew Tee GRC (constituency of Marsiling)",
+  "parliament6": "Singapore",
+  "term_start6": "11 September 2015",
+  "term_end6": "7 August 2017",
+  "predecessor6": "Hawazi bin Daipi",
+  "constituency_mp7": "Jurong GRC (situated from Bukit Batok East)",
+  "parliament7": "Singapore",
+  "term_start7": "3 November 2001",
+  "term_end7": "24 August 2015",
+  "predecessor7": "Constituency established",
+  "successor7": "Rahayu Mahzam"
+}
+{
+  "honorific-prefix": "Her Excellency",
+  "name": "Halimah Yacob",
+  "image": "Republic of Singapore President Halimah Yacob witnesses the program proper during her visit to the Philippine Eagle Center in Davao City on September 11, 2019 (cropped).jpg",
+  "order": "8th",
+  "office": "President of Singapore",
+  "primeminister": "Lee Hsien Loong",
+  "term_start": "14 September 2017",
+  "predecessor": "Tony Tan Keng Yam",
+  "order2": "Chancellor of the",
+  "office2": "National University of Singapore",
+  "term_start2": "14 September 2017",
+  "predecessor2": "Tony Tan Keng Yam",
+  "1blankname2": "Provost",
+  "1namedata2": "Teck-Hua Ho",
+  "president2": "Tan Eng Chye",
+  "order3": "Chancellor of the",
+  "office3": "Nanyang Technological University",
+  "term_start3": "14 September 2017",
+  "predecessor3": "Tony Tan Keng Yam",
+  "1blankname3": "Provost",
+  "1namedata3": "Ling San",
+  "president3": "Bertil Andersson (2011-2017)\nSubra Suresh (2018-Present)",
+  "office4": "Speaker of the Parliament of Singapore",
+  "order4": "9th",
+  "term_start4": "14 January 2013",
+  "term_end4": "7 August 2017",
+  "predecessor4": "Michael Palmer",
+  "successor4": "Tan Chuan-Jin",
+  "birth_name": "Halimah Yacob",
+  "birth_date": "August 23, 1954",
+  "birth_place": "Queen Street, Singapore",
+  "party": "Independent (2017–present)",
+  "otherparty": "People's Action Party (2001–2017)",
+  "spouse": "Mohammed Abdullah Alhabshee (m. 1980)",
+  "children": "5",
+  "residence": "The Istana",
+  "education": "National University of Singapore (LLB, LLM)",
+  "signature": "Halimah Yacob signature.svg"
 }
