@@ -1,26 +1,10 @@
-@@,itemlabel,item,startdate,enddate
-->,George Oehlers->Sir George Oehlers,Q51327346,1955-04-22,1963-09-03->1959-03-31
-+++,Sir George Oehlers,Q51327346,1959-07-01,1963-09-03
-->,Edmund W. Barker->Edmund William Barker,Q5339888,1963-10-22,1964-11-01->1964-10-30
----,Arumugam Ponnu Rajah,Q91232789,1964,1966
-+++,Arumugam Ponnu Rajah,Q91232789,1964-11-02,1965-08-08
-+++,Arumugam Ponnu Rajah,Q91232789,1965-08-09,1966-08-05
----,Punch Coomaraswamy,Q67173151,1966-08,1970
-+++,Punch Coomaraswamy,Q67173151,1966-08-17,1968-02-07
-+++,Punch Coomaraswamy,Q67173151,1968-05-06,1970-01-18
-->,Yeoh Ghim Seng->Dr Yeoh Ghim Seng,Q8052418,1970-01-27,1988-08-17->1972-08-14
-+++,Dr Yeoh Ghim Seng,Q8052418,1972-10-12,1976-12-05
-+++,Dr Yeoh Ghim Seng,Q8052418,1977-02-07,1980-12-04
-+++,Dr Yeoh Ghim Seng,Q8052418,1981-02-03,1984-12-03
-+++,Dr Yeoh Ghim Seng,Q8052418,1985-02-25,1988-08-17
-->,Tan Soo Khoon,Q7682122,1989-01-09,2001-10-18->1991-08-13
-+++,Tan Soo Khoon,Q7682122,1992-01-06,1996-12-15
-+++,Tan Soo Khoon,Q7682122,1997-05-26,2001-10-17
-+++,Abdullah Tarmugi,Q4666073,2002-03-22,2006-04-19
----,Abdullah Tarmugi,Q4666073,2002-03-25,2011-04-19
-+++,Abdullah Tarmugi,Q4666073,2006-11-02,2011-04-18
-->,Michael Palmer,Q6833355,2011-10-12->2011-10-10,2012-12-12
-->,Halimah Yacob,Q5642345,2013-01-14,2017-08-07->2015-08-24
-+++,Halimah Yacob,Q5642345,2016-01-15,2017-08-07
-->,Tan Chuan-Jin,Q7682037,2017-09-11,NULL->2020-06-22
-+++,Tan Chuan-Jin,Q7682037,2020-08-24,
+@@,item,itemlabel,startdate,enddate
+->,Q7682122,Tan Soo Khoon,1989-01-09->1997-05-26,2001-10-18->2001-10-17
++++,Q4666073,Abdullah Tarmugi,2002-03-22,2006-04-19
+---,Q4666073,Abdullah Tarmugi,2002-03-25,2011-04-19
++++,Q4666073,Abdullah Tarmugi,2006-11-02,2011-04-18
+->,Q6833355,Michael Palmer,2011-10-12->2011-10-10,2012-12-12
+->,Q5642345,Halimah Yacob,2013-01-14,2017-08-07->2015-08-24
++++,Q5642345,Halimah Yacob,2016-01-15,2017-08-07
+->,Q7682037,Tan Chuan-Jin,2017-09-11,NULL->2020-06-22
++++,Q7682037,Tan Chuan-Jin,2020-08-24,
