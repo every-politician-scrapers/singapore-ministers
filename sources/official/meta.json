@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Singapore",
+      "id": "Q334"
+    },
+    "cabinet": {
+      "id": "Q97667547",
+      "start": "2020-07-27",
+      "parent": "Q5015558"
+    },
+    "source": {
+        "url":   "https://www.pmo.gov.sg/The-Cabinet",
+        "title": "PMO | The Cabinet",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/singapore-ministers"
+}
