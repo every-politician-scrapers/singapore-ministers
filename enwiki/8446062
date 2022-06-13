@@ -5,7 +5,7 @@
   "term_end4": "14 May 2021",
   "predecessor4": "Lim Swee Say",
   "successor4": "Tan See Leng",
-  "office5": "Minister in Prime Minister's Office",
+  "office5": "Minister in the Prime Minister's Office",
   "term_start5": "1 May 2017",
   "term_end5": "30 April 2018",
   "alongside5": "Chan Chun Sing"
@@ -25,20 +25,20 @@
 }
 {
   "embed": "yes",
-  "office8": "Senior Minister of State,\n Prime Minister's Office",
+  "office8": "Senior Minister of State in the Prime Minister's Office",
   "term_start8": "1 October 2015",
   "term_end8": "30 April 2017",
   "alongside8": "Heng Chee How",
-  "office9": "Senior Minister of State,\n Ministry of Transport",
+  "office9": "Senior Minister of State for Transport",
   "term_start9": "1 September 2013",
   "term_end9": "30 April 2017",
-  "office10": "Senior Minister of State,\n Ministry Of Finance",
+  "office10": "Senior Minister of State for Finance",
   "term_start10": "1 September 2013",
   "term_end10": "30 September 2015",
-  "office11": "Minister of State,\nMinistry for Finance",
+  "office11": "Minister of State for Finance",
   "term_start11": "18 May 2011",
   "term_end11": "1 September 2013",
-  "office12": "Minister of State,\nMinistry for Transport",
+  "office12": "Minister of State for Transport",
   "term_start12": "18 May 2011",
   "term_end12": "1 September 2013"
 }
@@ -53,7 +53,7 @@
 }
 {
   "honorific-prefix": "The Honourable",
-  "name": "Josephine Teo Li Min",
+  "name": "Josephine Teo",
   "native_name": "杨莉明",
   "office1": "Minister for Communications and Information",
   "primeminister1": "Lee Hsien Loong",
@@ -63,7 +63,7 @@
   "term_start2": "11 September 2017",
   "minister2": "K. Shanmugam",
   "predecessor2": "Desmond Lee",
-  "office3": "Member of Parliament\nfor Jalan Besar GRC\n(Kreta Ayer-Kim Seng)",
+  "office3": "Member of Parliament\nfor Jalan Besar GRC\n(Kreta Ayer–Kim Seng)",
   "term_start3": "10 July 2020",
   "predecessor3": "Lily Neo (PAP)",
   "office16": "Past offices held",
