@@ -7,8 +7,7 @@
   "birth_place": "Singapore",
   "spouse": "Diana Kuik Sin Leng",
   "children": "2",
-  "father": "Ong Lian Teng",
-  "mother": "Ng Soo Lung",
+  "parents": "Ong Lian Teng (father)\nNg Soo Lung (mother)",
   "relations": "Xie Yao Quan (cousin)",
   "education": "Maris Stella High School\nRaffles Junior College",
   "alma_mater": "London School of Economics (BS)\nInternational Institute for Management Development (MBA)",
@@ -18,7 +17,6 @@
   "1blankname": "Second Minister",
   "1namedata": "Masagos Zulkifli",
   "predecessor": "Gan Kim Yong",
-  "constituency": "Sembawang GRC",
   "office1": "Minister for Transport",
   "term_start1": "27 July 2020",
   "term_end1": "14 May 2021",
@@ -51,7 +49,6 @@
   "minister5": "Ng Eng Hen",
   "successor5": "Heng Chee How (2018)",
   "constituency_mp6": "Sembawang GRC\n(Sembawang Central)",
-  "parliament6": "Singapore",
   "term_start6": "11 September 2015",
   "majority6": "48,341 (34.58%)"
 }
