@@ -26,16 +26,12 @@
         {
           "sentences": [
             {
-              "text": "Halimah Yacob (born 23 August 1954) is a Singaporean politician who has been serving as the eighth president of Singapore and the commander-in-chief of the Singapore Armed Forces since 2017.",
+              "text": "Halimah Yacob (born 23 August 1954) is a Singaporean politician who has been serving as the eighth president of Singapore since 2017.",
               "links": [
                 {
                   "text": "president of Singapore",
                   "type": "internal",
                   "page": "president of Singapore"
-                },
-                {
-                  "type": "internal",
-                  "page": "Singapore Armed Forces"
                 }
               ],
               "formatting": {

@@ -665,10 +665,10 @@
       ],
       "references": [
         {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/509625/2014_Honorary_Awards_-_Final_-_a.pdf",
+          "title": "Honorary awards",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/mohamad-maliki-bin-osman",
