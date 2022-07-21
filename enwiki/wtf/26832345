@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Halimah Yacob (born 23 August 1954) is a Singaporean politician who has been serving as the eighth president of Singapore since 2017.",
+              "text": "Halimah Yacob (born 23 August 1954) is a Singaporean politician and former lawyer who has been serving as the eighth president of Singapore since 2017.",
               "links": [
                 {
                   "text": "president of Singapore",
@@ -266,10 +266,6 @@
                 "text": "Marsiling–Yew Tee GRC",
                 "type": "internal",
                 "page": "Marsiling–Yew Tee Group Representation Constituency"
-              },
-              {
-                "type": "internal",
-                "page": "Marsiling"
               }
             ]
           },
@@ -298,10 +294,6 @@
                 "text": "Jurong GRC",
                 "type": "internal",
                 "page": "Jurong Group Representation Constituency"
-              },
-              {
-                "type": "internal",
-                "page": "Bukit Batok East"
               }
             ]
           },
@@ -460,8 +452,13 @@
         {
           "sentences": [
             {
-              "text": "Halimah was born to an Indian father and Malay mother on 23 August 1954.",
+              "text": "Halimah was born on 23 August 1954 at her family home on Queen Street in Singapore, to an Indian father and Malay mother.",
               "links": [
+                {
+                  "text": "Queen Street",
+                  "type": "internal",
+                  "page": "Queen Street, Singapore"
+                },
                 {
                   "text": "Indian",
                   "type": "internal",
@@ -503,7 +500,7 @@
         {
           "sentences": [
             {
-              "text": "Halimah was born at her family home on Queen's Street in Singapore, She was educated at Singapore Chinese Girls' School and Tanjong Katong Girls' School before she went on to the University of Singapore, where she obtained a Bachelor of Laws in 1978.",
+              "text": "She attended Singapore Chinese Girls' School and Tanjong Katong Girls' School before graduating from the University of Singapore (now National University of Singapore in 1978 with a Bachelor of Laws degree and was called to the Singapore Bar in 1981.",
               "links": [
                 {
                   "type": "internal",
@@ -515,17 +512,12 @@
                 },
                 {
                   "type": "internal",
-                  "page": "University of Singapore"
+                  "page": "National University of Singapore"
                 },
                 {
                   "type": "internal",
                   "page": "Bachelor of Laws"
-                }
-              ]
-            },
-            {
-              "text": "In 1981, she was called to the Singapore Bar.",
-              "links": [
+                },
                 {
                   "text": "called",
                   "type": "internal",
@@ -539,15 +531,11 @@
               ]
             },
             {
-              "text": "In 2001, she completed a Master of Laws at the National University of Singapore (NUS), and was conferred an honorary Doctor of Laws by NUS on 7 July 2016.",
+              "text": "She subsequently went on to complete a Master of Laws degree at the National University of Singapore]] in 2001, and was conferred an honorary Doctor of Laws degree by the National University of Singapore on 7 July 2016.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Master of Laws"
-                },
-                {
-                  "type": "internal",
-                  "page": "National University of Singapore"
                 },
                 {
                   "type": "internal",
@@ -559,6 +547,20 @@
         }
       ],
       "references": [
+        {
+          "last": "hermesauto",
+          "date": "2017-09-11",
+          "title": "Halimah Yacob set to be Singapore's first female president: A timeline of her career",
+          "url": "https://www.straitstimes.com/singapore/halimah-yacob-set-to-be-singapores-first-female-president-a-timeline-of-her-career",
+          "access-date": "2020-07-25",
+          "website": "The Straits Times",
+          "language": "en",
+          "archive-date": "25 July 2020",
+          "archive-url": "https://web.archive.org/web/20200725114855/https://www.straitstimes.com/singapore/halimah-yacob-set-to-be-singapores-first-female-president-a-timeline-of-her-career",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "last1": "Low",
           "first1": "Patrick Kim Cheng",
@@ -580,20 +582,6 @@
           "date": "25 October 2006",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "last": "hermesauto",
-          "date": "2017-09-11",
-          "title": "Halimah Yacob set to be Singapore's first female president: A timeline of her career",
-          "url": "https://www.straitstimes.com/singapore/halimah-yacob-set-to-be-singapores-first-female-president-a-timeline-of-her-career",
-          "access-date": "2020-07-25",
-          "website": "The Straits Times",
-          "language": "en",
-          "archive-date": "25 July 2020",
-          "archive-url": "https://web.archive.org/web/20200725114855/https://www.straitstimes.com/singapore/halimah-yacob-set-to-be-singapores-first-female-president-a-timeline-of-her-career",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
         },
         {
           "last1": "Lim",
@@ -677,16 +665,12 @@
     },
     {
       "title": "Career",
-      "depth": 0
-    },
-    {
-      "title": "Before entering politics",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Halimah worked as a legal officer at the National Trades Union Congress, and became the director of its legal services department in 1992.",
+              "text": "Halimah began her career working as a legal officer at the National Trades Union Congress (NTUC), before becoming the director of its legal services department in 1992.",
               "links": [
                 {
                   "type": "internal",
@@ -695,7 +679,7 @@
               ]
             },
             {
-              "text": "She was appointed as a director of the Singapore Institute of Labour Studies (now known as the Ong Teng Cheong Institute of Labour Studies) in 1999."
+              "text": "She was later appointed as a director of the Singapore Institute of Labour Studies (now Ong Teng Cheong Labour Leadership Institute) in 1999."
             }
           ]
         }
@@ -723,16 +707,16 @@
     },
     {
       "title": "Political career",
-      "depth": 1,
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Halimah entered politics in 2001 when she was elected as a Member of Parliament (MP) for the Jurong Group Representation Constituency (GRC).",
+              "text": "Halimah entered politics in 2001 when she was elected as a Member of Parliament (MP) for the Jurong GRC.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Jurong Group Representation Constituency"
+                  "page": "Jurong GRC"
                 }
               ]
             }
@@ -741,7 +725,7 @@
         {
           "sentences": [
             {
-              "text": "Following the 2011 general election, Halimah was appointed Minister of State at the Ministry of Community Development, Youth and Sports.",
+              "text": "Following the 2011 general election, Halimah was appointed as Minister of State for Community Development, Youth and Sports.",
               "links": [
                 {
                   "text": "2011 general election",
@@ -749,18 +733,14 @@
                   "page": "2011 Singaporean general election"
                 },
                 {
-                  "type": "internal",
-                  "page": "Minister of State",
-                  "anchor": "Minor government ranks"
-                },
-                {
+                  "text": "Minister of State for Community Development, Youth and Sports",
                   "type": "internal",
                   "page": "Ministry of Community Development, Youth and Sports"
                 }
               ]
             },
             {
-              "text": "Following a Cabinet reshuffle in November 2012, she became a Minister of State at the Ministry of Social and Family Development.",
+              "text": "Following a Cabinet reshuffle in November 2012, she became Minister of State for Social and Family Development.",
               "links": [
                 {
                   "text": "Cabinet",
@@ -768,6 +748,7 @@
                   "page": "Cabinet of Singapore"
                 },
                 {
+                  "text": "Minister of State for Social and Family Development",
                   "type": "internal",
                   "page": "Ministry of Social and Family Development"
                 }
@@ -791,7 +772,7 @@
         {
           "sentences": [
             {
-              "text": "At the 2015 general election, Halimah was the sole minority candidate for the People's Action Party group contesting the then-newly formed Marsiling–Yew Tee GRC.",
+              "text": "At the 2015 general election, Halimah was the sole minority candidate for the PAP contesting the then-newly formed Marsiling–Yew Tee GRC.",
               "links": [
                 {
                   "text": "2015 general election",
@@ -936,7 +917,7 @@
     },
     {
       "title": "Speaker of Parliament",
-      "depth": 2,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -960,7 +941,7 @@
               ]
             },
             {
-              "text": "She was elected Speaker on 14 January 2013, the first woman to hold the post in Singaporean history."
+              "text": "She was elected Speaker on 14 January 2013, the first woman to hold the post in Singapore's history."
             }
           ]
         }
