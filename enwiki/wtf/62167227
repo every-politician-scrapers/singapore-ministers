@@ -354,10 +354,14 @@
       ],
       "references": [
         {
+          "url": "https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/tan-see-leng",
+          "title": "Archived copy",
+          "access-date": "2021-11-02",
+          "archive-date": "2021-11-02",
+          "archive-url": "https://web.archive.org/web/20211102031705/https://www.parliament.gov.sg/mps/list-of-current-mps/mp/details/tan-see-leng",
+          "url-status": "dead",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "title": "Playing to win",
