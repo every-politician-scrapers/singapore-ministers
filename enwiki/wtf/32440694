@@ -577,10 +577,28 @@
             ]
           },
           "term_start6": {
-            "text": "11 September 2015"
+            "text": "10 July 2020"
           },
           "majority6": {
             "text": "48,341 (34.58%)"
+          },
+          "constituency_mp7": {
+            "text": "Sembawang GRC\n(Gambas)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sembawang GRC"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "11 September 2015"
+          },
+          "term_end7": {
+            "text": "23 June 2020"
+          },
+          "majority7": {
+            "text": "59,572 (44.5%)"
           }
         }
       ],
@@ -869,7 +887,7 @@
               ]
             },
             {
-              "text": "The PAP team won with 72% of the vote and Ong was elected as the Member of Parliament representing the Sembawang Central ward of Sembawang GRC."
+              "text": "The PAP team won with 72% of the vote and Ong was elected as the Member of Parliament representing the Gambas ward of Sembawang GRC."
             }
           ]
         },
@@ -920,7 +938,7 @@
         {
           "sentences": [
             {
-              "text": "On 27 July 2020, Ong relinquished his portfolio as Minister for Education and succeeded Khaw Boon Wan as Minister for Transport.",
+              "text": "On 27 July 2020, Ong relinquished his portfolio as Minister for Education and succeeded Khaw Boon Wan as Minister for Transport, as well as the Anchor Minister of Sembawang GRC.",
               "links": [
                 {
                   "type": "internal",
@@ -965,6 +983,9 @@
             },
             {
               "text": "Ong led the PAP team in Sembawang GRC and they won with about 67% of the vote."
+            },
+            {
+              "text": "Ong's former Gambas ward was merged with part of Khaw Boon Wan's former Sembawang ward, forming the new Sembawang Central ward which is currently helmed by Ong."
             }
           ]
         },
