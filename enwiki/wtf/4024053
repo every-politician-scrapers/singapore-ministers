@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Tharman Shanmugaratnam (born 25 February 1957) is a Singaporean politician and economist who has been serving as a senior minister in the Cabinet since 2019, Coordinating Minister for Social Policies since 2015 and the chairman of the Monetary Authority of Singapore (MAS) since 2011.",
+              "text": "Tharman Shanmugaratnam (born 25 February 1957) is a Singaporean politician and economist who has been serving as a senior minister in the Cabinet since 2019, Coordinating Minister for Social Policies since 2015.",
               "links": [
                 {
                   "text": "senior minister",
@@ -48,10 +48,6 @@
                   "text": "Coordinating Minister for Social Policies",
                   "type": "internal",
                   "page": "Coordinating Minister for Social Policies (Singapore)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Monetary Authority of Singapore"
                 }
               ],
               "formatting": {
@@ -61,7 +57,7 @@
               }
             },
             {
-              "text": "He also serves as a deputy chairman of the country's sovereign wealth fund GIC and chairs its Investment Strategies Committee.",
+              "text": "He serves as a deputy chairman of the country's sovereign wealth fund GIC and chairs its Investment Strategies Committee.",
               "links": [
                 {
                   "text": "GIC",
@@ -605,6 +601,16 @@
           },
           "1namedata2": {
             "text": "Himself\n(2007–2015)\nHeng Swee Keat\n(2015–2021)\nLawrence Wong\n(2021–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heng Swee Keat"
+              },
+              {
+                "type": "internal",
+                "page": "Lawrence Wong"
+              }
+            ],
             "formatting": {
               "italic": [
                 "Himself"
@@ -612,7 +618,13 @@
             }
           },
           "primeminister2": {
-            "text": "Lee Hsien Loong"
+            "text": "Lee Hsien Loong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lee Hsien Loong"
+              }
+            ]
           },
           "deputy2": {
             "text": "Lim Hng Kiang\n(2006–2021)\nLawrence Wong\n(2021–present)",
@@ -631,7 +643,13 @@
             "text": "1 May 2011"
           },
           "predecessor2": {
-            "text": "Goh Chok Tong"
+            "text": "Goh Chok Tong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Goh Chok Tong"
+              }
+            ]
           },
           "birth_name": {
             "text": "Tharman Shanmugaratnam"
@@ -937,6 +955,15 @@
             },
             {
               "text": "He stepped down as Minister for Finance in September 2015 after 9 years."
+            },
+            {
+              "text": "He has served as the chairman of the Monetary Authority of Singapore (MAS) since 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Monetary Authority of Singapore"
+                }
+              ]
             }
           ]
         },
