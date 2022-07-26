@@ -1,0 +1,210 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Jurong Group Representation Constituency"
+      ],
+      "stated_as": "Jurong GRC\n(Yuhua)"
+    },
+    "P580": "2006-04-27",
+    "P1365": {
+      "links": [
+        "Yu-Foo Yee Shoon"
+      ],
+      "stated_as": "Yu-Foo Yee Shoon"
+    },
+    "P582": "2011-04-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Education"
+    },
+    "P580": "2008-04-01",
+    "P582": "2011-05-20",
+    "P1366": {
+      "links": [
+        "Lawrence Wong"
+      ],
+      "stated_as": "Lawrence Wong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for National Development"
+    },
+    "P580": "2008-04-01",
+    "P582": "2011-05-20",
+    "P1366": {
+      "links": [
+        "Desmond Lee (Singaporean politician)"
+      ],
+      "stated_as": "Desmond Lee (2015)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Yuhua Single Member Constituency"
+      ],
+      "stated_as": "Yuhua SMC"
+    },
+    "P580": "2011-05-21",
+    "P1365": {
+      "links": [
+        "Yu-Foo Yee Shoon"
+      ],
+      "stated_as": "Yu-Foo Yee Shoon\n(1984–1997)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Communications and Information"
+      ],
+      "stated_as": "Senior Minister of State for Information, Communications and the Arts"
+    },
+    "P580": "2011-05-21",
+    "P582": "2012-07-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of the Environment and Water Resources"
+      ],
+      "stated_as": "Senior Minister of State for the Environment and Water Resources"
+    },
+    "P580": "2011-05-21",
+    "P582": "2012-07-30",
+    "P1366": {
+      "links": [
+        "Amy Khor"
+      ],
+      "stated_as": "Amy Khor (2015)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister in the Prime Minister's Office"
+    },
+    "P580": "2012-08-01",
+    "P1365": {
+      "links": [
+        "Lim Hwee Hua"
+      ],
+      "stated_as": "Lim Hwee Hua (2011)"
+    },
+    "P582": "2015-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Singapore)"
+      ],
+      "stated_as": "Second Minister for Foreign Affairs"
+    },
+    "P580": "2012-08-01",
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Josephine Teo"
+      ],
+      "stated_as": "Josephine Teo (2017)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Environment and Water Resources"
+      ],
+      "stated_as": "Second Minister for the Environment and Water Resources"
+    },
+    "P580": "2012-08-01",
+    "P582": "2015-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Singapore)"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Ng Eng Hen"
+      ],
+      "stated_as": "Ng Eng Hen"
+    },
+    "P582": "2020-08-23",
+    "P1366": {
+      "links": [
+        "Indranee Rajah"
+      ],
+      "stated_as": "Indranee Rajah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture, Community and Youth"
+      ],
+      "stated_as": "Minister for Culture, Community and Youth"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Lawrence Wong"
+      ],
+      "stated_as": "Lawrence Wong"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Edwin Tong"
+      ],
+      "stated_as": "Edwin Tong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Sustainability and the Environment"
+      ],
+      "stated_as": "Minister for Sustainability and the Environment"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Masagos Zulkifli"
+      ],
+      "stated_as": "Masagos Zulkifli\n(as Minister for the Environment and Water Resources)"
+    }
+  }
+]

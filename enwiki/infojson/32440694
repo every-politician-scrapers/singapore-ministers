@@ -1,0 +1,153 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Sembawang GRC"
+      ],
+      "stated_as": "Sembawang GRC\n(Gambas)"
+    },
+    "P580": "2015-09-11",
+    "P582": "2020-06-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Defence"
+    },
+    "P580": "2015-10-01",
+    "P582": "2016-10-31",
+    "P1366": {
+      "links": [
+        "Heng Chee How"
+      ],
+      "stated_as": "Heng Chee How (2018)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Ministry of Education (Singapore)|Minister for Education\n(Higher Education and Skills)]]"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Heng Swee Keat"
+      ],
+      "stated_as": "Heng Swee Keat"
+    },
+    "P582": "2018-04-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Singapore)"
+      ],
+      "stated_as": "Second Minister for Defence"
+    },
+    "P580": "2016-11-01",
+    "P1365": {
+      "links": [
+        "Lui Tuck Yew"
+      ],
+      "stated_as": "Lui Tuck Yew (2015)"
+    },
+    "P582": "2018-04-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Singapore)"
+      ],
+      "stated_as": "Minister for Education"
+    },
+    "P580": "2018-05-01",
+    "P1365": {
+      "links": [
+        "Ng Chee Meng",
+        "Ministry of Education (Singapore)"
+      ],
+      "stated_as": "Ng Chee Meng\n(as Minister for Education (Schools))"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Lawrence Wong"
+      ],
+      "stated_as": "Lawrence Wong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Sembawang GRC"
+      ],
+      "stated_as": "Sembawang GRC\n(Sembawang Central)"
+    },
+    "P580": "2020-07-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Transport (Singapore)"
+      ],
+      "stated_as": "Minister for Transport"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Khaw Boon Wan"
+      ],
+      "stated_as": "Khaw Boon Wan"
+    },
+    "P582": "2021-05-14",
+    "P1366": {
+      "links": [
+        "S. Iswaran"
+      ],
+      "stated_as": "S. Iswaran"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Singapore)"
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+        "Gan Kim Yong"
+      ],
+      "stated_as": "Gan Kim Yong"
+    }
+  }
+]

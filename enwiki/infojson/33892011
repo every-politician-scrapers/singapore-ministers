@@ -1,0 +1,208 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Sembawang GRC"
+      ],
+      "stated_as": "Sembawang GRC\n(Admiralty)"
+    },
+    "P580": "2001-10-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    },
+    "P582": "2011-04-18",
+    "P1366": {
+      "links": [
+        "Vikram Nair",
+        "People's Action Party"
+      ],
+      "stated_as": "Vikram Nair (PAP)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "East Coast GRC"
+      ],
+      "stated_as": "East Coast GRC\n(Siglap)"
+    },
+    "P580": "2011-05-07",
+    "P1365": {
+      "links": [
+        "Abdullah Tarmugi",
+        "People's Action Party"
+      ],
+      "stated_as": "Abdullah Tarmugi (PAP)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "South East CDC"
+      ],
+      "stated_as": "Mayor of South East District"
+    },
+    "P580": "2011-05-27",
+    "P1365": {
+      "links": [
+        "Matthias Yao"
+      ],
+      "stated_as": "Matthias Yao"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Mohd Fahmi Aliman"
+      ],
+      "stated_as": "Mohd Fahmi Aliman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Singapore)"
+      ],
+      "stated_as": "Minister of State for Defence"
+    },
+    "P580": "2013-10-01",
+    "P1365": {
+      "links": [
+        "Lawrence Wong"
+      ],
+      "stated_as": "Lawrence Wong"
+    },
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Minister of State for National Development"
+    },
+    "P580": "2014-05-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Koh Poh Koon"
+      ],
+      "stated_as": "Koh Poh Koon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Defence"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Chan Chun Sing"
+      ],
+      "stated_as": "Chan Chun Sing"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Zaqy Mohamad"
+      ],
+      "stated_as": "Zaqy Mohamad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Foreign Affairs"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Masagos Zulkifli"
+      ],
+      "stated_as": "Masagos Zulkifli"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Chee Hong Tat"
+      ],
+      "stated_as": "Chee Hong Tat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister in the Prime Minister's Office"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Ng Chee Meng"
+      ],
+      "stated_as": "Ng Chee Meng"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Singapore)"
+      ],
+      "stated_as": "Second Minister for Education"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Indranee Rajah"
+      ],
+      "stated_as": "Indranee Rajah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs (Singapore)"
+      ],
+      "stated_as": "Second Minister for Foreign Affairs"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Josephine Teo"
+      ],
+      "stated_as": "Josephine Teo (2017)"
+    }
+  }
+]

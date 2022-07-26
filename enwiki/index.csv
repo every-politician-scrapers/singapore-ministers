@@ -1,27 +1,27 @@
-pageid,title
-363326,Lee Hsien Loong
-1013459,Teo Chee Hean
-2744757,Ng Eng Hen
-4024053,Tharman Shanmugaratnam
-5932917,Indranee Rajah
-8434633,Gan Kim Yong
-8446062,Josephine Teo
-12289093,Grace Fu
-21798464,Simon Tensing de Cruz
-23754028,S. Iswaran
-23883204,K. Shanmugam
-26422893,Sundaresh Menon
-26732912,Chan Chun Sing
-26832345,Halimah Yacob
-31755604,Heng Swee Keat
-31824224,Tan Chuan-Jin
-32059059,Vivian Balakrishnan
-32336575,Lawrence Wong
-32440694,Ong Ye Kung
-33633426,Edwin Tong
-33892011,Maliki Osman
-40148531,Desmond Lee (Singaporean politician)
-43603695,Masagos Zulkifli
-47408337,Melvyn Ong
-54608177,Lucien Wong
-62167227,Tan See Leng
+pageid,title,wikidata,label
+363326,Lee Hsien Loong,Q57643,Lee Hsien Loong
+1013459,Teo Chee Hean,Q3518218,Teo Chee Hean
+2744757,Ng Eng Hen,Q1984113,Ng Eng Hen
+4024053,Tharman Shanmugaratnam,Q983752,Tharman Shanmugaratnam
+5932917,Indranee Rajah,Q6026908,Indranee Rajah
+8434633,Gan Kim Yong,Q5520446,Gan Kim Yong
+8446062,Josephine Teo,Q16204683,Josephine Teo
+12289093,Grace Fu,Q5591179,Grace Fu
+21798464,Simon Tensing de Cruz,Q7519877,Simon Tensing de Cruz
+23754028,S. Iswaran,Q7387540,S. Iswaran
+23883204,K. Shanmugam,Q6324008,K. Shanmugam
+26422893,Sundaresh Menon,Q7639265,Sundaresh Menon
+26732912,Chan Chun Sing,Q5070296,Chan Chun Sing
+26832345,Halimah Yacob,Q5642345,Halimah Yacob
+31755604,Heng Swee Keat,Q5714209,Heng Swee Keat
+31824224,Tan Chuan-Jin,Q7682037,Tan Chuan-Jin
+32059059,Vivian Balakrishnan,Q7937671,Vivian Balakrishnan
+32336575,Lawrence Wong,Q6504758,Lawrence Wong
+32440694,Ong Ye Kung,Q7093820,Ong Ye Kung
+33633426,Edwin Tong,Q5346875,Edwin Tong
+33892011,Maliki Osman,Q6743667,Maliki Osman
+40148531,Desmond Lee (Singaporean politician),Q16215886,Desmond Lee
+43603695,Masagos Zulkifli,Q17722375,Masagos Zulkifli
+47408337,Melvyn Ong,Q20745958,Melvyn Ong
+54608177,Lucien Wong,Q33136404,Lucien Wong
+62167227,Tan See Leng,Q72409737,Tan See Leng

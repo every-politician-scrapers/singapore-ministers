@@ -1,0 +1,107 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Marine Parade Group Representation Constituency"
+      ],
+      "stated_as": "Marine Parade GRC\n(Joo Chiat)"
+    },
+    "P580": "2015-09-11",
+    "P1365": {
+      "links": [
+        "Teo Chee Hean"
+      ],
+      "stated_as": "Teo Chee Hean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Health"
+    },
+    "P580": "2018-07-01",
+    "P1365": {
+      "links": [
+        "Chee Hong Tat"
+      ],
+      "stated_as": "Chee Hong Tat"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Janil Puthucheary",
+        "Koh Poh Koon"
+      ],
+      "stated_as": "Janil Puthucheary\nKoh Poh Koon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Law (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Law"
+    },
+    "P580": "2018-07-01",
+    "P1365": {
+      "links": [
+        "Indranee Rajah"
+      ],
+      "stated_as": "Indranee Rajah"
+    },
+    "P582": "2020-07-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture, Community and Youth"
+      ],
+      "stated_as": "Minister for Culture, Community and Youth"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Grace Fu"
+      ],
+      "stated_as": "Grace Fu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Law (Singapore)"
+      ],
+      "stated_as": "Second Minister for Law"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Indranee Rajah"
+      ],
+      "stated_as": "Indranee Rajah (2018)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Association"
+      ],
+      "stated_as": "Deputy Chairman of the People's Association"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+        "Chan Chun Sing"
+      ],
+      "stated_as": "Chan Chun Sing"
+    }
+  }
+]

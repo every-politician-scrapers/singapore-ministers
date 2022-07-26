@@ -1,0 +1,153 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Holland–Bukit Panjang Group Representation Constituency"
+      ],
+      "stated_as": "Holland–Bukit Panjang GRC\n(Zhenghua)"
+    },
+    "P580": "2001-10-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2006-05-06",
+    "P1366": {
+      "links": [
+        "Liang Eng Hwa"
+      ],
+      "stated_as": "Liang Eng Hwa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Chua Chu Kang Single Member Constituency"
+      ],
+      "stated_as": "Chua Chu Kang SMC"
+    },
+    "P580": "2006-05-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Low Seow Chay"
+    },
+    "P582": "2011-05-07",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Manpower (Singapore)"
+      ],
+      "stated_as": "Minister for Manpower"
+    },
+    "P580": "2009-04-01",
+    "P1365": {
+      "links": [
+        "Ng Eng Hen"
+      ],
+      "stated_as": "Ng Eng Hen"
+    },
+    "P582": "2011-05-20",
+    "P1366": {
+      "links": [
+        "Tharman Shanmugaratnam"
+      ],
+      "stated_as": "Tharman Shanmugaratnam"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Chua Chu Kang Group Representation Constituency"
+      ],
+      "stated_as": "Chua Chu Kang GRC\n(Chua Chu Kang)"
+    },
+    "P580": "2011-05-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health (Singapore)"
+      ],
+      "stated_as": "Minister for Health"
+    },
+    "P580": "2011-05-21",
+    "P1365": {
+      "links": [
+        "Khaw Boon Wan"
+      ],
+      "stated_as": "Khaw Boon Wan"
+    },
+    "P582": "2021-05-14",
+    "P1366": {
+      "links": [
+        "Ong Ye Kung"
+      ],
+      "stated_as": "Ong Ye Kung"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Action Party"
+      ],
+      "stated_as": "Chairman of the People's Action Party"
+    },
+    "P580": "2018-11-23",
+    "P1365": {
+      "links": [
+        "Khaw Boon Wan"
+      ],
+      "stated_as": "Khaw Boon Wan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Trade and Industry (Singapore)"
+      ],
+      "stated_as": "Minister for Trade and Industry"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+        "Chan Chun Sing"
+      ],
+      "stated_as": "Chan Chun Sing"
+    }
+  }
+]

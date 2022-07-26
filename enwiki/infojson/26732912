@@ -1,0 +1,207 @@
+[
+  {
+    "office": {
+      "links": [
+        "Singapore Army"
+      ],
+      "stated_as": "Chief of Army"
+    },
+    "P580": "2010-03-26",
+    "P1365": {
+      "links": [
+        "Neo Kian Hong"
+      ],
+      "stated_as": "Neo Kian Hong"
+    },
+    "P582": "2011-03-25",
+    "P1366": {
+      "links": [
+        "Ravinder Singh (general)"
+      ],
+      "stated_as": "Ravinder Singh"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tanjong Pagar Group Representation Constituency"
+      ],
+      "stated_as": "Tanjong Pagar GRC\n(Buona Vista)"
+    },
+    "P580": "2011-05-07",
+    "P1365": {
+      "links": [
+        "Lim Swee Say"
+      ],
+      "stated_as": "Lim Swee Say\n(1997–2001)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry for Information, Communications and the Arts"
+      ],
+      "stated_as": "Minister of State for Information, Communications and the Arts"
+    },
+    "P580": "2011-05-21",
+    "P582": "2012-07-31"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Defence"
+    },
+    "P580": "2012-08-01",
+    "P582": "2013-08-31",
+    "P1366": {
+      "links": [
+        "Maliki Osman"
+      ],
+      "stated_as": "Maliki Osman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social and Family Development"
+      ],
+      "stated_as": "Minister for Social and Family Development"
+    },
+    "P580": "2012-11-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Himself\n(As Minister for Community Development, Youth and Sports)"
+    },
+    "P582": "2015-04-09",
+    "P1366": {
+      "links": [
+        "Tan Chuan-Jin"
+      ],
+      "stated_as": "Tan Chuan-Jin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Singapore)"
+      ],
+      "stated_as": "Second Minister for Defence"
+    },
+    "P580": "2013-09-01",
+    "P1365": {
+      "links": [
+        "Ng Eng Hen"
+      ],
+      "stated_as": "Ng Eng Hen (2011)"
+    },
+    "P582": "2015-04-08",
+    "P1366": {
+      "links": [
+        "Lui Tuck Yew"
+      ],
+      "stated_as": "Lui Tuck Yew"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister in the Prime Minister's Office"
+    },
+    "P580": "2015-04-09",
+    "P582": "2018-04-30",
+    "P1366": {
+      "links": [
+        "Ng Chee Meng",
+        "Indranee Rajah"
+      ],
+      "stated_as": "Ng Chee Meng\nIndranee Rajah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Trades Union Congress"
+      ],
+      "stated_as": "Secretary-General of the\nNational Trades Union Congress"
+    },
+    "P580": "2015-05-04",
+    "P1365": {
+      "links": [
+        "Lim Swee Say"
+      ],
+      "stated_as": "Lim Swee Say"
+    },
+    "P582": "2018-04-30",
+    "P1366": {
+      "links": [
+        "Ng Chee Meng"
+      ],
+      "stated_as": "Ng Chee Meng"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Trade and Industry (Singapore)"
+      ],
+      "stated_as": "Minister for Trade and Industry"
+    },
+    "P580": "2018-05-01",
+    "P1365": {
+      "links": [
+        "Lim Hng Kiang",
+        "S. Iswaran"
+      ],
+      "stated_as": "Lim Hng Kiang (Trade)\nS. Iswaran (Industry)"
+    },
+    "P582": "2021-05-14",
+    "P1366": {
+      "links": [
+        "Gan Kim Yong"
+      ],
+      "stated_as": "Gan Kim Yong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister-in-charge of Public Service"
+    },
+    "P580": "2018-05-01",
+    "P1365": {
+      "links": [
+        "Teo Chee Hean"
+      ],
+      "stated_as": "Teo Chee Hean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Education (Singapore)"
+      ],
+      "stated_as": "Minister for Education"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+        "Lawrence Wong"
+      ],
+      "stated_as": "Lawrence Wong"
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Sembawang Group Representation Constituency"
+      ],
+      "stated_as": "Sembawang GRC\n(Chong Pang)"
+    },
+    "P580": "1988-09-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    },
+    "P582": "2011-04-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Law (Singapore)"
+      ],
+      "stated_as": "Minister for Law"
+    },
+    "P580": "2008-05-01",
+    "P1365": {
+      "links": [
+        "S. Jayakumar (Singaporean politician)"
+      ],
+      "stated_as": "S. Jayakumar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry for Foreign Affairs (Singapore)"
+      ],
+      "stated_as": "Second Minister for Home Affairs"
+    },
+    "P580": "2009-04-01",
+    "P582": "2010-11-01",
+    "P1366": {
+      "links": [
+        "S. Iswaran",
+        "Masagos Zulkifli"
+      ],
+      "stated_as": "S. Iswaran (2011)\nMasagos Zulkifli (2015)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Home Affairs (Singapore)"
+      ],
+      "stated_as": "Minister for Home Affairs"
+    },
+    "P580": "2010-11-01",
+    "P1365": {
+      "links": [
+        "Wong Kan Seng"
+      ],
+      "stated_as": "Wong Kan Seng"
+    },
+    "P582": "2011-05-20",
+    "P1366": {
+      "links": [
+        "Teo Chee Hean"
+      ],
+      "stated_as": "Teo Chee Hean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Nee Soon Group Representation Constituency"
+      ],
+      "stated_as": "Nee Soon GRC\n(Chong Pang)"
+    },
+    "P580": "2011-05-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Affairs (Singapore)"
+      ],
+      "stated_as": "Minister for Foreign Affairs"
+    },
+    "P580": "2011-05-21",
+    "P1365": {
+      "links": [
+        "George Yeo"
+      ],
+      "stated_as": "George Yeo"
+    },
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Vivian Balakrishnan"
+      ],
+      "stated_as": "Vivian Balakrishnan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Home Affairs (Singapore)"
+      ],
+      "stated_as": "Minister for Home Affairs"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Teo Chee Hean"
+      ],
+      "stated_as": "Teo Chee Hean"
+    }
+  }
+]
