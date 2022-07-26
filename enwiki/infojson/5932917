@@ -1,0 +1,198 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tanjong Pagar Group Representation Constituency"
+      ],
+      "stated_as": "Tanjong Pagar GRC\n(Tanglin–Cairnhill)"
+    },
+    "P580": "2001-11-04",
+    "P582": "2015-09-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Education"
+    },
+    "P580": "2012-11-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Janil Puthucheary"
+      ],
+      "stated_as": "Janil Puthucheary (2017)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Law (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Law"
+    },
+    "P580": "2012-11-01",
+    "P1365": {
+      "links": [
+        "Ho Peng Kee"
+      ],
+      "stated_as": "Ho Peng Kee"
+    },
+    "P582": "2018-04-30",
+    "P1366": {
+      "links": [
+        "Edwin Tong"
+      ],
+      "stated_as": "Edwin Tong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tanjong Pagar Group Representation Constituency"
+      ],
+      "stated_as": "Tanjong Pagar GRC\n(Tanjong Pagar–Tiong Bahru)"
+    },
+    "P580": "2015-03-23",
+    "P1365": {
+      "links": [
+        "Lee Kuan Yew"
+      ],
+      "stated_as": "Lee Kuan Yew"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Finance"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Josephine Teo"
+      ],
+      "stated_as": "Josephine Teo"
+    },
+    "P582": "2018-04-30",
+    "P1366": {
+      "links": [
+        "Chee Hong Tat"
+      ],
+      "stated_as": "Chee Hong Tat (2022)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister in the Prime Minister's Office"
+    },
+    "P580": "2018-05-01",
+    "P1365": {
+      "links": [
+        "Chan Chun Sing",
+        "Josephine Teo"
+      ],
+      "stated_as": "Chan Chun Sing\n(2015–2018)\nJosephine Teo\n(2017–2018)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Singapore)"
+      ],
+      "stated_as": "Second Minister for Education"
+    },
+    "P580": "2018-05-01",
+    "P1365": {
+      "links": [
+        "Ng Eng Hen"
+      ],
+      "stated_as": "Ng Eng Hen (2005)"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Maliki Osman"
+      ],
+      "stated_as": "Maliki Osman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Singapore)"
+      ],
+      "stated_as": "Second Minister for Finance"
+    },
+    "P580": "2018-05-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Law (Singapore)"
+      ],
+      "stated_as": "Second Minister for Law"
+    },
+    "P580": "2018-05-01",
+    "P582": "2018-06-30",
+    "P1366": {
+      "links": [
+        "Edwin Tong"
+      ],
+      "stated_as": "Edwin Tong (2020)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Second Minister for National Development"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Desmond Lee (Singaporean politician)"
+      ],
+      "stated_as": "Desmond Lee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Singapore)"
+      ],
+      "stated_as": "Leader of the House"
+    },
+    "P580": "2020-08-24",
+    "P1365": {
+      "links": [
+        "Grace Fu"
+      ],
+      "stated_as": "Grace Fu"
+    }
+  }
+]

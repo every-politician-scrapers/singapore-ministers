@@ -1,0 +1,147 @@
+[
+  {
+    "office": {
+      "links": [
+        "West Coast GRC"
+      ],
+      "stated_as": "Member of Parliament\nfor West Coast GRC\n(Pasir Panjang)"
+    },
+    "P580": "1997-01-02",
+    "P582": "2001-10-18"
+  },
+  {
+    "office": {
+      "links": [
+        "West Coast GRC"
+      ],
+      "stated_as": "Member of Parliament\nfor West Coast GRC\n(West Coast)"
+    },
+    "P580": "2001-11-03",
+    "P1365": {
+      "links": [
+        "Wan Soon Bee"
+      ],
+      "stated_as": "Wan Soon Bee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister in the Prime Minister's Office"
+    },
+    "P580": "2011-05-21",
+    "P1365": {
+      "links": [
+        "Lim Hwee Hua"
+      ],
+      "stated_as": "Lim Hwee Hua"
+    },
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Desmond Lee (Singaporean politician)",
+        "Josephine Teo"
+      ],
+      "stated_as": "Desmond Lee (Singaporean politician) (2017) Josephine Teo (2017)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Home Affairs (Singapore)"
+      ],
+      "stated_as": "Second Minister for Home Affairs"
+    },
+    "P580": "2011-05-21",
+    "P1365": {
+      "links": [
+        "K. Shanmugam"
+      ],
+      "stated_as": "K. Shanmugam (2010)"
+    },
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Desmond Lee (Singaporean politician)"
+      ],
+      "stated_as": "Desmond Lee (Singaporean politician) (2017)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Trade and Industry (Singapore)"
+      ],
+      "stated_as": "Second Minister for Trade and Industry"
+    },
+    "P580": "2011-05-21",
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Tan See Leng"
+      ],
+      "stated_as": "Tan See Leng (2020)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[Minister for Trade and Industry (Singapore)|Minister for Trade and Industry\n(Industry)]]"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Lim Hng Kiang"
+      ],
+      "stated_as": "Lim Hng Kiang"
+    },
+    "P582": "2018-04-30",
+    "P1366": {
+      "links": [
+        "Chan Chun Sing"
+      ],
+      "stated_as": "Chan Chun Sing"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Communications and Information"
+      ],
+      "stated_as": "Minister for Communications and Information"
+    },
+    "P580": "2018-05-01",
+    "P1365": {
+      "links": [
+        "Yaacob Ibrahim"
+      ],
+      "stated_as": "Yaacob Ibrahim"
+    },
+    "P582": "2021-05-14",
+    "P1366": {
+      "links": [
+        "Josephine Teo"
+      ],
+      "stated_as": "Josephine Teo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Transport (Singapore)"
+      ],
+      "stated_as": "Minister for Transport"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+        "Ong Ye Kung"
+      ],
+      "stated_as": "Ong Ye Kung"
+    }
+  }
+]

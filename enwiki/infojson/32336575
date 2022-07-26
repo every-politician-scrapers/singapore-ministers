@@ -1,0 +1,174 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "West Coast GRC"
+      ],
+      "stated_as": "West Coast GRC\n(Boon Lay)"
+    },
+    "P580": "2011-05-07",
+    "P1365": {
+      "links": [
+        "Ho Geok Choo"
+      ],
+      "stated_as": "Ho Geok Choo"
+    },
+    "P582": "2015-08-24",
+    "P1366": {
+      "links": [
+        "Patrick Tay"
+      ],
+      "stated_as": "Patrick Tay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Culture, Community and Youth"
+      ],
+      "stated_as": "Minister for Culture, Community and Youth"
+    },
+    "P580": "2012-11-01",
+    "P1365": {
+      "links": [
+        "Chan Chun Sing"
+      ],
+      "stated_as": "Chan Chun Sing (as Acting Minister of Community Development, Youth and Sports)"
+    },
+    "P582": "2015-09-30",
+    "P1366": {
+      "links": [
+        "Grace Fu"
+      ],
+      "stated_as": "Grace Fu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Communications and Information"
+      ],
+      "stated_as": "Second Minister for Communications and Information"
+    },
+    "P580": "2014-05-01",
+    "P582": "2015-09-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Marsiling–Yew Tee GRC"
+      ],
+      "stated_as": "Marsiling–Yew Tee GRC\n(Limbang)"
+    },
+    "P580": "2015-09-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Minister for National Development"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Khaw Boon Wan"
+      ],
+      "stated_as": "Khaw Boon Wan"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Desmond Lee (Singaporean politician)"
+      ],
+      "stated_as": "Desmond Lee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Singapore)"
+      ],
+      "stated_as": "Second Minister for Finance"
+    },
+    "P580": "2016-08-22",
+    "P1365": {
+      "links": [
+        "Lim Hwee Hua"
+      ],
+      "stated_as": "Lim Hwee Hua (2011)"
+    },
+    "P582": "2021-05-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education (Singapore)"
+      ],
+      "stated_as": "Minister for Education"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Ong Ye Kung"
+      ],
+      "stated_as": "Ong Ye Kung"
+    },
+    "P582": "2021-05-14",
+    "P1366": {
+      "links": [
+        "Chan Chun Sing"
+      ],
+      "stated_as": "Chan Chun Sing"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Singapore)"
+      ],
+      "stated_as": "Minister for Finance"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+        "Heng Swee Keat"
+      ],
+      "stated_as": "Heng Swee Keat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Singapore"
+      ],
+      "stated_as": "Deputy Prime Minister of Singapore"
+    },
+    "P580": "2022-06-13",
+    "P1365": {
+      "links": [
+        "Tharman Shanmugaratnam",
+        "Teo Chee Hean"
+      ],
+      "stated_as": "Tharman Shanmugaratnam\nTeo Chee Hean"
+    }
+  }
+]

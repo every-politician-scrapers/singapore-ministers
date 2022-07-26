@@ -1,0 +1,226 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Jurong Group Representation Constituency"
+      ],
+      "stated_as": "Jurong GRC\n(Jurong Spring)"
+    },
+    "P580": "2011-05-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2020-06-23",
+    "P1366": {
+      "links": [
+        "Shawn Huang Wei Zhong"
+      ],
+      "stated_as": "Shawn Huang Wei Zhong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Minister of State for National Development"
+    },
+    "P580": "2013-09-01",
+    "P582": "2015-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (Singapore)"
+      ],
+      "stated_as": "Deputy Leader of the House"
+    },
+    "P580": "2015-10-01",
+    "P1365": {
+      "links": [
+        "Heng Chee How"
+      ],
+      "stated_as": "Heng Chee How"
+    },
+    "P582": "2020-06-23",
+    "P1366": {
+      "links": [
+        "Zaqy Mohamad"
+      ],
+      "stated_as": "Zaqy Mohamad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Home Affairs (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for Home Affairs"
+    },
+    "P580": "2015-10-01",
+    "P582": "2017-04-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Senior Minister of State for National Development"
+    },
+    "P580": "2015-10-01",
+    "P582": "2017-04-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister in the Prime Minister's Office"
+    },
+    "P580": "2017-05-01",
+    "P1365": {
+      "links": [
+        "Grace Fu",
+        "S. Iswaran",
+        "Masagos Zulkifli",
+        "Lim Swee Say"
+      ],
+      "stated_as": "Grace Fu S. Iswaran Masagos Zulkifli Lim Swee Say"
+    },
+    "P582": "2017-09-10",
+    "P1366": {
+      "links": [
+        "Indranee Rajah",
+        "Ng Chee Meng"
+      ],
+      "stated_as": "Indranee Rajah (2018) Ng Chee Meng (2018)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Home Affairs (Singapore)"
+      ],
+      "stated_as": "Second Minister for Home Affairs"
+    },
+    "P580": "2017-05-01",
+    "P1365": {
+      "links": [
+        "S. Iswaran",
+        "Masagos Zulkifli"
+      ],
+      "stated_as": "S. Iswaran (2015)\nMasagos Zulkifli (2015)"
+    },
+    "P582": "2017-09-10",
+    "P1366": {
+      "links": [
+        "Josephine Teo"
+      ],
+      "stated_as": "Josephine Teo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Second Minister for National Development"
+    },
+    "P580": "2017-05-01",
+    "P1365": {
+      "links": [
+        "Lim Swee Say"
+      ],
+      "stated_as": "Lim Swee Say (2006)"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Indranee Rajah"
+      ],
+      "stated_as": "Indranee Rajah"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social and Family Development"
+      ],
+      "stated_as": "Minister for Social and Family Development"
+    },
+    "P580": "2017-09-11",
+    "P1365": {
+      "links": [
+        "Tan Chuan-Jin"
+      ],
+      "stated_as": "Tan Chuan-Jin"
+    },
+    "P582": "2020-07-26",
+    "P1366": {
+      "links": [
+        "Masagos Zulkifli"
+      ],
+      "stated_as": "Masagos Zulkifli"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "West Coast Group Representation Constituency"
+      ],
+      "stated_as": "West Coast GRC\n(Boon Lay)"
+    },
+    "P580": "2020-07-10",
+    "P1365": {
+      "links": [
+        "Patrick Tay"
+      ],
+      "stated_as": "Patrick Tay"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Development (Singapore)"
+      ],
+      "stated_as": "Minister for National Development"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Lawrence Wong"
+      ],
+      "stated_as": "Lawrence Wong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Social and Family Development"
+      ],
+      "stated_as": "Minister-in-charge of Social Services Integration"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

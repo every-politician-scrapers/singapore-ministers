@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Marine Parade Group Representation Constituency"
+      ],
+      "stated_as": "Marine Parade GRC\n(Marine Parade)"
+    },
+    "P580": "2020-07-10",
+    "P1365": {
+      "links": [
+        "Goh Chok Tong",
+        "People's Action Party"
+      ],
+      "stated_as": "Goh Chok Tong (PAP)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister's Office (Singapore)"
+      ],
+      "stated_as": "Minister in the Prime Minister's Office"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Ng Chee Meng"
+      ],
+      "stated_as": "Ng Chee Meng"
+    },
+    "P582": "2021-05-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Manpower (Singapore)"
+      ],
+      "stated_as": "Second Minister for Manpower"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "Josephine Teo"
+      ],
+      "stated_as": "Josephine Teo (2018)"
+    },
+    "P582": "2021-05-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Trade and Industry (Singapore)"
+      ],
+      "stated_as": "Second Minister for Trade and Industry"
+    },
+    "P580": "2020-07-27",
+    "P1365": {
+      "links": [
+        "S. Iswaran"
+      ],
+      "stated_as": "S. Iswaran (2015)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Manpower (Singapore)"
+      ],
+      "stated_as": "Minister for Manpower"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+        "Josephine Teo"
+      ],
+      "stated_as": "Josephine Teo"
+    }
+  }
+]

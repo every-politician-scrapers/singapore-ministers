@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Singapore Army"
+      ],
+      "stated_as": "Chief of Army"
+    },
+    "P580": "2015-08-14",
+    "P1365": {
+      "links": [
+        "Perry Lim"
+      ],
+      "stated_as": "Perry Lim"
+    },
+    "P582": "2018-03-21",
+    "P1366": {
+      "links": [
+        "Goh Si Hou"
+      ],
+      "stated_as": "Goh Si Hou"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of Defence Force (Singapore)"
+      ],
+      "stated_as": "Chief of Defence Force"
+    },
+    "P580": "2018-03-23",
+    "P1365": {
+      "links": [
+        "Perry Lim"
+      ],
+      "stated_as": "Perry Lim"
+    }
+  }
+]

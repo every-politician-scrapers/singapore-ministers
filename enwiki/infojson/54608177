@@ -1,0 +1,28 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Attorney-General of Singapore"
+      ],
+      "stated_as": "Deputy Attorney-General of Singapore"
+    },
+    "P580": "2016-12-19",
+    "P582": "2017-01-13"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Attorney-General of Singapore"
+    },
+    "P1545": "9",
+    "P580": "2017-01-14",
+    "P1365": {
+      "links": [
+        "V. K. Rajah"
+      ],
+      "stated_as": "V. K. Rajah"
+    }
+  }
+]

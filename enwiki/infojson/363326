@@ -1,0 +1,145 @@
+[
+  {
+    "office": {
+      "links": [
+        "Teck Ghee Single Member Constituency"
+      ],
+      "stated_as": "Member of Parliament\nfor Teck Ghee SMC"
+    },
+    "P580": "1984-12-22",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    },
+    "P582": "1991-08-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Trade and Industry (Singapore)"
+      ],
+      "stated_as": "Minister for Trade and Industry"
+    },
+    "P580": "1987-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Tony Tan"
+    },
+    "P582": "1992-12-06",
+    "P1366": {
+      "links": [
+        "S. Dhanabalan"
+      ],
+      "stated_as": "S. Dhanabalan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Defence (Singapore)"
+      ],
+      "stated_as": "Second Minister for Defence (Services)"
+    },
+    "P580": "1987-01-01",
+    "P582": "1990-11-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Singapore"
+      ],
+      "stated_as": "Deputy Prime Minister of Singapore"
+    },
+    "P580": "1990-11-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Goh Chok Tong"
+    },
+    "P582": "2004-08-12",
+    "P1366": {
+      "links": [
+        "S. Jayakumar"
+      ],
+      "stated_as": "S. Jayakumar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ang Mo Kio Group Representation Constituency"
+      ],
+      "stated_as": "Member of Parliament\nfor Ang Mo Kio GRC\n(Teck Ghee)"
+    },
+    "P580": "1991-08-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Finance (Singapore)"
+      ],
+      "stated_as": "Minister for Finance"
+    },
+    "P580": "2001-11-10",
+    "P1365": {
+      "links": [
+        "Richard Hu"
+      ],
+      "stated_as": "Richard Hu"
+    },
+    "P582": "2007-12-01",
+    "P1366": {
+      "links": [
+        "Tharman Shanmugaratnam"
+      ],
+      "stated_as": "Tharman Shanmugaratnam"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of Singapore"
+    },
+    "P580": "2004-08-12",
+    "P1365": {
+      "links": [
+        "Goh Chok Tong"
+      ],
+      "stated_as": "Goh Chok Tong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "People's Action Party"
+      ],
+      "stated_as": "Secretary-General of the\nPeople's Action Party"
+    },
+    "P580": "2004-11-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Goh Chok Tong"
+    }
+  }
+]

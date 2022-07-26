@@ -1,0 +1,62 @@
+[
+  {
+    "office": {
+      "links": [
+        "Judicial Commissioner"
+      ],
+      "stated_as": "Judicial Commissioner of Singapore"
+    },
+    "P580": "2006-04-03",
+    "P582": "2007-04-02"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Attorney-General of Singapore"
+    },
+    "P1545": "6",
+    "P580": "2010-10-01",
+    "P1365": {
+      "links": [
+        "Walter Woon",
+        "Koh Juat Jong"
+      ],
+      "stated_as": "Walter Woon\n\nKoh Juat Jong (acting)"
+    },
+    "P582": "2012-06-25",
+    "P1366": {
+      "links": [
+        "Steven Chong"
+      ],
+      "stated_as": "Steven Chong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Supreme Court of Singapore"
+      ],
+      "stated_as": "Judge of Appeal of the Supreme Court of Singapore"
+    },
+    "P580": "2012-08-01",
+    "P582": "2012-11-05"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of Singapore"
+    },
+    "P1545": "4",
+    "P580": "2012-11-06",
+    "P1365": {
+      "links": [
+        "Chan Sek Keong"
+      ],
+      "stated_as": "Chan Sek Keong"
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Jurong Group Representation Constituency"
+      ],
+      "stated_as": "Jurong GRC\n(Bukit Batok East)"
+    },
+    "P580": "2001-11-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency established"
+    },
+    "P582": "2015-08-24",
+    "P1366": {
+      "links": [
+        "Rahayu Mahzam"
+      ],
+      "stated_as": "Rahayu Mahzam"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Speaker of the Parliament of Singapore"
+    },
+    "P1545": "9",
+    "P580": "2013-01-14",
+    "P1365": {
+      "links": [
+        "Michael Palmer (politician)"
+      ],
+      "stated_as": "Michael Palmer"
+    },
+    "P582": "2017-08-07",
+    "P1366": {
+      "links": [
+        "Tan Chuan-Jin"
+      ],
+      "stated_as": "Tan Chuan-Jin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Marsiling–Yew Tee Group Representation Constituency"
+      ],
+      "stated_as": "Marsiling–Yew Tee GRC\n(Marsiling)"
+    },
+    "P580": "2015-09-11",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hawazi bin Daipi"
+    },
+    "P582": "2017-08-07",
+    "P1366": {
+      "links": [
+        "Zaqy Mohamad"
+      ],
+      "stated_as": "Zaqy Mohamad"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Singapore"
+    },
+    "P1545": "8",
+    "P580": "2017-09-14",
+    "P1365": {
+      "links": [
+        "Tony Tan"
+      ],
+      "stated_as": "Tony Tan"
+    }
+  }
+]
