@@ -501,11 +501,15 @@
             ]
           },
           "alma_mater": {
-            "text": "National University of Singapore",
+            "text": "National University of Singapore (MBBS)",
             "links": [
               {
                 "type": "internal",
                 "page": "National University of Singapore"
+              },
+              {
+                "type": "internal",
+                "page": "MBBS"
               }
             ]
           },

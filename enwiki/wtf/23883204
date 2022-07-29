@@ -93,7 +93,7 @@
         {
           "sentences": [
             {
-              "text": "A lawyer by profession, Shanmugam had made a name for himself in litigation, arbitration and insolvency cases before he entered politics.",
+              "text": "A lawyer by profession, Shanmugam made a name for himself in litigation, arbitration and insolvency cases before he entered politics.",
               "links": [
                 {
                   "text": "litigation",
@@ -164,12 +164,7 @@
                   "type": "internal",
                   "page": "Assistant Secretary of State for East Asian and Pacific Affairs"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "\"The quality of his mind is impressive. In meetings with him, he has legal framing, approaches problems in a deeply systemic way, is unsentimental about the world, clear-eyed and very strategic... He can be hard-headed about what is best for Singapore, but he is always upfront and clear.\""
-                ]
-              }
+              ]
             }
           ]
         }
@@ -530,11 +525,15 @@
             ]
           },
           "alma_mater": {
-            "text": "National University of Singapore",
+            "text": "National University of Singapore (LLB)",
             "links": [
               {
                 "type": "internal",
                 "page": "National University of Singapore"
+              },
+              {
+                "type": "internal",
+                "page": "LLB"
               }
             ]
           }

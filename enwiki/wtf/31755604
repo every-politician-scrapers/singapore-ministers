@@ -535,21 +535,16 @@
             ]
           },
           "alma_mater": {
-            "text": "Christ's College, Cambridge (BA, MA) \nHarvard University (MPA)",
+            "text": "Christ's College, Cambridge (MA) \nHarvard University (MPA)",
             "links": [
               {
                 "type": "internal",
                 "page": "Christ's College, Cambridge"
               },
               {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
                 "text": "MA",
                 "type": "internal",
-                "page": "Master of Arts"
+                "page": "Master of Arts (Oxford, Cambridge, and Dublin)"
               },
               {
                 "type": "internal",

@@ -535,7 +535,7 @@
             ]
           },
           "alma_mater": {
-            "text": "University of Adelaide\nHarvard University",
+            "text": "University of Adelaide\nHarvard University (MPA)",
             "links": [
               {
                 "type": "internal",
@@ -544,6 +544,10 @@
               {
                 "type": "internal",
                 "page": "Harvard University"
+              },
+              {
+                "type": "internal",
+                "page": "MPA"
               }
             ]
           }

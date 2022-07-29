@@ -30,8 +30,13 @@
         {
           "sentences": [
             {
-              "text": "Vivian Balakrishnan (விவியன் பாலகிருஷ்ணன்; born 1961) is a Singaporean politician who has been serving as Minister for Foreign Affairs since 2015.",
+              "text": "Vivian Balakrishnan (விவியன் பாலகிருஷ்ணன்; born 1961) is a Singaporean politician and ophthamologist who serving as the Minister for Foreign Affairs since 2015.",
               "links": [
+                {
+                  "text": "ophthamologist",
+                  "type": "internal",
+                  "page": "Ophthalmology"
+                },
                 {
                   "text": "Minister for Foreign Affairs",
                   "type": "internal",
@@ -580,21 +585,21 @@
             "number": 4
           },
           "education": {
-            "text": "Anglo-Chinese School",
+            "text": "Anglo-Chinese School\nNational Junior College",
             "links": [
               {
                 "type": "internal",
                 "page": "Anglo-Chinese School"
+              },
+              {
+                "type": "internal",
+                "page": "National Junior College"
               }
             ]
           },
           "alma_mater": {
-            "text": "National Junior College\nNational University of Singapore (MBBS)",
+            "text": "National University of Singapore (MBBS)",
             "links": [
-              {
-                "type": "internal",
-                "page": "National Junior College"
-              },
               {
                 "type": "internal",
                 "page": "National University of Singapore"

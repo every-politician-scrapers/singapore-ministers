@@ -261,15 +261,24 @@
             ]
           },
           "alma_mater": {
-            "text": "Christ's College, Cambridge\nMIT Sloan School of Management\nUS Army Command and General Staff College",
+            "text": "Christ's College, Cambridge (MA)\nMIT Sloan School of Management (MBA)\nUS Army Command and General Staff College",
             "links": [
               {
                 "type": "internal",
                 "page": "Christ's College, Cambridge"
               },
               {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts (Oxford, Cambridge, and Dublin)"
+              },
+              {
                 "type": "internal",
                 "page": "MIT Sloan School of Management"
+              },
+              {
+                "type": "internal",
+                "page": "MBA"
               },
               {
                 "type": "internal",
@@ -811,7 +820,7 @@
         {
           "sentences": [
             {
-              "text": "Chan attended Raffles Institution and Raffles Junior College before graduating from the Christ's College at the University of Oxford with a degree with first class honours in economics.",
+              "text": "Chan attended Raffles Institution and Raffles Junior College.",
               "links": [
                 {
                   "type": "internal",
@@ -820,27 +829,9 @@
                 {
                   "type": "internal",
                   "page": "Raffles Junior College"
-                },
-                {
-                  "text": "Christ's College",
-                  "type": "internal",
-                  "page": "Christ's College, Cambridge"
-                },
-                {
-                  "type": "internal",
-                  "page": "University of Oxford"
-                },
-                {
-                  "text": "economics",
-                  "type": "internal",
-                  "page": "economics"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Being one of the four top scorers from Raffles Junior College in the GCE A Level examination in 1987, Chan was awarded the President's Scholarship and Singapore Armed Forces Overseas Scholarship in 1988.",
               "links": [
@@ -857,6 +848,20 @@
                 {
                   "type": "internal",
                   "page": "Singapore Armed Forces Overseas Scholarship"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from Christ's College, Cambridge with a first class degree in economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Christ's College, Cambridge"
+                },
+                {
+                  "text": "economics",
+                  "type": "internal",
+                  "page": "economics"
                 }
               ]
             }
